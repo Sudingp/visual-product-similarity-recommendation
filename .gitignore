@@ -1,0 +1,24 @@
+# Large dataset archives (>100MB exceeds GitHub limits)
+*.zip
+Stanford_Online_Products.zip
+images-*.zip
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter & IDE configs
+.ipynb_checkpoints
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db

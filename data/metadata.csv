@@ -1,0 +1,1801 @@
+image_id,class_id,super_class_id,category,title,price_usd,rating,review_count,local_image_path
+2863,393,1,Bicycle,Minimalist Bicycle (SKU-00393),462.17,4.8,121,data/images/bicycle_2863.jpg
+5369,756,1,Bicycle,Compact Bicycle (SKU-00756),745.77,4.5,136,data/images/bicycle_5369.jpg
+2307,331,1,Bicycle,Modern Bicycle (SKU-00331),309.19,3.9,102,data/images/bicycle_2307.jpg
+34,6,1,Bicycle,Compact Bicycle (SKU-00006),433.59,4.0,145,data/images/bicycle_34.jpg
+5220,735,1,Bicycle,Vintage Bicycle (SKU-00735),214.4,4.9,506,data/images/bicycle_5220.jpg
+3429,473,1,Bicycle,Minimalist Bicycle (SKU-00473),856.98,3.8,291,data/images/bicycle_3429.jpg
+7231,1020,1,Bicycle,Classic Bicycle (SKU-01020),632.23,4.5,267,data/images/bicycle_7231.jpg
+5738,821,1,Bicycle,Modern Bicycle (SKU-00821),502.35,4.1,73,data/images/bicycle_5738.jpg
+3949,543,1,Bicycle,Minimalist Bicycle (SKU-00543),479.89,3.9,714,data/images/bicycle_3949.jpg
+3129,428,1,Bicycle,Commercial Grade Bicycle (SKU-00428),456.44,4.3,701,data/images/bicycle_3129.jpg
+6930,979,1,Bicycle,Pro Bicycle (SKU-00979),632.86,4.2,258,data/images/bicycle_6930.jpg
+3617,498,1,Bicycle,Commercial Grade Bicycle (SKU-00498),614.68,3.9,833,data/images/bicycle_3617.jpg
+7668,1073,1,Bicycle,Minimalist Bicycle (SKU-01073),676.21,4.3,288,data/images/bicycle_7668.jpg
+3881,531,1,Bicycle,Modern Bicycle (SKU-00531),864.21,4.9,256,data/images/bicycle_3881.jpg
+222,41,1,Bicycle,Modern Bicycle (SKU-00041),469.78,3.8,354,data/images/bicycle_222.jpg
+8098,1127,1,Bicycle,Deluxe Bicycle (SKU-01127),368.71,4.6,442,data/images/bicycle_8098.jpg
+2303,330,1,Bicycle,Classic Bicycle (SKU-00330),546.61,3.8,220,data/images/bicycle_2303.jpg
+8250,1143,1,Bicycle,Minimalist Bicycle (SKU-01143),473.73,4.0,402,data/images/bicycle_8250.jpg
+6407,912,1,Bicycle,Ergonomic Bicycle (SKU-00912),418.19,4.4,120,data/images/bicycle_6407.jpg
+4049,554,1,Bicycle,Premium Bicycle (SKU-00554),597.38,3.8,416,data/images/bicycle_4049.jpg
+3405,469,1,Bicycle,Pro Bicycle (SKU-00469),742.58,4.8,284,data/images/bicycle_3405.jpg
+5818,829,1,Bicycle,Pro Bicycle (SKU-00829),709.08,4.2,476,data/images/bicycle_5818.jpg
+707,120,1,Bicycle,Classic Bicycle (SKU-00120),337.18,3.8,310,data/images/bicycle_707.jpg
+2089,305,1,Bicycle,Vintage Bicycle (SKU-00305),791.16,4.6,67,data/images/bicycle_2089.jpg
+7862,1096,1,Bicycle,Compact Bicycle (SKU-01096),610.72,4.9,202,data/images/bicycle_7862.jpg
+6130,871,1,Bicycle,Modern Bicycle (SKU-00871),579.88,4.0,29,data/images/bicycle_6130.jpg
+3410,470,1,Bicycle,Classic Bicycle (SKU-00470),315.68,3.8,535,data/images/bicycle_3410.jpg
+7087,1004,1,Bicycle,Premium Bicycle (SKU-01004),740.56,4.0,486,data/images/bicycle_7087.jpg
+4984,689,1,Bicycle,Pro Bicycle (SKU-00689),209.85,4.0,406,data/images/bicycle_4984.jpg
+4095,563,1,Bicycle,Minimalist Bicycle (SKU-00563),710.3,4.6,787,data/images/bicycle_4095.jpg
+3329,458,1,Bicycle,Commercial Grade Bicycle (SKU-00458),848.4,4.5,42,data/images/bicycle_3329.jpg
+7318,1036,1,Bicycle,Compact Bicycle (SKU-01036),804.16,4.5,47,data/images/bicycle_7318.jpg
+1609,236,1,Bicycle,Compact Bicycle (SKU-00236),244.48,4.1,742,data/images/bicycle_1609.jpg
+458,74,1,Bicycle,Premium Bicycle (SKU-00074),666.14,4.5,740,data/images/bicycle_458.jpg
+7936,1104,1,Bicycle,Premium Bicycle (SKU-01104),821.04,4.3,627,data/images/bicycle_7936.jpg
+1431,213,1,Bicycle,Minimalist Bicycle (SKU-00213),880.19,4.7,19,data/images/bicycle_1431.jpg
+4656,643,1,Bicycle,Minimalist Bicycle (SKU-00643),592.88,4.6,809,data/images/bicycle_4656.jpg
+7928,1103,1,Bicycle,Minimalist Bicycle (SKU-01103),565.9,4.3,568,data/images/bicycle_7928.jpg
+1243,191,1,Bicycle,Modern Bicycle (SKU-00191),507.53,4.0,757,data/images/bicycle_1243.jpg
+6238,893,1,Bicycle,Minimalist Bicycle (SKU-00893),532.75,4.4,748,data/images/bicycle_6238.jpg
+2550,358,1,Bicycle,Commercial Grade Bicycle (SKU-00358),297.52,4.5,669,data/images/bicycle_2550.jpg
+3396,468,1,Bicycle,Commercial Grade Bicycle (SKU-00468),728.88,4.1,174,data/images/bicycle_3396.jpg
+4991,690,1,Bicycle,Classic Bicycle (SKU-00690),619.2,4.6,810,data/images/bicycle_4991.jpg
+2961,405,1,Bicycle,Vintage Bicycle (SKU-00405),850.78,4.7,660,data/images/bicycle_2961.jpg
+3904,535,1,Bicycle,Vintage Bicycle (SKU-00535),519.56,4.0,354,data/images/bicycle_3904.jpg
+7166,1013,1,Bicycle,Minimalist Bicycle (SKU-01013),824.78,4.4,520,data/images/bicycle_7166.jpg
+7149,1011,1,Bicycle,Modern Bicycle (SKU-01011),285.45,4.2,204,data/images/bicycle_7149.jpg
+1202,186,1,Bicycle,Compact Bicycle (SKU-00186),277.03,4.1,647,data/images/bicycle_1202.jpg
+5867,841,1,Bicycle,Modern Bicycle (SKU-00841),772.6,4.7,373,data/images/bicycle_5867.jpg
+4457,617,1,Bicycle,Deluxe Bicycle (SKU-00617),315.25,4.4,332,data/images/bicycle_4457.jpg
+454,74,1,Bicycle,Premium Bicycle (SKU-00074),355.47,3.9,698,data/images/bicycle_454.jpg
+2448,347,1,Bicycle,Deluxe Bicycle (SKU-00347),370.88,4.0,686,data/images/bicycle_2448.jpg
+7547,1059,1,Bicycle,Pro Bicycle (SKU-01059),563.14,4.6,127,data/images/bicycle_7547.jpg
+6990,986,1,Bicycle,Compact Bicycle (SKU-00986),245.41,4.1,282,data/images/bicycle_6990.jpg
+4351,605,1,Bicycle,Vintage Bicycle (SKU-00605),376.24,4.3,127,data/images/bicycle_4351.jpg
+2689,374,1,Bicycle,Premium Bicycle (SKU-00374),303.65,4.9,713,data/images/bicycle_2689.jpg
+2581,363,1,Bicycle,Minimalist Bicycle (SKU-00363),626.69,4.4,580,data/images/bicycle_2581.jpg
+4272,593,1,Bicycle,Minimalist Bicycle (SKU-00593),223.13,4.2,399,data/images/bicycle_4272.jpg
+2477,350,1,Bicycle,Classic Bicycle (SKU-00350),367.68,4.0,698,data/images/bicycle_2477.jpg
+2226,322,1,Bicycle,Ergonomic Bicycle (SKU-00322),513.44,4.4,261,data/images/bicycle_2226.jpg
+5242,739,1,Bicycle,Pro Bicycle (SKU-00739),670.48,4.6,137,data/images/bicycle_5242.jpg
+4741,657,1,Bicycle,Deluxe Bicycle (SKU-00657),369.5,4.7,624,data/images/bicycle_4741.jpg
+2281,328,1,Bicycle,Commercial Grade Bicycle (SKU-00328),643.46,4.4,766,data/images/bicycle_2281.jpg
+5319,749,1,Bicycle,Pro Bicycle (SKU-00749),758.83,4.0,201,data/images/bicycle_5319.jpg
+5434,765,1,Bicycle,Vintage Bicycle (SKU-00765),330.55,3.8,674,data/images/bicycle_5434.jpg
+1181,183,1,Bicycle,Minimalist Bicycle (SKU-00183),428.16,4.0,360,data/images/bicycle_1181.jpg
+3769,517,1,Bicycle,Deluxe Bicycle (SKU-00517),558.46,4.0,725,data/images/bicycle_3769.jpg
+3170,431,1,Bicycle,Modern Bicycle (SKU-00431),322.05,4.6,654,data/images/bicycle_3170.jpg
+4398,611,1,Bicycle,Modern Bicycle (SKU-00611),562.42,4.7,793,data/images/bicycle_4398.jpg
+2247,325,1,Bicycle,Vintage Bicycle (SKU-00325),438.74,3.9,165,data/images/bicycle_2247.jpg
+462,75,1,Bicycle,Vintage Bicycle (SKU-00075),579.0,4.6,277,data/images/bicycle_462.jpg
+4383,609,1,Bicycle,Pro Bicycle (SKU-00609),661.98,4.7,586,data/images/bicycle_4383.jpg
+4218,584,1,Bicycle,Premium Bicycle (SKU-00584),382.57,4.9,268,data/images/bicycle_4218.jpg
+4355,606,1,Bicycle,Compact Bicycle (SKU-00606),828.04,4.8,23,data/images/bicycle_4355.jpg
+6856,969,1,Bicycle,Pro Bicycle (SKU-00969),395.2,4.6,222,data/images/bicycle_6856.jpg
+488,78,1,Bicycle,Commercial Grade Bicycle (SKU-00078),827.97,4.8,134,data/images/bicycle_488.jpg
+697,119,1,Bicycle,Pro Bicycle (SKU-00119),821.43,4.7,639,data/images/bicycle_697.jpg
+1324,203,1,Bicycle,Minimalist Bicycle (SKU-00203),313.13,4.8,268,data/images/bicycle_1324.jpg
+6121,871,1,Bicycle,Modern Bicycle (SKU-00871),206.43,3.9,113,data/images/bicycle_6121.jpg
+1329,204,1,Bicycle,Premium Bicycle (SKU-00204),881.55,4.1,352,data/images/bicycle_1329.jpg
+5799,826,1,Bicycle,Compact Bicycle (SKU-00826),539.92,4.3,695,data/images/bicycle_5799.jpg
+7007,988,1,Bicycle,Commercial Grade Bicycle (SKU-00988),323.14,3.8,412,data/images/bicycle_7007.jpg
+731,123,1,Bicycle,Minimalist Bicycle (SKU-00123),427.77,4.6,406,data/images/bicycle_731.jpg
+1727,248,1,Bicycle,Commercial Grade Bicycle (SKU-00248),794.45,4.5,47,data/images/bicycle_1727.jpg
+1408,210,1,Bicycle,Classic Bicycle (SKU-00210),579.77,4.4,484,data/images/bicycle_1408.jpg
+4148,571,1,Bicycle,Modern Bicycle (SKU-00571),385.63,4.1,52,data/images/bicycle_4148.jpg
+316,55,1,Bicycle,Vintage Bicycle (SKU-00055),885.22,4.3,790,data/images/bicycle_316.jpg
+2202,319,1,Bicycle,Pro Bicycle (SKU-00319),641.79,4.7,812,data/images/bicycle_2202.jpg
+264,46,1,Bicycle,Compact Bicycle (SKU-00046),651.56,4.5,495,data/images/bicycle_264.jpg
+8264,1144,1,Bicycle,Premium Bicycle (SKU-01144),336.66,4.6,673,data/images/bicycle_8264.jpg
+6068,866,1,Bicycle,Compact Bicycle (SKU-00866),600.39,4.6,526,data/images/bicycle_6068.jpg
+8246,1142,1,Bicycle,Ergonomic Bicycle (SKU-01142),323.97,4.8,491,data/images/bicycle_8246.jpg
+2165,315,1,Bicycle,Vintage Bicycle (SKU-00315),395.68,4.8,759,data/images/bicycle_2165.jpg
+3556,490,1,Bicycle,Classic Bicycle (SKU-00490),867.14,4.2,316,data/images/bicycle_3556.jpg
+8084,1125,1,Bicycle,Vintage Bicycle (SKU-01125),876.65,4.9,130,data/images/bicycle_8084.jpg
+4199,581,1,Bicycle,Modern Bicycle (SKU-00581),406.1,4.2,175,data/images/bicycle_4199.jpg
+5973,857,1,Bicycle,Deluxe Bicycle (SKU-00857),421.84,4.0,807,data/images/bicycle_5973.jpg
+4664,645,1,Bicycle,Vintage Bicycle (SKU-00645),476.27,4.7,337,data/images/bicycle_4664.jpg
+1288,198,1,Bicycle,Commercial Grade Bicycle (SKU-00198),599.03,3.9,302,data/images/bicycle_1288.jpg
+7759,1083,1,Bicycle,Minimalist Bicycle (SKU-01083),669.79,4.2,653,data/images/bicycle_7759.jpg
+626,106,1,Bicycle,Compact Bicycle (SKU-00106),562.82,4.8,799,data/images/bicycle_626.jpg
+319,55,1,Bicycle,Vintage Bicycle (SKU-00055),794.06,4.0,260,data/images/bicycle_319.jpg
+6447,916,1,Bicycle,Compact Bicycle (SKU-00916),451.63,4.1,773,data/images/bicycle_6447.jpg
+5026,694,1,Bicycle,Premium Bicycle (SKU-00694),493.84,4.1,422,data/images/bicycle_5026.jpg
+5007,692,1,Bicycle,Ergonomic Bicycle (SKU-00692),839.26,4.4,839,data/images/bicycle_5007.jpg
+7568,1062,1,Bicycle,Ergonomic Bicycle (SKU-01062),639.52,4.0,790,data/images/bicycle_7568.jpg
+1145,178,1,Bicycle,Commercial Grade Bicycle (SKU-00178),691.37,4.7,485,data/images/bicycle_1145.jpg
+4620,639,1,Bicycle,Pro Bicycle (SKU-00639),219.32,4.4,814,data/images/bicycle_4620.jpg
+2227,322,1,Bicycle,Ergonomic Bicycle (SKU-00322),604.79,3.8,679,data/images/bicycle_2227.jpg
+6106,869,1,Bicycle,Pro Bicycle (SKU-00869),308.52,4.9,164,data/images/bicycle_6106.jpg
+4913,682,1,Bicycle,Ergonomic Bicycle (SKU-00682),613.57,3.8,706,data/images/bicycle_4913.jpg
+4511,626,1,Bicycle,Compact Bicycle (SKU-00626),227.17,4.1,458,data/images/bicycle_4511.jpg
+2911,399,1,Bicycle,Pro Bicycle (SKU-00399),428.65,4.7,586,data/images/bicycle_2911.jpg
+3835,524,1,Bicycle,Premium Bicycle (SKU-00524),351.06,4.5,210,data/images/bicycle_3835.jpg
+4928,683,1,Bicycle,Minimalist Bicycle (SKU-00683),789.41,4.0,364,data/images/bicycle_4928.jpg
+4699,650,1,Bicycle,Classic Bicycle (SKU-00650),578.43,4.5,834,data/images/bicycle_4699.jpg
+6473,922,1,Bicycle,Ergonomic Bicycle (SKU-00922),292.91,4.9,120,data/images/bicycle_6473.jpg
+1567,229,1,Bicycle,Pro Bicycle (SKU-00229),426.06,4.7,845,data/images/bicycle_1567.jpg
+4527,628,1,Bicycle,Commercial Grade Bicycle (SKU-00628),503.45,4.6,360,data/images/bicycle_4527.jpg
+7967,1109,1,Bicycle,Pro Bicycle (SKU-01109),217.74,4.9,805,data/images/bicycle_7967.jpg
+4476,621,1,Bicycle,Modern Bicycle (SKU-00621),499.81,4.6,655,data/images/bicycle_4476.jpg
+6506,926,1,Bicycle,Compact Bicycle (SKU-00926),321.3,4.0,816,data/images/bicycle_6506.jpg
+4772,662,1,Bicycle,Ergonomic Bicycle (SKU-00662),367.84,3.9,615,data/images/bicycle_4772.jpg
+8194,1137,1,Bicycle,Deluxe Bicycle (SKU-01137),662.13,4.1,286,data/images/bicycle_8194.jpg
+909,150,1,Bicycle,Classic Bicycle (SKU-00150),561.68,4.5,595,data/images/bicycle_909.jpg
+6891,975,1,Bicycle,Vintage Bicycle (SKU-00975),628.19,4.3,90,data/images/bicycle_6891.jpg
+8019,1116,1,Bicycle,Compact Bicycle (SKU-01116),596.22,4.0,100,data/images/bicycle_8019.jpg
+7889,1099,1,Bicycle,Pro Bicycle (SKU-01099),210.07,3.9,83,data/images/bicycle_7889.jpg
+5684,813,1,Bicycle,Minimalist Bicycle (SKU-00813),265.9,4.1,467,data/images/bicycle_5684.jpg
+5494,775,1,Bicycle,Vintage Bicycle (SKU-00775),531.91,3.9,446,data/images/bicycle_5494.jpg
+2030,298,1,Bicycle,Commercial Grade Bicycle (SKU-00298),764.83,4.2,268,data/images/bicycle_2030.jpg
+5523,782,1,Bicycle,Ergonomic Bicycle (SKU-00782),503.69,4.2,536,data/images/bicycle_5523.jpg
+3626,499,1,Bicycle,Pro Bicycle (SKU-00499),864.39,4.8,194,data/images/bicycle_3626.jpg
+2174,317,1,Bicycle,Deluxe Bicycle (SKU-00317),462.22,4.5,456,data/images/bicycle_2174.jpg
+5455,768,1,Bicycle,Commercial Grade Bicycle (SKU-00768),550.72,4.4,530,data/images/bicycle_5455.jpg
+7341,1038,1,Bicycle,Commercial Grade Bicycle (SKU-01038),631.09,4.8,272,data/images/bicycle_7341.jpg
+8116,1129,1,Bicycle,Pro Bicycle (SKU-01129),218.55,4.4,489,data/images/bicycle_8116.jpg
+1169,182,1,Bicycle,Ergonomic Bicycle (SKU-00182),760.65,4.5,689,data/images/bicycle_1169.jpg
+6943,981,1,Bicycle,Modern Bicycle (SKU-00981),650.29,4.3,705,data/images/bicycle_6943.jpg
+7664,1073,1,Bicycle,Minimalist Bicycle (SKU-01073),774.44,4.5,591,data/images/bicycle_7664.jpg
+292,52,1,Bicycle,Ergonomic Bicycle (SKU-00052),872.82,4.8,570,data/images/bicycle_292.jpg
+1282,197,1,Bicycle,Deluxe Bicycle (SKU-00197),391.76,4.0,316,data/images/bicycle_1282.jpg
+1863,269,1,Bicycle,Pro Bicycle (SKU-00269),212.75,3.9,49,data/images/bicycle_1863.jpg
+4510,626,1,Bicycle,Compact Bicycle (SKU-00626),435.58,4.5,619,data/images/bicycle_4510.jpg
+4475,620,1,Bicycle,Classic Bicycle (SKU-00620),791.4,3.8,432,data/images/bicycle_4475.jpg
+7429,1047,1,Bicycle,Deluxe Bicycle (SKU-01047),382.48,4.3,840,data/images/bicycle_7429.jpg
+7473,1052,1,Bicycle,Ergonomic Bicycle (SKU-01052),687.71,4.5,427,data/images/bicycle_7473.jpg
+6671,946,1,Bicycle,Compact Bicycle (SKU-00946),227.42,4.3,775,data/images/bicycle_6671.jpg
+1177,183,1,Bicycle,Minimalist Bicycle (SKU-00183),583.57,4.3,206,data/images/bicycle_1177.jpg
+5236,738,1,Bicycle,Commercial Grade Bicycle (SKU-00738),603.14,4.6,562,data/images/bicycle_5236.jpg
+9533,1364,2,Cabinet,Premium Cabinet (SKU-01364),317.4,4.7,678,data/images/cabinet_9533.jpg
+13080,1973,2,Cabinet,Minimalist Cabinet (SKU-01973),540.19,4.4,794,data/images/cabinet_13080.jpg
+10389,1540,2,Cabinet,Classic Cabinet (SKU-01540),343.04,4.6,231,data/images/cabinet_10389.jpg
+15523,2378,2,Cabinet,Commercial Grade Cabinet (SKU-02378),257.2,4.2,76,data/images/cabinet_15523.jpg
+17744,2735,2,Cabinet,Vintage Cabinet (SKU-02735),373.44,4.2,411,data/images/cabinet_17744.jpg
+11518,1733,2,Cabinet,Minimalist Cabinet (SKU-01733),552.98,4.2,410,data/images/cabinet_11518.jpg
+19007,2936,2,Cabinet,Compact Cabinet (SKU-02936),581.33,4.7,279,data/images/cabinet_19007.jpg
+12090,1816,2,Cabinet,Compact Cabinet (SKU-01816),293.68,4.8,398,data/images/cabinet_12090.jpg
+16027,2469,2,Cabinet,Pro Cabinet (SKU-02469),367.12,4.3,158,data/images/cabinet_16027.jpg
+19920,3067,2,Cabinet,Deluxe Cabinet (SKU-03067),351.79,4.1,39,data/images/cabinet_19920.jpg
+12523,1885,2,Cabinet,Vintage Cabinet (SKU-01885),399.16,4.0,579,data/images/cabinet_12523.jpg
+8927,1258,2,Cabinet,Commercial Grade Cabinet (SKU-01258),506.2,4.7,123,data/images/cabinet_8927.jpg
+14444,2189,2,Cabinet,Pro Cabinet (SKU-02189),568.91,4.9,412,data/images/cabinet_14444.jpg
+18313,2836,2,Cabinet,Compact Cabinet (SKU-02836),397.28,4.3,229,data/images/cabinet_18313.jpg
+10566,1576,2,Cabinet,Compact Cabinet (SKU-01576),395.65,4.6,765,data/images/cabinet_10566.jpg
+15828,2437,2,Cabinet,Deluxe Cabinet (SKU-02437),214.34,4.6,506,data/images/cabinet_15828.jpg
+13341,2007,2,Cabinet,Deluxe Cabinet (SKU-02007),540.08,4.7,188,data/images/cabinet_13341.jpg
+13967,2107,2,Cabinet,Deluxe Cabinet (SKU-02107),465.43,3.9,809,data/images/cabinet_13967.jpg
+20029,3085,2,Cabinet,Vintage Cabinet (SKU-03085),467.8,3.9,179,data/images/cabinet_20029.jpg
+18454,2858,2,Cabinet,Commercial Grade Cabinet (SKU-02858),254.94,4.4,379,data/images/cabinet_18454.jpg
+19935,3071,2,Cabinet,Modern Cabinet (SKU-03071),316.78,4.7,525,data/images/cabinet_19935.jpg
+9170,1293,2,Cabinet,Minimalist Cabinet (SKU-01293),558.45,4.5,818,data/images/cabinet_9170.jpg
+11929,1793,2,Cabinet,Minimalist Cabinet (SKU-01793),319.31,3.9,459,data/images/cabinet_11929.jpg
+14394,2182,2,Cabinet,Ergonomic Cabinet (SKU-02182),320.08,4.6,728,data/images/cabinet_14394.jpg
+16753,2579,2,Cabinet,Pro Cabinet (SKU-02579),557.85,3.9,465,data/images/cabinet_16753.jpg
+16806,2586,2,Cabinet,Compact Cabinet (SKU-02586),264.15,4.2,652,data/images/cabinet_16806.jpg
+20288,3114,2,Cabinet,Premium Cabinet (SKU-03114),175.33,3.9,843,data/images/cabinet_20288.jpg
+11298,1699,2,Cabinet,Pro Cabinet (SKU-01699),520.25,4.6,401,data/images/cabinet_11298.jpg
+11379,1710,2,Cabinet,Classic Cabinet (SKU-01710),412.51,4.9,205,data/images/cabinet_11379.jpg
+18933,2928,2,Cabinet,Commercial Grade Cabinet (SKU-02928),364.96,3.9,131,data/images/cabinet_18933.jpg
+8671,1217,2,Cabinet,Deluxe Cabinet (SKU-01217),583.44,3.8,686,data/images/cabinet_8671.jpg
+10105,1477,2,Cabinet,Deluxe Cabinet (SKU-01477),400.19,4.2,94,data/images/cabinet_10105.jpg
+15184,2310,2,Cabinet,Classic Cabinet (SKU-02310),387.46,4.9,243,data/images/cabinet_15184.jpg
+20251,3108,2,Cabinet,Commercial Grade Cabinet (SKU-03108),263.84,4.6,455,data/images/cabinet_20251.jpg
+13012,1961,2,Cabinet,Modern Cabinet (SKU-01961),385.38,4.5,540,data/images/cabinet_13012.jpg
+9153,1292,2,Cabinet,Ergonomic Cabinet (SKU-01292),282.51,4.9,580,data/images/cabinet_9153.jpg
+13434,2024,2,Cabinet,Premium Cabinet (SKU-02024),412.93,4.8,26,data/images/cabinet_13434.jpg
+20325,3117,2,Cabinet,Deluxe Cabinet (SKU-03117),581.41,3.9,372,data/images/cabinet_20325.jpg
+11796,1777,2,Cabinet,Deluxe Cabinet (SKU-01777),355.04,4.5,22,data/images/cabinet_11796.jpg
+13340,2007,2,Cabinet,Deluxe Cabinet (SKU-02007),226.35,4.5,662,data/images/cabinet_13340.jpg
+10654,1592,2,Cabinet,Ergonomic Cabinet (SKU-01592),309.0,4.4,746,data/images/cabinet_10654.jpg
+17386,2678,2,Cabinet,Commercial Grade Cabinet (SKU-02678),312.15,4.1,516,data/images/cabinet_17386.jpg
+16020,2467,2,Cabinet,Deluxe Cabinet (SKU-02467),164.53,4.1,738,data/images/cabinet_16020.jpg
+15486,2373,2,Cabinet,Minimalist Cabinet (SKU-02373),421.24,4.1,572,data/images/cabinet_15486.jpg
+9637,1384,2,Cabinet,Premium Cabinet (SKU-01384),184.28,4.8,270,data/images/cabinet_9637.jpg
+11320,1702,2,Cabinet,Ergonomic Cabinet (SKU-01702),411.51,4.8,24,data/images/cabinet_11320.jpg
+15344,2345,2,Cabinet,Vintage Cabinet (SKU-02345),569.72,4.8,19,data/images/cabinet_15344.jpg
+14840,2259,2,Cabinet,Pro Cabinet (SKU-02259),161.86,4.2,79,data/images/cabinet_14840.jpg
+16373,2517,2,Cabinet,Deluxe Cabinet (SKU-02517),366.16,4.9,793,data/images/cabinet_16373.jpg
+17223,2661,2,Cabinet,Modern Cabinet (SKU-02661),417.35,4.2,841,data/images/cabinet_17223.jpg
+19846,3059,2,Cabinet,Pro Cabinet (SKU-03059),528.94,4.7,624,data/images/cabinet_19846.jpg
+9728,1404,2,Cabinet,Premium Cabinet (SKU-01404),166.56,3.9,419,data/images/cabinet_9728.jpg
+12104,1818,2,Cabinet,Commercial Grade Cabinet (SKU-01818),175.36,4.8,723,data/images/cabinet_12104.jpg
+13957,2105,2,Cabinet,Vintage Cabinet (SKU-02105),599.86,4.9,451,data/images/cabinet_13957.jpg
+19539,3013,2,Cabinet,Minimalist Cabinet (SKU-03013),413.31,4.6,728,data/images/cabinet_19539.jpg
+20051,3087,2,Cabinet,Deluxe Cabinet (SKU-03087),532.33,4.1,92,data/images/cabinet_20051.jpg
+17752,2736,2,Cabinet,Compact Cabinet (SKU-02736),242.26,4.1,699,data/images/cabinet_17752.jpg
+18690,2898,2,Cabinet,Commercial Grade Cabinet (SKU-02898),422.77,4.1,502,data/images/cabinet_18690.jpg
+17631,2716,2,Cabinet,Compact Cabinet (SKU-02716),428.15,4.2,86,data/images/cabinet_17631.jpg
+13676,2062,2,Cabinet,Ergonomic Cabinet (SKU-02062),159.97,4.3,452,data/images/cabinet_13676.jpg
+11340,1704,2,Cabinet,Premium Cabinet (SKU-01704),497.53,4.4,282,data/images/cabinet_11340.jpg
+18195,2817,2,Cabinet,Deluxe Cabinet (SKU-02817),517.36,4.9,748,data/images/cabinet_18195.jpg
+13364,2010,2,Cabinet,Classic Cabinet (SKU-02010),506.31,4.4,781,data/images/cabinet_13364.jpg
+19659,3035,2,Cabinet,Vintage Cabinet (SKU-03035),162.94,4.6,592,data/images/cabinet_19659.jpg
+14872,2264,2,Cabinet,Premium Cabinet (SKU-02264),512.26,4.8,718,data/images/cabinet_14872.jpg
+12985,1956,2,Cabinet,Compact Cabinet (SKU-01956),156.54,4.2,112,data/images/cabinet_12985.jpg
+13296,2002,2,Cabinet,Ergonomic Cabinet (SKU-02002),436.48,4.4,449,data/images/cabinet_13296.jpg
+14908,2270,2,Cabinet,Classic Cabinet (SKU-02270),556.86,4.2,180,data/images/cabinet_14908.jpg
+17190,2658,2,Cabinet,Commercial Grade Cabinet (SKU-02658),352.9,4.8,556,data/images/cabinet_17190.jpg
+19372,2984,2,Cabinet,Premium Cabinet (SKU-02984),429.93,4.7,147,data/images/cabinet_19372.jpg
+13827,2085,2,Cabinet,Vintage Cabinet (SKU-02085),508.4,4.3,415,data/images/cabinet_13827.jpg
+10545,1571,2,Cabinet,Modern Cabinet (SKU-01571),371.44,4.1,83,data/images/cabinet_10545.jpg
+16627,2560,2,Cabinet,Classic Cabinet (SKU-02560),591.0,4.3,219,data/images/cabinet_16627.jpg
+14457,2193,2,Cabinet,Minimalist Cabinet (SKU-02193),244.1,4.4,125,data/images/cabinet_14457.jpg
+13550,2041,2,Cabinet,Modern Cabinet (SKU-02041),207.99,3.9,109,data/images/cabinet_13550.jpg
+10433,1551,2,Cabinet,Modern Cabinet (SKU-01551),330.13,4.6,374,data/images/cabinet_10433.jpg
+14892,2267,2,Cabinet,Deluxe Cabinet (SKU-02267),463.42,4.3,209,data/images/cabinet_14892.jpg
+10662,1593,2,Cabinet,Minimalist Cabinet (SKU-01593),381.85,4.9,75,data/images/cabinet_10662.jpg
+10097,1477,2,Cabinet,Deluxe Cabinet (SKU-01477),236.52,3.8,19,data/images/cabinet_10097.jpg
+17681,2724,2,Cabinet,Premium Cabinet (SKU-02724),305.28,4.2,548,data/images/cabinet_17681.jpg
+8782,1235,2,Cabinet,Vintage Cabinet (SKU-01235),189.91,3.9,247,data/images/cabinet_8782.jpg
+17754,2736,2,Cabinet,Compact Cabinet (SKU-02736),310.19,4.8,92,data/images/cabinet_17754.jpg
+12829,1933,2,Cabinet,Minimalist Cabinet (SKU-01933),298.53,4.2,808,data/images/cabinet_12829.jpg
+15951,2456,2,Cabinet,Compact Cabinet (SKU-02456),509.72,4.5,253,data/images/cabinet_15951.jpg
+16286,2507,2,Cabinet,Deluxe Cabinet (SKU-02507),380.24,4.0,62,data/images/cabinet_16286.jpg
+12533,1887,2,Cabinet,Deluxe Cabinet (SKU-01887),177.48,4.1,271,data/images/cabinet_12533.jpg
+16646,2563,2,Cabinet,Minimalist Cabinet (SKU-02563),188.02,4.5,706,data/images/cabinet_16646.jpg
+10945,1643,2,Cabinet,Minimalist Cabinet (SKU-01643),244.2,4.2,740,data/images/cabinet_10945.jpg
+18605,2886,2,Cabinet,Compact Cabinet (SKU-02886),256.24,4.6,92,data/images/cabinet_18605.jpg
+17887,2759,2,Cabinet,Pro Cabinet (SKU-02759),358.13,4.6,540,data/images/cabinet_17887.jpg
+17713,2731,2,Cabinet,Modern Cabinet (SKU-02731),216.47,3.9,17,data/images/cabinet_17713.jpg
+8847,1246,2,Cabinet,Compact Cabinet (SKU-01246),552.83,4.4,765,data/images/cabinet_8847.jpg
+20339,3118,2,Cabinet,Commercial Grade Cabinet (SKU-03118),163.7,4.8,820,data/images/cabinet_20339.jpg
+14334,2171,2,Cabinet,Modern Cabinet (SKU-02171),389.67,4.1,645,data/images/cabinet_14334.jpg
+11578,1744,2,Cabinet,Premium Cabinet (SKU-01744),319.77,3.8,287,data/images/cabinet_11578.jpg
+9511,1361,2,Cabinet,Modern Cabinet (SKU-01361),245.14,4.2,826,data/images/cabinet_9511.jpg
+13466,2030,2,Cabinet,Classic Cabinet (SKU-02030),254.94,4.2,39,data/images/cabinet_13466.jpg
+8449,1182,2,Cabinet,Ergonomic Cabinet (SKU-01182),455.59,4.7,123,data/images/cabinet_8449.jpg
+9722,1402,2,Cabinet,Ergonomic Cabinet (SKU-01402),365.8,4.4,484,data/images/cabinet_9722.jpg
+18442,2856,2,Cabinet,Compact Cabinet (SKU-02856),414.07,4.6,383,data/images/cabinet_18442.jpg
+13076,1972,2,Cabinet,Ergonomic Cabinet (SKU-01972),404.0,4.2,627,data/images/cabinet_13076.jpg
+12595,1896,2,Cabinet,Compact Cabinet (SKU-01896),313.38,4.5,752,data/images/cabinet_12595.jpg
+11667,1760,2,Cabinet,Classic Cabinet (SKU-01760),259.95,4.3,755,data/images/cabinet_11667.jpg
+8463,1184,2,Cabinet,Premium Cabinet (SKU-01184),570.15,3.8,291,data/images/cabinet_8463.jpg
+8699,1220,2,Cabinet,Classic Cabinet (SKU-01220),218.78,4.1,530,data/images/cabinet_8699.jpg
+18549,2877,2,Cabinet,Deluxe Cabinet (SKU-02877),532.86,3.9,364,data/images/cabinet_18549.jpg
+14035,2115,2,Cabinet,Vintage Cabinet (SKU-02115),228.01,4.8,773,data/images/cabinet_14035.jpg
+15248,2324,2,Cabinet,Premium Cabinet (SKU-02324),173.23,3.8,243,data/images/cabinet_15248.jpg
+19243,2965,2,Cabinet,Vintage Cabinet (SKU-02965),592.06,3.9,336,data/images/cabinet_19243.jpg
+17912,2761,2,Cabinet,Modern Cabinet (SKU-02761),409.19,4.8,660,data/images/cabinet_17912.jpg
+18290,2834,2,Cabinet,Premium Cabinet (SKU-02834),588.77,4.3,588,data/images/cabinet_18290.jpg
+11726,1768,2,Cabinet,Commercial Grade Cabinet (SKU-01768),568.21,4.4,406,data/images/cabinet_11726.jpg
+11445,1720,2,Cabinet,Classic Cabinet (SKU-01720),364.47,4.7,659,data/images/cabinet_11445.jpg
+11208,1684,2,Cabinet,Premium Cabinet (SKU-01684),234.16,4.2,801,data/images/cabinet_11208.jpg
+11778,1774,2,Cabinet,Premium Cabinet (SKU-01774),239.77,4.6,154,data/images/cabinet_11778.jpg
+10766,1609,2,Cabinet,Pro Cabinet (SKU-01609),201.67,4.5,334,data/images/cabinet_10766.jpg
+9392,1339,2,Cabinet,Pro Cabinet (SKU-01339),189.27,4.4,525,data/images/cabinet_9392.jpg
+16145,2486,2,Cabinet,Compact Cabinet (SKU-02486),366.5,4.4,687,data/images/cabinet_16145.jpg
+8532,1195,2,Cabinet,Vintage Cabinet (SKU-01195),316.14,4.3,275,data/images/cabinet_8532.jpg
+17212,2660,2,Cabinet,Classic Cabinet (SKU-02660),178.51,4.9,27,data/images/cabinet_17212.jpg
+18706,2900,2,Cabinet,Classic Cabinet (SKU-02900),458.05,3.9,333,data/images/cabinet_18706.jpg
+14222,2149,2,Cabinet,Pro Cabinet (SKU-02149),456.67,4.6,564,data/images/cabinet_14222.jpg
+17730,2733,2,Cabinet,Minimalist Cabinet (SKU-02733),335.32,4.2,831,data/images/cabinet_17730.jpg
+11663,1759,2,Cabinet,Pro Cabinet (SKU-01759),532.82,4.6,348,data/images/cabinet_11663.jpg
+18434,2855,2,Cabinet,Vintage Cabinet (SKU-02855),569.81,4.9,602,data/images/cabinet_18434.jpg
+12762,1925,2,Cabinet,Vintage Cabinet (SKU-01925),320.64,4.8,334,data/images/cabinet_12762.jpg
+14015,2112,2,Cabinet,Ergonomic Cabinet (SKU-02112),408.5,4.7,793,data/images/cabinet_14015.jpg
+13953,2104,2,Cabinet,Premium Cabinet (SKU-02104),507.86,4.0,812,data/images/cabinet_13953.jpg
+12666,1907,2,Cabinet,Deluxe Cabinet (SKU-01907),521.3,4.0,393,data/images/cabinet_12666.jpg
+8693,1220,2,Cabinet,Classic Cabinet (SKU-01220),435.18,4.8,615,data/images/cabinet_8693.jpg
+8384,1167,2,Cabinet,Deluxe Cabinet (SKU-01167),544.73,4.2,310,data/images/cabinet_8384.jpg
+14106,2127,2,Cabinet,Deluxe Cabinet (SKU-02127),353.37,4.6,814,data/images/cabinet_14106.jpg
+20058,3088,2,Cabinet,Commercial Grade Cabinet (SKU-03088),358.2,4.1,37,data/images/cabinet_20058.jpg
+10896,1633,2,Cabinet,Minimalist Cabinet (SKU-01633),347.43,4.4,159,data/images/cabinet_10896.jpg
+9492,1360,2,Cabinet,Classic Cabinet (SKU-01360),554.8,4.2,835,data/images/cabinet_9492.jpg
+9480,1359,2,Cabinet,Pro Cabinet (SKU-01359),557.9,4.5,212,data/images/cabinet_9480.jpg
+15164,2309,2,Cabinet,Pro Cabinet (SKU-02309),572.91,4.5,568,data/images/cabinet_15164.jpg
+11425,1716,2,Cabinet,Compact Cabinet (SKU-01716),212.66,4.7,683,data/images/cabinet_11425.jpg
+11521,1734,2,Cabinet,Premium Cabinet (SKU-01734),372.93,4.6,434,data/images/cabinet_11521.jpg
+16260,2503,2,Cabinet,Minimalist Cabinet (SKU-02503),598.95,4.6,425,data/images/cabinet_16260.jpg
+18366,2843,2,Cabinet,Minimalist Cabinet (SKU-02843),484.77,3.8,612,data/images/cabinet_18366.jpg
+11600,1751,2,Cabinet,Modern Cabinet (SKU-01751),471.32,4.3,132,data/images/cabinet_11600.jpg
+8868,1250,2,Cabinet,Classic Cabinet (SKU-01250),519.56,3.9,242,data/images/cabinet_8868.jpg
+10323,1527,2,Cabinet,Deluxe Cabinet (SKU-01527),355.64,4.5,29,data/images/cabinet_10323.jpg
+18665,2894,2,Cabinet,Premium Cabinet (SKU-02894),508.77,4.0,61,data/images/cabinet_18665.jpg
+8514,1191,2,Cabinet,Modern Cabinet (SKU-01191),334.02,4.6,425,data/images/cabinet_8514.jpg
+12363,1858,2,Cabinet,Commercial Grade Cabinet (SKU-01858),438.51,4.6,306,data/images/cabinet_12363.jpg
+18707,2900,2,Cabinet,Classic Cabinet (SKU-02900),472.27,4.5,674,data/images/cabinet_18707.jpg
+10334,1531,2,Cabinet,Modern Cabinet (SKU-01531),231.71,4.8,564,data/images/cabinet_10334.jpg
+19479,3005,2,Cabinet,Vintage Cabinet (SKU-03005),252.3,4.3,360,data/images/cabinet_19479.jpg
+26818,4331,3,Chair,Modern Chair (SKU-04331),286.81,4.0,155,data/images/chair_26818.jpg
+26528,4285,3,Chair,Vintage Chair (SKU-04285),84.77,3.9,637,data/images/chair_26528.jpg
+24053,3822,3,Chair,Ergonomic Chair (SKU-03822),231.51,4.5,370,data/images/chair_24053.jpg
+23707,3753,3,Chair,Minimalist Chair (SKU-03753),279.68,4.7,819,data/images/chair_23707.jpg
+26573,4293,3,Chair,Minimalist Chair (SKU-04293),226.8,4.0,618,data/images/chair_26573.jpg
+28823,4696,3,Chair,Compact Chair (SKU-04696),143.6,3.9,65,data/images/chair_28823.jpg
+31117,5109,3,Chair,Pro Chair (SKU-05109),234.1,4.8,740,data/images/chair_31117.jpg
+30342,4966,3,Chair,Compact Chair (SKU-04966),277.66,3.9,627,data/images/chair_30342.jpg
+22129,3457,3,Chair,Deluxe Chair (SKU-03457),296.2,4.7,196,data/images/chair_22129.jpg
+31961,5268,3,Chair,Commercial Grade Chair (SKU-05268),259.36,4.2,581,data/images/chair_31961.jpg
+23795,3773,3,Chair,Minimalist Chair (SKU-03773),106.84,4.5,445,data/images/chair_23795.jpg
+29332,4778,3,Chair,Commercial Grade Chair (SKU-04778),63.68,4.2,450,data/images/chair_29332.jpg
+20850,3219,3,Chair,Pro Chair (SKU-03219),246.94,4.5,817,data/images/chair_20850.jpg
+22168,3466,3,Chair,Compact Chair (SKU-03466),149.53,4.4,89,data/images/chair_22168.jpg
+22865,3600,3,Chair,Classic Chair (SKU-03600),280.73,4.3,489,data/images/chair_22865.jpg
+23958,3803,3,Chair,Minimalist Chair (SKU-03803),234.37,4.3,777,data/images/chair_23958.jpg
+24280,3862,3,Chair,Ergonomic Chair (SKU-03862),85.2,4.0,194,data/images/chair_24280.jpg
+21055,3251,3,Chair,Modern Chair (SKU-03251),154.72,4.8,191,data/images/chair_21055.jpg
+25031,4002,3,Chair,Ergonomic Chair (SKU-04002),245.11,4.1,680,data/images/chair_25031.jpg
+30771,5055,3,Chair,Vintage Chair (SKU-05055),53.26,4.5,98,data/images/chair_30771.jpg
+20755,3201,3,Chair,Modern Chair (SKU-03201),164.74,4.4,356,data/images/chair_20755.jpg
+29126,4744,3,Chair,Premium Chair (SKU-04744),71.33,4.9,575,data/images/chair_29126.jpg
+20920,3229,3,Chair,Pro Chair (SKU-03229),124.89,4.1,229,data/images/chair_20920.jpg
+21309,3299,3,Chair,Pro Chair (SKU-03299),156.69,4.7,332,data/images/chair_21309.jpg
+22853,3597,3,Chair,Deluxe Chair (SKU-03597),101.27,4.0,443,data/images/chair_22853.jpg
+21812,3393,3,Chair,Minimalist Chair (SKU-03393),144.42,4.7,33,data/images/chair_21812.jpg
+26701,4315,3,Chair,Vintage Chair (SKU-04315),66.42,4.7,189,data/images/chair_26701.jpg
+22613,3551,3,Chair,Modern Chair (SKU-03551),181.9,4.4,127,data/images/chair_22613.jpg
+24529,3901,3,Chair,Modern Chair (SKU-03901),150.18,4.4,845,data/images/chair_24529.jpg
+30964,5090,3,Chair,Classic Chair (SKU-05090),75.74,4.2,69,data/images/chair_30964.jpg
+24663,3928,3,Chair,Commercial Grade Chair (SKU-03928),286.52,4.2,472,data/images/chair_24663.jpg
+30891,5078,3,Chair,Commercial Grade Chair (SKU-05078),274.35,4.4,101,data/images/chair_30891.jpg
+32299,5311,3,Chair,Modern Chair (SKU-05311),294.72,4.7,405,data/images/chair_32299.jpg
+30904,5081,3,Chair,Modern Chair (SKU-05081),214.72,3.8,773,data/images/chair_30904.jpg
+23998,3812,3,Chair,Ergonomic Chair (SKU-03812),113.46,4.0,781,data/images/chair_23998.jpg
+21106,3261,3,Chair,Modern Chair (SKU-03261),54.92,3.9,253,data/images/chair_21106.jpg
+24303,3865,3,Chair,Vintage Chair (SKU-03865),192.35,4.8,618,data/images/chair_24303.jpg
+27449,4444,3,Chair,Premium Chair (SKU-04444),109.54,3.9,110,data/images/chair_27449.jpg
+28765,4684,3,Chair,Premium Chair (SKU-04684),297.17,4.5,828,data/images/chair_28765.jpg
+25167,4033,3,Chair,Minimalist Chair (SKU-04033),257.54,4.2,179,data/images/chair_25167.jpg
+31284,5128,3,Chair,Commercial Grade Chair (SKU-05128),85.26,4.2,837,data/images/chair_31284.jpg
+25210,4040,3,Chair,Classic Chair (SKU-04040),274.07,3.8,789,data/images/chair_25210.jpg
+25841,4168,3,Chair,Commercial Grade Chair (SKU-04168),233.97,4.7,638,data/images/chair_25841.jpg
+31038,5101,3,Chair,Modern Chair (SKU-05101),95.35,4.4,714,data/images/chair_31038.jpg
+26157,4221,3,Chair,Modern Chair (SKU-04221),225.98,4.8,723,data/images/chair_26157.jpg
+20995,3242,3,Chair,Ergonomic Chair (SKU-03242),135.44,4.1,400,data/images/chair_20995.jpg
+31897,5257,3,Chair,Deluxe Chair (SKU-05257),140.75,3.8,546,data/images/chair_31897.jpg
+24845,3964,3,Chair,Premium Chair (SKU-03964),206.03,4.3,748,data/images/chair_24845.jpg
+31677,5217,3,Chair,Deluxe Chair (SKU-05217),140.68,4.7,514,data/images/chair_31677.jpg
+27692,4487,3,Chair,Deluxe Chair (SKU-04487),293.63,4.7,607,data/images/chair_27692.jpg
+29495,4804,3,Chair,Premium Chair (SKU-04804),267.11,4.3,741,data/images/chair_29495.jpg
+30262,4953,3,Chair,Minimalist Chair (SKU-04953),249.95,4.3,129,data/images/chair_30262.jpg
+25058,4008,3,Chair,Commercial Grade Chair (SKU-04008),178.1,4.6,251,data/images/chair_25058.jpg
+26025,4196,3,Chair,Compact Chair (SKU-04196),150.63,4.0,292,data/images/chair_26025.jpg
+25049,4006,3,Chair,Compact Chair (SKU-04006),258.72,4.9,456,data/images/chair_25049.jpg
+30341,4965,3,Chair,Vintage Chair (SKU-04965),275.13,4.6,819,data/images/chair_30341.jpg
+26516,4284,3,Chair,Premium Chair (SKU-04284),54.59,4.8,56,data/images/chair_26516.jpg
+21795,3389,3,Chair,Pro Chair (SKU-03389),194.12,4.1,31,data/images/chair_21795.jpg
+26084,4204,3,Chair,Premium Chair (SKU-04204),151.3,4.3,602,data/images/chair_26084.jpg
+24215,3851,3,Chair,Modern Chair (SKU-03851),101.6,3.8,41,data/images/chair_24215.jpg
+22922,3611,3,Chair,Modern Chair (SKU-03611),274.99,4.8,182,data/images/chair_22922.jpg
+28285,4597,3,Chair,Deluxe Chair (SKU-04597),112.67,4.5,835,data/images/chair_28285.jpg
+27013,4369,3,Chair,Pro Chair (SKU-04369),93.83,4.8,490,data/images/chair_27013.jpg
+23654,3742,3,Chair,Ergonomic Chair (SKU-03742),242.72,4.3,144,data/images/chair_23654.jpg
+25249,4048,3,Chair,Commercial Grade Chair (SKU-04048),91.56,4.6,833,data/images/chair_25249.jpg
+25420,4083,3,Chair,Minimalist Chair (SKU-04083),72.57,4.6,43,data/images/chair_25420.jpg
+30360,4973,3,Chair,Minimalist Chair (SKU-04973),147.31,4.1,526,data/images/chair_30360.jpg
+29760,4858,3,Chair,Commercial Grade Chair (SKU-04858),278.87,4.6,758,data/images/chair_29760.jpg
+29006,4726,3,Chair,Compact Chair (SKU-04726),191.59,4.3,637,data/images/chair_29006.jpg
+30517,5006,3,Chair,Compact Chair (SKU-05006),288.51,3.9,326,data/images/chair_30517.jpg
+31443,5165,3,Chair,Vintage Chair (SKU-05165),103.73,3.8,162,data/images/chair_31443.jpg
+24294,3864,3,Chair,Premium Chair (SKU-03864),90.49,4.7,521,data/images/chair_24294.jpg
+30525,5008,3,Chair,Commercial Grade Chair (SKU-05008),199.2,4.2,168,data/images/chair_30525.jpg
+27021,4370,3,Chair,Classic Chair (SKU-04370),168.55,4.2,310,data/images/chair_27021.jpg
+24278,3862,3,Chair,Ergonomic Chair (SKU-03862),232.04,4.3,630,data/images/chair_24278.jpg
+20531,3160,3,Chair,Classic Chair (SKU-03160),158.7,4.1,145,data/images/chair_20531.jpg
+31183,5116,3,Chair,Compact Chair (SKU-05116),69.43,3.8,449,data/images/chair_31183.jpg
+26403,4271,3,Chair,Modern Chair (SKU-04271),118.03,4.4,289,data/images/chair_26403.jpg
+31411,5156,3,Chair,Compact Chair (SKU-05156),128.64,4.7,831,data/images/chair_31411.jpg
+20742,3200,3,Chair,Classic Chair (SKU-03200),84.19,4.8,837,data/images/chair_20742.jpg
+22670,3562,3,Chair,Ergonomic Chair (SKU-03562),180.32,3.9,606,data/images/chair_22670.jpg
+25016,3997,3,Chair,Deluxe Chair (SKU-03997),268.23,4.6,675,data/images/chair_25016.jpg
+24313,3866,3,Chair,Compact Chair (SKU-03866),239.75,4.6,724,data/images/chair_24313.jpg
+30991,5096,3,Chair,Compact Chair (SKU-05096),295.13,4.8,282,data/images/chair_30991.jpg
+31655,5215,3,Chair,Vintage Chair (SKU-05215),105.29,4.9,552,data/images/chair_31655.jpg
+24099,3828,3,Chair,Commercial Grade Chair (SKU-03828),59.85,4.6,725,data/images/chair_24099.jpg
+32063,5279,3,Chair,Pro Chair (SKU-05279),299.83,4.4,100,data/images/chair_32063.jpg
+20915,3229,3,Chair,Pro Chair (SKU-03229),278.86,3.8,643,data/images/chair_20915.jpg
+25250,4048,3,Chair,Commercial Grade Chair (SKU-04048),232.75,4.0,512,data/images/chair_25250.jpg
+32394,5327,3,Chair,Deluxe Chair (SKU-05327),155.43,4.7,237,data/images/chair_32394.jpg
+25272,4053,3,Chair,Minimalist Chair (SKU-04053),265.5,4.7,416,data/images/chair_25272.jpg
+32013,5274,3,Chair,Premium Chair (SKU-05274),180.6,4.5,540,data/images/chair_32013.jpg
+24484,3895,3,Chair,Vintage Chair (SKU-03895),199.06,4.1,202,data/images/chair_24484.jpg
+21050,3251,3,Chair,Modern Chair (SKU-03251),170.26,4.8,185,data/images/chair_21050.jpg
+24336,3869,3,Chair,Pro Chair (SKU-03869),134.96,4.6,378,data/images/chair_24336.jpg
+29803,4868,3,Chair,Commercial Grade Chair (SKU-04868),193.1,4.7,530,data/images/chair_29803.jpg
+20517,3156,3,Chair,Compact Chair (SKU-03156),247.67,4.2,736,data/images/chair_20517.jpg
+27815,4513,3,Chair,Minimalist Chair (SKU-04513),180.03,4.3,122,data/images/chair_27815.jpg
+32225,5301,3,Chair,Modern Chair (SKU-05301),108.23,3.8,184,data/images/chair_32225.jpg
+27272,4413,3,Chair,Minimalist Chair (SKU-04413),297.58,3.8,795,data/images/chair_27272.jpg
+28024,4553,3,Chair,Minimalist Chair (SKU-04553),182.22,4.8,753,data/images/chair_28024.jpg
+20686,3188,3,Chair,Commercial Grade Chair (SKU-03188),67.5,3.8,43,data/images/chair_20686.jpg
+28093,4569,3,Chair,Pro Chair (SKU-04569),241.79,4.2,259,data/images/chair_28093.jpg
+27592,4466,3,Chair,Compact Chair (SKU-04466),169.94,4.4,762,data/images/chair_27592.jpg
+30056,4916,3,Chair,Compact Chair (SKU-04916),296.01,4.6,373,data/images/chair_30056.jpg
+22733,3574,3,Chair,Premium Chair (SKU-03574),180.62,4.6,703,data/images/chair_22733.jpg
+25676,4129,3,Chair,Pro Chair (SKU-04129),77.61,4.2,684,data/images/chair_25676.jpg
+27585,4464,3,Chair,Premium Chair (SKU-04464),263.2,4.6,307,data/images/chair_27585.jpg
+29714,4845,3,Chair,Vintage Chair (SKU-04845),60.51,3.8,599,data/images/chair_29714.jpg
+27473,4447,3,Chair,Deluxe Chair (SKU-04447),77.36,4.2,154,data/images/chair_27473.jpg
+23452,3707,3,Chair,Deluxe Chair (SKU-03707),289.09,4.7,394,data/images/chair_23452.jpg
+26530,4285,3,Chair,Vintage Chair (SKU-04285),154.39,4.8,316,data/images/chair_26530.jpg
+24902,3976,3,Chair,Compact Chair (SKU-03976),200.19,4.8,240,data/images/chair_24902.jpg
+24408,3882,3,Chair,Ergonomic Chair (SKU-03882),91.75,4.9,585,data/images/chair_24408.jpg
+24334,3869,3,Chair,Pro Chair (SKU-03869),150.39,4.7,324,data/images/chair_24334.jpg
+26172,4223,3,Chair,Minimalist Chair (SKU-04223),201.92,4.4,344,data/images/chair_26172.jpg
+27687,4486,3,Chair,Compact Chair (SKU-04486),61.73,4.2,767,data/images/chair_27687.jpg
+27824,4515,3,Chair,Vintage Chair (SKU-04515),289.31,4.7,531,data/images/chair_27824.jpg
+31802,5236,3,Chair,Compact Chair (SKU-05236),64.45,4.9,703,data/images/chair_31802.jpg
+20600,3173,3,Chair,Minimalist Chair (SKU-03173),179.56,4.5,767,data/images/chair_20600.jpg
+20900,3227,3,Chair,Deluxe Chair (SKU-03227),93.46,4.2,704,data/images/chair_20900.jpg
+20778,3207,3,Chair,Deluxe Chair (SKU-03207),172.79,4.9,17,data/images/chair_20778.jpg
+23902,3795,3,Chair,Vintage Chair (SKU-03795),253.95,4.0,134,data/images/chair_23902.jpg
+32162,5293,3,Chair,Minimalist Chair (SKU-05293),236.96,3.8,594,data/images/chair_32162.jpg
+21123,3266,3,Chair,Compact Chair (SKU-03266),195.01,3.9,631,data/images/chair_21123.jpg
+24066,3824,3,Chair,Premium Chair (SKU-03824),147.78,4.1,555,data/images/chair_24066.jpg
+28563,4646,3,Chair,Compact Chair (SKU-04646),272.18,4.9,346,data/images/chair_28563.jpg
+23698,3750,3,Chair,Classic Chair (SKU-03750),58.85,4.2,551,data/images/chair_23698.jpg
+31996,5272,3,Chair,Ergonomic Chair (SKU-05272),187.7,3.9,138,data/images/chair_31996.jpg
+24799,3956,3,Chair,Compact Chair (SKU-03956),143.16,4.1,190,data/images/chair_24799.jpg
+25062,4010,3,Chair,Classic Chair (SKU-04010),173.96,3.9,330,data/images/chair_25062.jpg
+20452,3146,3,Chair,Compact Chair (SKU-03146),77.36,4.8,607,data/images/chair_20452.jpg
+31093,5106,3,Chair,Compact Chair (SKU-05106),65.37,4.8,332,data/images/chair_31093.jpg
+20761,3203,3,Chair,Minimalist Chair (SKU-03203),198.09,4.7,582,data/images/chair_20761.jpg
+27281,4414,3,Chair,Premium Chair (SKU-04414),215.52,4.4,763,data/images/chair_27281.jpg
+25054,4007,3,Chair,Deluxe Chair (SKU-04007),233.47,4.4,350,data/images/chair_25054.jpg
+23823,3779,3,Chair,Pro Chair (SKU-03779),214.6,4.7,585,data/images/chair_23823.jpg
+24394,3878,3,Chair,Commercial Grade Chair (SKU-03878),90.09,4.2,571,data/images/chair_24394.jpg
+25090,4017,3,Chair,Deluxe Chair (SKU-04017),224.36,4.5,205,data/images/chair_25090.jpg
+25493,4098,3,Chair,Commercial Grade Chair (SKU-04098),224.74,4.0,147,data/images/chair_25493.jpg
+23498,3717,3,Chair,Deluxe Chair (SKU-03717),270.21,4.8,45,data/images/chair_23498.jpg
+28083,4568,3,Chair,Commercial Grade Chair (SKU-04568),256.44,3.9,377,data/images/chair_28083.jpg
+27232,4407,3,Chair,Deluxe Chair (SKU-04407),107.15,4.8,96,data/images/chair_27232.jpg
+21193,3277,3,Chair,Deluxe Chair (SKU-03277),254.48,4.7,538,data/images/chair_21193.jpg
+23148,3655,3,Chair,Vintage Chair (SKU-03655),51.59,4.1,60,data/images/chair_23148.jpg
+25958,4185,3,Chair,Vintage Chair (SKU-04185),131.6,4.4,374,data/images/chair_25958.jpg
+26959,4359,3,Chair,Pro Chair (SKU-04359),114.94,4.5,379,data/images/chair_26959.jpg
+29000,4724,3,Chair,Premium Chair (SKU-04724),244.95,3.9,428,data/images/chair_29000.jpg
+31026,5099,3,Chair,Pro Chair (SKU-05099),54.6,4.3,845,data/images/chair_31026.jpg
+29374,4784,3,Chair,Premium Chair (SKU-04784),148.03,4.0,51,data/images/chair_29374.jpg
+41628,7057,4,Coffee Maker,Deluxe Coffee Maker (SKU-07057),45.37,4.8,498,data/images/coffee_maker_41628.jpg
+39543,6665,4,Coffee Maker,Vintage Coffee Maker (SKU-06665),40.17,4.1,31,data/images/coffee_maker_39543.jpg
+39269,6604,4,Coffee Maker,Premium Coffee Maker (SKU-06604),145.64,4.6,719,data/images/coffee_maker_39269.jpg
+34541,5738,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-05738),38.68,3.9,224,data/images/coffee_maker_34541.jpg
+32492,5347,4,Coffee Maker,Deluxe Coffee Maker (SKU-05347),160.72,4.9,299,data/images/coffee_maker_32492.jpg
+39950,6745,4,Coffee Maker,Vintage Coffee Maker (SKU-06745),96.88,4.5,395,data/images/coffee_maker_39950.jpg
+33529,5546,4,Coffee Maker,Compact Coffee Maker (SKU-05546),87.53,3.9,47,data/images/coffee_maker_33529.jpg
+41911,7110,4,Coffee Maker,Classic Coffee Maker (SKU-07110),78.53,4.3,473,data/images/coffee_maker_41911.jpg
+40382,6826,4,Coffee Maker,Compact Coffee Maker (SKU-06826),132.48,4.3,444,data/images/coffee_maker_40382.jpg
+37153,6199,4,Coffee Maker,Pro Coffee Maker (SKU-06199),100.27,4.8,113,data/images/coffee_maker_37153.jpg
+37990,6355,4,Coffee Maker,Vintage Coffee Maker (SKU-06355),97.7,4.0,811,data/images/coffee_maker_37990.jpg
+32813,5416,4,Coffee Maker,Compact Coffee Maker (SKU-05416),134.04,4.0,144,data/images/coffee_maker_32813.jpg
+41329,7005,4,Coffee Maker,Vintage Coffee Maker (SKU-07005),145.91,4.1,473,data/images/coffee_maker_41329.jpg
+40118,6775,4,Coffee Maker,Vintage Coffee Maker (SKU-06775),70.98,4.8,762,data/images/coffee_maker_40118.jpg
+40577,6865,4,Coffee Maker,Vintage Coffee Maker (SKU-06865),34.69,4.6,317,data/images/coffee_maker_40577.jpg
+33385,5520,4,Coffee Maker,Classic Coffee Maker (SKU-05520),92.95,4.5,788,data/images/coffee_maker_33385.jpg
+36070,6010,4,Coffee Maker,Classic Coffee Maker (SKU-06010),144.0,4.3,521,data/images/coffee_maker_36070.jpg
+40629,6875,4,Coffee Maker,Vintage Coffee Maker (SKU-06875),91.39,4.8,541,data/images/coffee_maker_40629.jpg
+37518,6265,4,Coffee Maker,Vintage Coffee Maker (SKU-06265),141.87,4.0,807,data/images/coffee_maker_37518.jpg
+39369,6625,4,Coffee Maker,Vintage Coffee Maker (SKU-06625),137.23,4.4,506,data/images/coffee_maker_39369.jpg
+37910,6341,4,Coffee Maker,Modern Coffee Maker (SKU-06341),100.97,4.9,444,data/images/coffee_maker_37910.jpg
+41682,7069,4,Coffee Maker,Pro Coffee Maker (SKU-07069),60.55,3.9,534,data/images/coffee_maker_41682.jpg
+41359,7009,4,Coffee Maker,Pro Coffee Maker (SKU-07009),145.63,4.7,213,data/images/coffee_maker_41359.jpg
+40781,6901,4,Coffee Maker,Modern Coffee Maker (SKU-06901),123.92,3.9,707,data/images/coffee_maker_40781.jpg
+37084,6188,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06188),166.77,4.9,572,data/images/coffee_maker_37084.jpg
+36868,6146,4,Coffee Maker,Compact Coffee Maker (SKU-06146),99.3,3.8,469,data/images/coffee_maker_36868.jpg
+35971,5994,4,Coffee Maker,Premium Coffee Maker (SKU-05994),48.77,4.6,754,data/images/coffee_maker_35971.jpg
+41230,6986,4,Coffee Maker,Compact Coffee Maker (SKU-06986),113.75,4.0,845,data/images/coffee_maker_41230.jpg
+41974,7121,4,Coffee Maker,Modern Coffee Maker (SKU-07121),127.72,4.2,400,data/images/coffee_maker_41974.jpg
+39222,6593,4,Coffee Maker,Minimalist Coffee Maker (SKU-06593),149.62,4.1,731,data/images/coffee_maker_39222.jpg
+41524,7038,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-07038),52.43,4.3,334,data/images/coffee_maker_41524.jpg
+36115,6018,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06018),89.32,4.9,180,data/images/coffee_maker_36115.jpg
+33871,5609,4,Coffee Maker,Pro Coffee Maker (SKU-05609),73.74,4.6,815,data/images/coffee_maker_33871.jpg
+34244,5682,4,Coffee Maker,Ergonomic Coffee Maker (SKU-05682),172.89,4.8,793,data/images/coffee_maker_34244.jpg
+39318,6615,4,Coffee Maker,Vintage Coffee Maker (SKU-06615),102.07,3.9,415,data/images/coffee_maker_39318.jpg
+35598,5932,4,Coffee Maker,Ergonomic Coffee Maker (SKU-05932),45.41,4.4,477,data/images/coffee_maker_35598.jpg
+36860,6145,4,Coffee Maker,Vintage Coffee Maker (SKU-06145),104.82,4.5,674,data/images/coffee_maker_36860.jpg
+36374,6063,4,Coffee Maker,Minimalist Coffee Maker (SKU-06063),81.89,4.7,256,data/images/coffee_maker_36374.jpg
+42036,7137,4,Coffee Maker,Deluxe Coffee Maker (SKU-07137),78.96,4.4,815,data/images/coffee_maker_42036.jpg
+37270,6219,4,Coffee Maker,Pro Coffee Maker (SKU-06219),162.37,3.9,603,data/images/coffee_maker_37270.jpg
+34031,5638,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-05638),41.78,4.2,208,data/images/coffee_maker_34031.jpg
+35024,5829,4,Coffee Maker,Pro Coffee Maker (SKU-05829),176.61,4.0,136,data/images/coffee_maker_35024.jpg
+35080,5839,4,Coffee Maker,Pro Coffee Maker (SKU-05839),150.08,4.0,442,data/images/coffee_maker_35080.jpg
+39941,6744,4,Coffee Maker,Premium Coffee Maker (SKU-06744),45.68,4.5,649,data/images/coffee_maker_39941.jpg
+34184,5671,4,Coffee Maker,Modern Coffee Maker (SKU-05671),34.73,4.8,373,data/images/coffee_maker_34184.jpg
+33698,5581,4,Coffee Maker,Modern Coffee Maker (SKU-05581),121.93,4.1,730,data/images/coffee_maker_33698.jpg
+40022,6759,4,Coffee Maker,Pro Coffee Maker (SKU-06759),160.64,4.6,332,data/images/coffee_maker_40022.jpg
+40472,6843,4,Coffee Maker,Minimalist Coffee Maker (SKU-06843),147.5,4.5,397,data/images/coffee_maker_40472.jpg
+36593,6101,4,Coffee Maker,Modern Coffee Maker (SKU-06101),42.01,4.8,404,data/images/coffee_maker_36593.jpg
+38056,6371,4,Coffee Maker,Modern Coffee Maker (SKU-06371),152.58,4.3,529,data/images/coffee_maker_38056.jpg
+33763,5591,4,Coffee Maker,Modern Coffee Maker (SKU-05591),36.1,4.0,28,data/images/coffee_maker_33763.jpg
+40586,6867,4,Coffee Maker,Deluxe Coffee Maker (SKU-06867),42.23,3.9,101,data/images/coffee_maker_40586.jpg
+39732,6708,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06708),127.53,4.3,257,data/images/coffee_maker_39732.jpg
+35737,5955,4,Coffee Maker,Vintage Coffee Maker (SKU-05955),62.87,4.9,370,data/images/coffee_maker_35737.jpg
+36527,6090,4,Coffee Maker,Classic Coffee Maker (SKU-06090),141.63,4.8,323,data/images/coffee_maker_36527.jpg
+39338,6619,4,Coffee Maker,Pro Coffee Maker (SKU-06619),128.8,4.3,608,data/images/coffee_maker_39338.jpg
+36848,6143,4,Coffee Maker,Minimalist Coffee Maker (SKU-06143),33.12,4.5,563,data/images/coffee_maker_36848.jpg
+32572,5364,4,Coffee Maker,Premium Coffee Maker (SKU-05364),179.44,4.9,657,data/images/coffee_maker_32572.jpg
+37828,6324,4,Coffee Maker,Premium Coffee Maker (SKU-06324),42.22,4.2,459,data/images/coffee_maker_37828.jpg
+34194,5672,4,Coffee Maker,Ergonomic Coffee Maker (SKU-05672),40.82,3.8,367,data/images/coffee_maker_34194.jpg
+36226,6036,4,Coffee Maker,Compact Coffee Maker (SKU-06036),156.06,4.0,739,data/images/coffee_maker_36226.jpg
+38598,6472,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06472),139.07,4.6,418,data/images/coffee_maker_38598.jpg
+33531,5547,4,Coffee Maker,Deluxe Coffee Maker (SKU-05547),124.3,4.6,396,data/images/coffee_maker_33531.jpg
+34079,5652,4,Coffee Maker,Ergonomic Coffee Maker (SKU-05652),178.14,3.8,703,data/images/coffee_maker_34079.jpg
+40773,6899,4,Coffee Maker,Pro Coffee Maker (SKU-06899),107.09,4.4,264,data/images/coffee_maker_40773.jpg
+41542,7042,4,Coffee Maker,Ergonomic Coffee Maker (SKU-07042),138.78,4.3,592,data/images/coffee_maker_41542.jpg
+33021,5449,4,Coffee Maker,Pro Coffee Maker (SKU-05449),119.65,4.7,309,data/images/coffee_maker_33021.jpg
+40145,6780,4,Coffee Maker,Classic Coffee Maker (SKU-06780),71.51,4.5,260,data/images/coffee_maker_40145.jpg
+36322,6052,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06052),83.86,4.2,544,data/images/coffee_maker_36322.jpg
+34166,5669,4,Coffee Maker,Pro Coffee Maker (SKU-05669),124.72,4.6,808,data/images/coffee_maker_34166.jpg
+35141,5849,4,Coffee Maker,Pro Coffee Maker (SKU-05849),137.36,4.8,613,data/images/coffee_maker_35141.jpg
+33996,5632,4,Coffee Maker,Ergonomic Coffee Maker (SKU-05632),124.87,4.2,16,data/images/coffee_maker_33996.jpg
+42091,7150,4,Coffee Maker,Classic Coffee Maker (SKU-07150),57.14,4.7,567,data/images/coffee_maker_42091.jpg
+36724,6125,4,Coffee Maker,Vintage Coffee Maker (SKU-06125),67.07,4.8,637,data/images/coffee_maker_36724.jpg
+42116,7153,4,Coffee Maker,Minimalist Coffee Maker (SKU-07153),118.93,4.4,98,data/images/coffee_maker_42116.jpg
+38326,6422,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06422),118.93,4.0,42,data/images/coffee_maker_38326.jpg
+40564,6862,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06862),68.71,4.5,463,data/images/coffee_maker_40564.jpg
+36975,6165,4,Coffee Maker,Vintage Coffee Maker (SKU-06165),146.01,3.9,315,data/images/coffee_maker_36975.jpg
+41655,7063,4,Coffee Maker,Minimalist Coffee Maker (SKU-07063),65.54,4.1,24,data/images/coffee_maker_41655.jpg
+34183,5671,4,Coffee Maker,Modern Coffee Maker (SKU-05671),41.01,4.0,619,data/images/coffee_maker_34183.jpg
+33166,5474,4,Coffee Maker,Premium Coffee Maker (SKU-05474),80.54,4.7,271,data/images/coffee_maker_33166.jpg
+32799,5415,4,Coffee Maker,Vintage Coffee Maker (SKU-05415),97.41,4.4,527,data/images/coffee_maker_32799.jpg
+35988,5997,4,Coffee Maker,Deluxe Coffee Maker (SKU-05997),67.87,4.2,298,data/images/coffee_maker_35988.jpg
+41876,7104,4,Coffee Maker,Premium Coffee Maker (SKU-07104),35.49,4.6,218,data/images/coffee_maker_41876.jpg
+39331,6618,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06618),101.18,4.7,570,data/images/coffee_maker_39331.jpg
+41183,6972,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06972),96.95,4.8,634,data/images/coffee_maker_41183.jpg
+35981,5995,4,Coffee Maker,Vintage Coffee Maker (SKU-05995),110.98,3.8,348,data/images/coffee_maker_35981.jpg
+37425,6248,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06248),38.55,4.4,34,data/images/coffee_maker_37425.jpg
+35748,5958,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-05958),37.74,4.5,49,data/images/coffee_maker_35748.jpg
+41833,7098,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-07098),97.82,4.8,175,data/images/coffee_maker_41833.jpg
+34906,5807,4,Coffee Maker,Deluxe Coffee Maker (SKU-05807),106.08,3.8,504,data/images/coffee_maker_34906.jpg
+36806,6137,4,Coffee Maker,Deluxe Coffee Maker (SKU-06137),89.6,4.3,265,data/images/coffee_maker_36806.jpg
+33951,5625,4,Coffee Maker,Vintage Coffee Maker (SKU-05625),30.73,4.8,320,data/images/coffee_maker_33951.jpg
+35997,5999,4,Coffee Maker,Pro Coffee Maker (SKU-05999),175.95,4.4,198,data/images/coffee_maker_35997.jpg
+40693,6888,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06888),107.33,4.3,442,data/images/coffee_maker_40693.jpg
+41074,6953,4,Coffee Maker,Minimalist Coffee Maker (SKU-06953),109.83,3.9,652,data/images/coffee_maker_41074.jpg
+37743,6309,4,Coffee Maker,Pro Coffee Maker (SKU-06309),76.18,4.6,760,data/images/coffee_maker_37743.jpg
+39934,6742,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06742),139.92,4.0,355,data/images/coffee_maker_39934.jpg
+41468,7031,4,Coffee Maker,Modern Coffee Maker (SKU-07031),44.08,4.5,366,data/images/coffee_maker_41468.jpg
+36782,6133,4,Coffee Maker,Minimalist Coffee Maker (SKU-06133),65.17,4.9,189,data/images/coffee_maker_36782.jpg
+36749,6128,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06128),133.88,4.7,232,data/images/coffee_maker_36749.jpg
+37771,6315,4,Coffee Maker,Vintage Coffee Maker (SKU-06315),86.13,3.8,159,data/images/coffee_maker_37771.jpg
+32869,5427,4,Coffee Maker,Deluxe Coffee Maker (SKU-05427),154.62,4.8,602,data/images/coffee_maker_32869.jpg
+42034,7137,4,Coffee Maker,Deluxe Coffee Maker (SKU-07137),46.96,4.7,815,data/images/coffee_maker_42034.jpg
+33374,5514,4,Coffee Maker,Premium Coffee Maker (SKU-05514),120.08,4.8,668,data/images/coffee_maker_33374.jpg
+34498,5731,4,Coffee Maker,Modern Coffee Maker (SKU-05731),89.07,4.5,616,data/images/coffee_maker_34498.jpg
+32549,5360,4,Coffee Maker,Classic Coffee Maker (SKU-05360),82.28,4.0,718,data/images/coffee_maker_32549.jpg
+42128,7155,4,Coffee Maker,Vintage Coffee Maker (SKU-07155),37.22,4.9,695,data/images/coffee_maker_42128.jpg
+41348,7007,4,Coffee Maker,Deluxe Coffee Maker (SKU-07007),178.99,4.6,771,data/images/coffee_maker_41348.jpg
+32716,5392,4,Coffee Maker,Ergonomic Coffee Maker (SKU-05392),115.04,4.6,338,data/images/coffee_maker_32716.jpg
+37413,6245,4,Coffee Maker,Vintage Coffee Maker (SKU-06245),127.57,4.6,658,data/images/coffee_maker_37413.jpg
+39969,6751,4,Coffee Maker,Modern Coffee Maker (SKU-06751),130.13,4.7,608,data/images/coffee_maker_39969.jpg
+40163,6784,4,Coffee Maker,Premium Coffee Maker (SKU-06784),161.67,4.1,379,data/images/coffee_maker_40163.jpg
+33423,5528,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-05528),152.67,3.9,836,data/images/coffee_maker_33423.jpg
+35871,5976,4,Coffee Maker,Compact Coffee Maker (SKU-05976),127.35,4.2,79,data/images/coffee_maker_35871.jpg
+33043,5453,4,Coffee Maker,Minimalist Coffee Maker (SKU-05453),84.96,4.2,842,data/images/coffee_maker_33043.jpg
+41410,7020,4,Coffee Maker,Classic Coffee Maker (SKU-07020),112.26,4.5,750,data/images/coffee_maker_41410.jpg
+34286,5690,4,Coffee Maker,Classic Coffee Maker (SKU-05690),85.98,4.0,281,data/images/coffee_maker_34286.jpg
+38996,6547,4,Coffee Maker,Deluxe Coffee Maker (SKU-06547),120.51,4.5,791,data/images/coffee_maker_38996.jpg
+38765,6509,4,Coffee Maker,Pro Coffee Maker (SKU-06509),86.96,4.7,830,data/images/coffee_maker_38765.jpg
+40265,6807,4,Coffee Maker,Deluxe Coffee Maker (SKU-06807),157.07,4.8,235,data/images/coffee_maker_40265.jpg
+39036,6554,4,Coffee Maker,Premium Coffee Maker (SKU-06554),81.18,4.2,318,data/images/coffee_maker_39036.jpg
+39773,6715,4,Coffee Maker,Vintage Coffee Maker (SKU-06715),117.02,4.4,797,data/images/coffee_maker_39773.jpg
+35401,5892,4,Coffee Maker,Ergonomic Coffee Maker (SKU-05892),89.14,4.4,828,data/images/coffee_maker_35401.jpg
+36386,6066,4,Coffee Maker,Compact Coffee Maker (SKU-06066),137.71,4.9,35,data/images/coffee_maker_36386.jpg
+37349,6232,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06232),59.36,3.8,829,data/images/coffee_maker_37349.jpg
+38701,6498,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06498),40.68,4.9,818,data/images/coffee_maker_38701.jpg
+38168,6397,4,Coffee Maker,Deluxe Coffee Maker (SKU-06397),169.05,3.9,803,data/images/coffee_maker_38168.jpg
+34781,5783,4,Coffee Maker,Minimalist Coffee Maker (SKU-05783),101.87,4.0,348,data/images/coffee_maker_34781.jpg
+35039,5833,4,Coffee Maker,Minimalist Coffee Maker (SKU-05833),102.87,4.1,578,data/images/coffee_maker_35039.jpg
+42028,7135,4,Coffee Maker,Vintage Coffee Maker (SKU-07135),130.5,4.8,170,data/images/coffee_maker_42028.jpg
+41140,6963,4,Coffee Maker,Minimalist Coffee Maker (SKU-06963),110.86,4.1,434,data/images/coffee_maker_41140.jpg
+33217,5486,4,Coffee Maker,Compact Coffee Maker (SKU-05486),137.64,4.2,603,data/images/coffee_maker_33217.jpg
+40233,6802,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06802),92.02,3.9,473,data/images/coffee_maker_40233.jpg
+41288,6996,4,Coffee Maker,Compact Coffee Maker (SKU-06996),48.47,4.7,53,data/images/coffee_maker_41288.jpg
+40906,6922,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06922),108.76,4.6,326,data/images/coffee_maker_40906.jpg
+39851,6727,4,Coffee Maker,Deluxe Coffee Maker (SKU-06727),149.0,4.0,50,data/images/coffee_maker_39851.jpg
+34011,5635,4,Coffee Maker,Vintage Coffee Maker (SKU-05635),93.67,3.9,836,data/images/coffee_maker_34011.jpg
+33962,5627,4,Coffee Maker,Deluxe Coffee Maker (SKU-05627),112.52,3.8,376,data/images/coffee_maker_33962.jpg
+38622,6478,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06478),46.84,3.8,132,data/images/coffee_maker_38622.jpg
+39736,6708,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06708),107.27,4.5,40,data/images/coffee_maker_39736.jpg
+37797,6320,4,Coffee Maker,Classic Coffee Maker (SKU-06320),61.8,4.5,392,data/images/coffee_maker_37797.jpg
+37374,6237,4,Coffee Maker,Deluxe Coffee Maker (SKU-06237),84.11,4.8,166,data/images/coffee_maker_37374.jpg
+33252,5490,4,Coffee Maker,Classic Coffee Maker (SKU-05490),83.0,4.1,307,data/images/coffee_maker_33252.jpg
+40417,6834,4,Coffee Maker,Premium Coffee Maker (SKU-06834),75.3,4.6,626,data/images/coffee_maker_40417.jpg
+39193,6588,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06588),93.55,4.5,160,data/images/coffee_maker_39193.jpg
+38831,6522,4,Coffee Maker,Ergonomic Coffee Maker (SKU-06522),144.99,4.0,453,data/images/coffee_maker_38831.jpg
+40099,6771,4,Coffee Maker,Modern Coffee Maker (SKU-06771),117.98,4.0,497,data/images/coffee_maker_40099.jpg
+38711,6501,4,Coffee Maker,Modern Coffee Maker (SKU-06501),160.38,4.3,675,data/images/coffee_maker_38711.jpg
+40270,6808,4,Coffee Maker,Commercial Grade Coffee Maker (SKU-06808),44.35,3.8,669,data/images/coffee_maker_40270.jpg
+42235,7174,5,Fan,Premium Fan (SKU-07174),39.96,4.0,537,data/images/fan_42235.jpg
+48025,8234,5,Fan,Premium Fan (SKU-08234),40.07,4.2,523,data/images/fan_48025.jpg
+42938,7298,5,Fan,Commercial Grade Fan (SKU-07298),28.79,4.0,334,data/images/fan_42938.jpg
+46525,7963,5,Fan,Minimalist Fan (SKU-07963),33.86,4.6,849,data/images/fan_46525.jpg
+42230,7173,5,Fan,Minimalist Fan (SKU-07173),53.77,4.3,767,data/images/fan_42230.jpg
+45487,7773,5,Fan,Minimalist Fan (SKU-07773),26.02,4.2,316,data/images/fan_45487.jpg
+42689,7252,5,Fan,Ergonomic Fan (SKU-07252),31.76,4.6,568,data/images/fan_42689.jpg
+44265,7553,5,Fan,Minimalist Fan (SKU-07553),83.85,4.6,50,data/images/fan_44265.jpg
+46088,7886,5,Fan,Compact Fan (SKU-07886),30.56,4.8,87,data/images/fan_46088.jpg
+47903,8213,5,Fan,Minimalist Fan (SKU-08213),46.01,4.0,439,data/images/fan_47903.jpg
+47021,8058,5,Fan,Commercial Grade Fan (SKU-08058),65.11,4.3,842,data/images/fan_47021.jpg
+45529,7780,5,Fan,Classic Fan (SKU-07780),29.38,4.7,553,data/images/fan_45529.jpg
+42959,7301,5,Fan,Modern Fan (SKU-07301),66.6,4.1,726,data/images/fan_42959.jpg
+43939,7486,5,Fan,Compact Fan (SKU-07486),67.3,4.4,395,data/images/fan_43939.jpg
+42737,7261,5,Fan,Modern Fan (SKU-07261),54.69,4.0,144,data/images/fan_42737.jpg
+45762,7825,5,Fan,Vintage Fan (SKU-07825),89.61,4.5,223,data/images/fan_45762.jpg
+47768,8193,5,Fan,Minimalist Fan (SKU-08193),89.7,4.3,130,data/images/fan_47768.jpg
+45906,7857,5,Fan,Deluxe Fan (SKU-07857),28.9,4.4,562,data/images/fan_45906.jpg
+47864,8207,5,Fan,Deluxe Fan (SKU-08207),87.5,4.5,317,data/images/fan_47864.jpg
+45801,7836,5,Fan,Compact Fan (SKU-07836),38.05,4.4,460,data/images/fan_45801.jpg
+44883,7660,5,Fan,Classic Fan (SKU-07660),52.46,4.7,26,data/images/fan_44883.jpg
+47322,8116,5,Fan,Compact Fan (SKU-08116),47.58,4.5,529,data/images/fan_47322.jpg
+47884,8210,5,Fan,Classic Fan (SKU-08210),85.26,4.1,362,data/images/fan_47884.jpg
+43877,7473,5,Fan,Minimalist Fan (SKU-07473),88.31,3.8,262,data/images/fan_43877.jpg
+47183,8088,5,Fan,Commercial Grade Fan (SKU-08088),60.09,4.7,163,data/images/fan_47183.jpg
+43448,7397,5,Fan,Deluxe Fan (SKU-07397),31.03,4.1,470,data/images/fan_43448.jpg
+44495,7587,5,Fan,Deluxe Fan (SKU-07587),74.08,3.9,798,data/images/fan_44495.jpg
+46252,7915,5,Fan,Vintage Fan (SKU-07915),57.93,4.0,523,data/images/fan_46252.jpg
+43190,7347,5,Fan,Deluxe Fan (SKU-07347),27.34,4.1,128,data/images/fan_43190.jpg
+47006,8056,5,Fan,Compact Fan (SKU-08056),47.2,4.2,784,data/images/fan_47006.jpg
+42384,7200,5,Fan,Classic Fan (SKU-07200),85.89,4.4,849,data/images/fan_42384.jpg
+43028,7311,5,Fan,Modern Fan (SKU-07311),50.79,4.3,210,data/images/fan_43028.jpg
+43470,7399,5,Fan,Pro Fan (SKU-07399),81.76,4.0,420,data/images/fan_43470.jpg
+42328,7187,5,Fan,Deluxe Fan (SKU-07187),57.29,4.9,115,data/images/fan_42328.jpg
+46087,7886,5,Fan,Compact Fan (SKU-07886),50.41,4.4,575,data/images/fan_46087.jpg
+46575,7971,5,Fan,Modern Fan (SKU-07971),32.55,4.7,817,data/images/fan_46575.jpg
+43270,7361,5,Fan,Modern Fan (SKU-07361),68.82,4.4,476,data/images/fan_43270.jpg
+43940,7486,5,Fan,Compact Fan (SKU-07486),77.38,4.7,540,data/images/fan_43940.jpg
+43933,7485,5,Fan,Vintage Fan (SKU-07485),30.25,4.2,592,data/images/fan_43933.jpg
+47118,8076,5,Fan,Compact Fan (SKU-08076),34.99,4.0,220,data/images/fan_47118.jpg
+43198,7348,5,Fan,Commercial Grade Fan (SKU-07348),88.4,4.5,551,data/images/fan_43198.jpg
+48139,8259,5,Fan,Pro Fan (SKU-08259),62.38,4.3,303,data/images/fan_48139.jpg
+43888,7474,5,Fan,Premium Fan (SKU-07474),84.97,4.3,124,data/images/fan_43888.jpg
+44970,7678,5,Fan,Commercial Grade Fan (SKU-07678),83.38,4.7,450,data/images/fan_44970.jpg
+44632,7610,5,Fan,Classic Fan (SKU-07610),57.66,4.2,39,data/images/fan_44632.jpg
+43928,7483,5,Fan,Minimalist Fan (SKU-07483),68.3,3.9,551,data/images/fan_43928.jpg
+46536,7965,5,Fan,Vintage Fan (SKU-07965),40.11,3.9,26,data/images/fan_46536.jpg
+43370,7380,5,Fan,Classic Fan (SKU-07380),87.77,4.3,667,data/images/fan_43370.jpg
+42657,7246,5,Fan,Compact Fan (SKU-07246),85.86,4.8,842,data/images/fan_42657.jpg
+42318,7186,5,Fan,Compact Fan (SKU-07186),80.33,3.8,57,data/images/fan_42318.jpg
+47752,8191,5,Fan,Modern Fan (SKU-08191),65.26,4.5,481,data/images/fan_47752.jpg
+43044,7316,5,Fan,Compact Fan (SKU-07316),50.11,4.4,792,data/images/fan_43044.jpg
+46627,7982,5,Fan,Ergonomic Fan (SKU-07982),38.75,4.3,704,data/images/fan_46627.jpg
+42704,7254,5,Fan,Premium Fan (SKU-07254),28.75,4.6,471,data/images/fan_42704.jpg
+44616,7609,5,Fan,Pro Fan (SKU-07609),52.96,4.0,163,data/images/fan_44616.jpg
+42475,7218,5,Fan,Commercial Grade Fan (SKU-07218),32.88,4.1,277,data/images/fan_42475.jpg
+44499,7588,5,Fan,Commercial Grade Fan (SKU-07588),69.98,3.9,274,data/images/fan_44499.jpg
+43781,7456,5,Fan,Compact Fan (SKU-07456),66.15,4.1,115,data/images/fan_43781.jpg
+46671,7994,5,Fan,Premium Fan (SKU-07994),64.98,4.1,834,data/images/fan_46671.jpg
+46987,8054,5,Fan,Premium Fan (SKU-08054),67.61,4.7,704,data/images/fan_46987.jpg
+42750,7263,5,Fan,Minimalist Fan (SKU-07263),33.49,4.8,588,data/images/fan_42750.jpg
+47722,8187,5,Fan,Deluxe Fan (SKU-08187),67.5,4.2,169,data/images/fan_47722.jpg
+43548,7412,5,Fan,Ergonomic Fan (SKU-07412),51.91,4.7,755,data/images/fan_43548.jpg
+42712,7256,5,Fan,Compact Fan (SKU-07256),50.15,4.9,197,data/images/fan_42712.jpg
+47698,8184,5,Fan,Premium Fan (SKU-08184),52.04,4.3,260,data/images/fan_47698.jpg
+43350,7377,5,Fan,Deluxe Fan (SKU-07377),76.36,4.4,485,data/images/fan_43350.jpg
+42470,7217,5,Fan,Deluxe Fan (SKU-07217),33.9,4.4,79,data/images/fan_42470.jpg
+43599,7422,5,Fan,Ergonomic Fan (SKU-07422),46.02,4.7,507,data/images/fan_43599.jpg
+42559,7230,5,Fan,Classic Fan (SKU-07230),88.42,4.7,187,data/images/fan_42559.jpg
+45276,7736,5,Fan,Compact Fan (SKU-07736),27.76,4.2,511,data/images/fan_45276.jpg
+46691,7999,5,Fan,Pro Fan (SKU-07999),60.61,4.3,322,data/images/fan_46691.jpg
+47902,8213,5,Fan,Minimalist Fan (SKU-08213),42.28,4.0,524,data/images/fan_47902.jpg
+44231,7545,5,Fan,Vintage Fan (SKU-07545),34.74,4.2,778,data/images/fan_44231.jpg
+42561,7230,5,Fan,Classic Fan (SKU-07230),67.35,4.7,747,data/images/fan_42561.jpg
+43602,7423,5,Fan,Minimalist Fan (SKU-07423),50.63,4.3,35,data/images/fan_43602.jpg
+46976,8053,5,Fan,Minimalist Fan (SKU-08053),87.14,3.9,206,data/images/fan_46976.jpg
+47912,8213,5,Fan,Minimalist Fan (SKU-08213),76.14,4.1,143,data/images/fan_47912.jpg
+43371,7380,5,Fan,Classic Fan (SKU-07380),77.57,3.9,111,data/images/fan_43371.jpg
+43032,7313,5,Fan,Minimalist Fan (SKU-07313),79.65,3.8,246,data/images/fan_43032.jpg
+46243,7913,5,Fan,Minimalist Fan (SKU-07913),54.99,4.5,816,data/images/fan_46243.jpg
+47955,8220,5,Fan,Classic Fan (SKU-08220),50.1,4.3,93,data/images/fan_47955.jpg
+45436,7762,5,Fan,Ergonomic Fan (SKU-07762),82.8,4.3,187,data/images/fan_45436.jpg
+46856,8029,5,Fan,Pro Fan (SKU-08029),34.75,4.6,463,data/images/fan_46856.jpg
+46906,8040,5,Fan,Classic Fan (SKU-08040),53.8,3.9,214,data/images/fan_46906.jpg
+45320,7743,5,Fan,Minimalist Fan (SKU-07743),30.5,4.6,635,data/images/fan_45320.jpg
+43184,7346,5,Fan,Compact Fan (SKU-07346),77.13,3.9,31,data/images/fan_43184.jpg
+45002,7683,5,Fan,Minimalist Fan (SKU-07683),87.16,4.6,840,data/images/fan_45002.jpg
+42544,7227,5,Fan,Deluxe Fan (SKU-07227),55.02,4.9,450,data/images/fan_42544.jpg
+43111,7328,5,Fan,Commercial Grade Fan (SKU-07328),75.34,4.5,554,data/images/fan_43111.jpg
+44827,7648,5,Fan,Commercial Grade Fan (SKU-07648),48.05,4.3,787,data/images/fan_44827.jpg
+42307,7184,5,Fan,Premium Fan (SKU-07184),67.91,4.6,334,data/images/fan_42307.jpg
+45305,7738,5,Fan,Commercial Grade Fan (SKU-07738),52.57,3.9,382,data/images/fan_45305.jpg
+47700,8185,5,Fan,Vintage Fan (SKU-08185),87.9,4.1,782,data/images/fan_47700.jpg
+42685,7251,5,Fan,Modern Fan (SKU-07251),39.8,4.9,477,data/images/fan_42685.jpg
+43845,7469,5,Fan,Pro Fan (SKU-07469),38.36,3.9,396,data/images/fan_43845.jpg
+47162,8085,5,Fan,Vintage Fan (SKU-08085),41.94,3.9,231,data/images/fan_47162.jpg
+45932,7860,5,Fan,Classic Fan (SKU-07860),59.46,3.8,384,data/images/fan_45932.jpg
+47712,8186,5,Fan,Compact Fan (SKU-08186),45.93,3.9,502,data/images/fan_47712.jpg
+42174,7166,5,Fan,Compact Fan (SKU-07166),32.4,4.3,174,data/images/fan_42174.jpg
+42379,7200,5,Fan,Classic Fan (SKU-07200),73.61,4.7,240,data/images/fan_42379.jpg
+43924,7482,5,Fan,Ergonomic Fan (SKU-07482),33.32,4.2,416,data/images/fan_43924.jpg
+45456,7767,5,Fan,Deluxe Fan (SKU-07767),39.59,4.2,841,data/images/fan_45456.jpg
+44204,7539,5,Fan,Pro Fan (SKU-07539),60.75,4.2,640,data/images/fan_44204.jpg
+42620,7239,5,Fan,Pro Fan (SKU-07239),86.29,4.1,739,data/images/fan_42620.jpg
+42474,7218,5,Fan,Commercial Grade Fan (SKU-07218),68.93,4.3,127,data/images/fan_42474.jpg
+44338,7564,5,Fan,Premium Fan (SKU-07564),66.97,4.1,558,data/images/fan_44338.jpg
+47657,8178,5,Fan,Commercial Grade Fan (SKU-08178),45.59,4.8,794,data/images/fan_47657.jpg
+43193,7348,5,Fan,Commercial Grade Fan (SKU-07348),84.72,4.1,411,data/images/fan_43193.jpg
+45871,7849,5,Fan,Pro Fan (SKU-07849),39.36,4.9,316,data/images/fan_45871.jpg
+45973,7867,5,Fan,Deluxe Fan (SKU-07867),72.34,4.7,250,data/images/fan_45973.jpg
+45177,7718,5,Fan,Commercial Grade Fan (SKU-07718),28.49,4.2,676,data/images/fan_45177.jpg
+45019,7686,5,Fan,Compact Fan (SKU-07686),88.99,4.8,811,data/images/fan_45019.jpg
+45011,7685,5,Fan,Vintage Fan (SKU-07685),72.31,3.9,227,data/images/fan_45011.jpg
+42244,7175,5,Fan,Vintage Fan (SKU-07175),72.18,4.7,621,data/images/fan_42244.jpg
+44044,7505,5,Fan,Vintage Fan (SKU-07505),56.74,4.0,58,data/images/fan_44044.jpg
+44635,7610,5,Fan,Classic Fan (SKU-07610),72.62,4.4,715,data/images/fan_44635.jpg
+46568,7970,5,Fan,Classic Fan (SKU-07970),73.31,4.5,644,data/images/fan_46568.jpg
+44760,7636,5,Fan,Compact Fan (SKU-07636),61.72,4.6,821,data/images/fan_44760.jpg
+44072,7508,5,Fan,Commercial Grade Fan (SKU-07508),62.51,4.8,243,data/images/fan_44072.jpg
+47487,8145,5,Fan,Vintage Fan (SKU-08145),35.39,4.3,670,data/images/fan_47487.jpg
+47241,8102,5,Fan,Ergonomic Fan (SKU-08102),77.75,4.6,529,data/images/fan_47241.jpg
+47244,8102,5,Fan,Ergonomic Fan (SKU-08102),89.46,3.9,238,data/images/fan_47244.jpg
+46621,7982,5,Fan,Ergonomic Fan (SKU-07982),82.18,4.5,487,data/images/fan_46621.jpg
+45513,7777,5,Fan,Deluxe Fan (SKU-07777),61.07,4.6,245,data/images/fan_45513.jpg
+45810,7837,5,Fan,Deluxe Fan (SKU-07837),64.96,4.6,126,data/images/fan_45810.jpg
+43326,7373,5,Fan,Minimalist Fan (SKU-07373),75.94,4.4,612,data/images/fan_43326.jpg
+43334,7374,5,Fan,Premium Fan (SKU-07374),80.11,4.7,26,data/images/fan_43334.jpg
+45492,7774,5,Fan,Premium Fan (SKU-07774),73.46,4.0,432,data/images/fan_45492.jpg
+42405,7205,5,Fan,Vintage Fan (SKU-07205),74.3,4.5,769,data/images/fan_42405.jpg
+44855,7656,5,Fan,Compact Fan (SKU-07656),79.72,4.3,225,data/images/fan_44855.jpg
+47703,8185,5,Fan,Vintage Fan (SKU-08185),89.75,4.2,395,data/images/fan_47703.jpg
+47357,8122,5,Fan,Ergonomic Fan (SKU-08122),66.81,4.7,241,data/images/fan_47357.jpg
+46733,8007,5,Fan,Deluxe Fan (SKU-08007),33.95,4.5,836,data/images/fan_46733.jpg
+44751,7634,5,Fan,Premium Fan (SKU-07634),70.21,3.8,52,data/images/fan_44751.jpg
+45869,7849,5,Fan,Pro Fan (SKU-07849),35.84,4.0,34,data/images/fan_45869.jpg
+43686,7438,5,Fan,Commercial Grade Fan (SKU-07438),51.14,4.8,235,data/images/fan_43686.jpg
+44722,7626,5,Fan,Compact Fan (SKU-07626),66.74,3.9,350,data/images/fan_44722.jpg
+42182,7166,5,Fan,Compact Fan (SKU-07166),39.64,4.6,780,data/images/fan_42182.jpg
+47552,8160,5,Fan,Classic Fan (SKU-08160),56.62,4.5,173,data/images/fan_47552.jpg
+42856,7285,5,Fan,Vintage Fan (SKU-07285),26.48,4.2,333,data/images/fan_42856.jpg
+47391,8126,5,Fan,Compact Fan (SKU-08126),30.0,3.9,123,data/images/fan_47391.jpg
+44093,7514,5,Fan,Premium Fan (SKU-07514),73.48,4.9,131,data/images/fan_44093.jpg
+44266,7553,5,Fan,Minimalist Fan (SKU-07553),76.25,4.4,446,data/images/fan_44266.jpg
+45137,7710,5,Fan,Classic Fan (SKU-07710),49.27,3.9,127,data/images/fan_45137.jpg
+45419,7759,5,Fan,Pro Fan (SKU-07759),53.2,3.9,642,data/images/fan_45419.jpg
+44569,7599,5,Fan,Pro Fan (SKU-07599),29.06,4.7,317,data/images/fan_44569.jpg
+44822,7648,5,Fan,Commercial Grade Fan (SKU-07648),89.88,4.8,827,data/images/fan_44822.jpg
+46913,8042,5,Fan,Ergonomic Fan (SKU-08042),36.27,4.5,674,data/images/fan_46913.jpg
+46818,8023,5,Fan,Minimalist Fan (SKU-08023),76.06,3.9,724,data/images/fan_46818.jpg
+46413,7944,5,Fan,Premium Fan (SKU-07944),89.41,4.6,151,data/images/fan_46413.jpg
+55554,9654,6,Kettle,Premium Kettle (SKU-09654),67.51,4.0,514,data/images/kettle_55554.jpg
+56052,9750,6,Kettle,Classic Kettle (SKU-09750),38.1,4.2,633,data/images/kettle_56052.jpg
+53048,9191,6,Kettle,Modern Kettle (SKU-09191),21.2,4.7,724,data/images/kettle_53048.jpg
+51133,8830,6,Kettle,Classic Kettle (SKU-08830),45.89,4.1,771,data/images/kettle_51133.jpg
+53102,9199,6,Kettle,Pro Kettle (SKU-09199),22.8,4.7,595,data/images/kettle_53102.jpg
+53363,9251,6,Kettle,Modern Kettle (SKU-09251),62.09,4.0,63,data/images/kettle_53363.jpg
+50735,8754,6,Kettle,Premium Kettle (SKU-08754),41.75,4.8,370,data/images/kettle_50735.jpg
+57118,9952,6,Kettle,Ergonomic Kettle (SKU-09952),26.66,3.9,757,data/images/kettle_57118.jpg
+51614,8920,6,Kettle,Classic Kettle (SKU-08920),65.19,4.8,806,data/images/kettle_51614.jpg
+55675,9682,6,Kettle,Ergonomic Kettle (SKU-09682),56.47,4.6,196,data/images/kettle_55675.jpg
+51688,8930,6,Kettle,Classic Kettle (SKU-08930),31.25,3.9,583,data/images/kettle_51688.jpg
+55957,9729,6,Kettle,Pro Kettle (SKU-09729),57.56,4.5,562,data/images/kettle_55957.jpg
+56982,9923,6,Kettle,Minimalist Kettle (SKU-09923),20.66,4.1,632,data/images/kettle_56982.jpg
+53413,9260,6,Kettle,Classic Kettle (SKU-09260),34.1,4.1,177,data/images/kettle_53413.jpg
+50845,8774,6,Kettle,Premium Kettle (SKU-08774),33.77,4.7,414,data/images/kettle_50845.jpg
+53041,9190,6,Kettle,Classic Kettle (SKU-09190),57.96,4.3,219,data/images/kettle_53041.jpg
+55634,9671,6,Kettle,Modern Kettle (SKU-09671),33.4,4.0,242,data/images/kettle_55634.jpg
+56860,9898,6,Kettle,Commercial Grade Kettle (SKU-09898),21.67,3.9,264,data/images/kettle_56860.jpg
+51181,8840,6,Kettle,Classic Kettle (SKU-08840),48.09,4.2,704,data/images/kettle_51181.jpg
+57874,10088,6,Kettle,Commercial Grade Kettle (SKU-10088),40.54,4.2,653,data/images/kettle_57874.jpg
+49371,8492,6,Kettle,Ergonomic Kettle (SKU-08492),31.83,4.6,217,data/images/kettle_49371.jpg
+52672,9119,6,Kettle,Pro Kettle (SKU-09119),68.16,4.4,213,data/images/kettle_52672.jpg
+57845,10082,6,Kettle,Ergonomic Kettle (SKU-10082),39.66,4.7,156,data/images/kettle_57845.jpg
+55055,9563,6,Kettle,Minimalist Kettle (SKU-09563),56.53,4.9,96,data/images/kettle_55055.jpg
+56333,9798,6,Kettle,Commercial Grade Kettle (SKU-09798),27.24,4.6,319,data/images/kettle_56333.jpg
+56003,9740,6,Kettle,Classic Kettle (SKU-09740),43.19,4.9,398,data/images/kettle_56003.jpg
+53132,9204,6,Kettle,Premium Kettle (SKU-09204),68.36,4.0,175,data/images/kettle_53132.jpg
+53626,9297,6,Kettle,Deluxe Kettle (SKU-09297),27.55,4.0,504,data/images/kettle_53626.jpg
+51543,8907,6,Kettle,Deluxe Kettle (SKU-08907),24.43,4.6,303,data/images/kettle_51543.jpg
+49805,8575,6,Kettle,Vintage Kettle (SKU-08575),46.16,3.9,368,data/images/kettle_49805.jpg
+48802,8385,6,Kettle,Vintage Kettle (SKU-08385),40.19,4.4,437,data/images/kettle_48802.jpg
+50711,8749,6,Kettle,Pro Kettle (SKU-08749),55.38,4.4,508,data/images/kettle_50711.jpg
+50762,8757,6,Kettle,Deluxe Kettle (SKU-08757),42.91,4.3,531,data/images/kettle_50762.jpg
+57461,10010,6,Kettle,Classic Kettle (SKU-10010),67.27,4.7,80,data/images/kettle_57461.jpg
+48586,8341,6,Kettle,Modern Kettle (SKU-08341),24.87,4.7,449,data/images/kettle_48586.jpg
+52650,9114,6,Kettle,Premium Kettle (SKU-09114),52.54,4.4,358,data/images/kettle_52650.jpg
+48180,8267,6,Kettle,Deluxe Kettle (SKU-08267),59.34,3.9,585,data/images/kettle_48180.jpg
+49831,8578,6,Kettle,Commercial Grade Kettle (SKU-08578),42.95,3.9,845,data/images/kettle_49831.jpg
+48665,8352,6,Kettle,Ergonomic Kettle (SKU-08352),44.85,4.2,291,data/images/kettle_48665.jpg
+52661,9116,6,Kettle,Compact Kettle (SKU-09116),28.23,4.2,228,data/images/kettle_52661.jpg
+57312,9987,6,Kettle,Deluxe Kettle (SKU-09987),20.89,3.9,93,data/images/kettle_57312.jpg
+49600,8537,6,Kettle,Deluxe Kettle (SKU-08537),63.97,4.8,395,data/images/kettle_49600.jpg
+54006,9373,6,Kettle,Minimalist Kettle (SKU-09373),42.55,4.9,40,data/images/kettle_54006.jpg
+57149,9956,6,Kettle,Compact Kettle (SKU-09956),47.89,4.4,774,data/images/kettle_57149.jpg
+52586,9104,6,Kettle,Premium Kettle (SKU-09104),43.19,4.8,111,data/images/kettle_52586.jpg
+50044,8624,6,Kettle,Premium Kettle (SKU-08624),39.53,4.7,693,data/images/kettle_50044.jpg
+52853,9153,6,Kettle,Minimalist Kettle (SKU-09153),52.83,4.7,192,data/images/kettle_52853.jpg
+52778,9141,6,Kettle,Modern Kettle (SKU-09141),24.66,4.3,793,data/images/kettle_52778.jpg
+48737,8371,6,Kettle,Modern Kettle (SKU-08371),30.18,4.4,522,data/images/kettle_48737.jpg
+52439,9080,6,Kettle,Classic Kettle (SKU-09080),59.63,4.4,611,data/images/kettle_52439.jpg
+52392,9073,6,Kettle,Minimalist Kettle (SKU-09073),35.61,4.5,252,data/images/kettle_52392.jpg
+50255,8665,6,Kettle,Vintage Kettle (SKU-08665),46.64,4.0,482,data/images/kettle_50255.jpg
+51915,8969,6,Kettle,Pro Kettle (SKU-08969),47.88,4.0,401,data/images/kettle_51915.jpg
+50941,8791,6,Kettle,Modern Kettle (SKU-08791),38.15,4.8,54,data/images/kettle_50941.jpg
+48729,8369,6,Kettle,Pro Kettle (SKU-08369),45.34,4.5,534,data/images/kettle_48729.jpg
+51456,8889,6,Kettle,Pro Kettle (SKU-08889),64.69,4.5,633,data/images/kettle_51456.jpg
+49079,8437,6,Kettle,Deluxe Kettle (SKU-08437),35.65,4.7,380,data/images/kettle_49079.jpg
+52660,9115,6,Kettle,Vintage Kettle (SKU-09115),24.16,4.8,538,data/images/kettle_52660.jpg
+56694,9871,6,Kettle,Modern Kettle (SKU-09871),56.98,4.2,143,data/images/kettle_56694.jpg
+48254,8281,6,Kettle,Modern Kettle (SKU-08281),40.88,4.9,547,data/images/kettle_48254.jpg
+49765,8569,6,Kettle,Pro Kettle (SKU-08569),56.25,4.2,116,data/images/kettle_49765.jpg
+48851,8398,6,Kettle,Commercial Grade Kettle (SKU-08398),68.98,4.5,654,data/images/kettle_48851.jpg
+51580,8917,6,Kettle,Deluxe Kettle (SKU-08917),20.62,4.4,367,data/images/kettle_51580.jpg
+52788,9142,6,Kettle,Ergonomic Kettle (SKU-09142),21.46,4.7,680,data/images/kettle_52788.jpg
+56029,9747,6,Kettle,Deluxe Kettle (SKU-09747),23.96,4.6,715,data/images/kettle_56029.jpg
+53652,9303,6,Kettle,Minimalist Kettle (SKU-09303),36.83,4.1,500,data/images/kettle_53652.jpg
+48493,8323,6,Kettle,Minimalist Kettle (SKU-08323),47.03,4.6,391,data/images/kettle_48493.jpg
+49922,8599,6,Kettle,Pro Kettle (SKU-08599),43.55,4.7,471,data/images/kettle_49922.jpg
+52839,9151,6,Kettle,Modern Kettle (SKU-09151),37.88,4.3,145,data/images/kettle_52839.jpg
+56749,9880,6,Kettle,Classic Kettle (SKU-09880),63.98,4.4,291,data/images/kettle_56749.jpg
+51530,8903,6,Kettle,Minimalist Kettle (SKU-08903),25.64,3.9,431,data/images/kettle_51530.jpg
+50235,8662,6,Kettle,Ergonomic Kettle (SKU-08662),31.98,4.0,55,data/images/kettle_50235.jpg
+53711,9318,6,Kettle,Commercial Grade Kettle (SKU-09318),56.97,4.0,89,data/images/kettle_53711.jpg
+55963,9731,6,Kettle,Modern Kettle (SKU-09731),52.55,4.5,676,data/images/kettle_55963.jpg
+51032,8809,6,Kettle,Pro Kettle (SKU-08809),56.89,4.7,797,data/images/kettle_51032.jpg
+53030,9188,6,Kettle,Commercial Grade Kettle (SKU-09188),32.69,3.8,286,data/images/kettle_53030.jpg
+50916,8786,6,Kettle,Compact Kettle (SKU-08786),25.31,4.1,262,data/images/kettle_50916.jpg
+53131,9204,6,Kettle,Premium Kettle (SKU-09204),23.47,4.0,215,data/images/kettle_53131.jpg
+52303,9054,6,Kettle,Premium Kettle (SKU-09054),52.75,4.9,773,data/images/kettle_52303.jpg
+48243,8278,6,Kettle,Commercial Grade Kettle (SKU-08278),33.95,4.5,530,data/images/kettle_48243.jpg
+48468,8320,6,Kettle,Classic Kettle (SKU-08320),63.31,4.0,157,data/images/kettle_48468.jpg
+57308,9986,6,Kettle,Compact Kettle (SKU-09986),30.62,3.8,643,data/images/kettle_57308.jpg
+52491,9088,6,Kettle,Commercial Grade Kettle (SKU-09088),40.41,4.6,474,data/images/kettle_52491.jpg
+48451,8313,6,Kettle,Minimalist Kettle (SKU-08313),31.63,4.7,778,data/images/kettle_48451.jpg
+54130,9390,6,Kettle,Classic Kettle (SKU-09390),53.24,4.1,751,data/images/kettle_54130.jpg
+48679,8356,6,Kettle,Compact Kettle (SKU-08356),63.7,3.8,457,data/images/kettle_48679.jpg
+57442,10007,6,Kettle,Deluxe Kettle (SKU-10007),25.54,4.3,564,data/images/kettle_57442.jpg
+49218,8462,6,Kettle,Ergonomic Kettle (SKU-08462),31.33,4.2,716,data/images/kettle_49218.jpg
+57608,10038,6,Kettle,Commercial Grade Kettle (SKU-10038),39.01,4.9,521,data/images/kettle_57608.jpg
+53809,9341,6,Kettle,Modern Kettle (SKU-09341),41.12,3.8,284,data/images/kettle_53809.jpg
+56954,9916,6,Kettle,Compact Kettle (SKU-09916),65.89,4.1,97,data/images/kettle_56954.jpg
+56119,9759,6,Kettle,Pro Kettle (SKU-09759),68.63,4.7,289,data/images/kettle_56119.jpg
+53977,9369,6,Kettle,Pro Kettle (SKU-09369),60.24,3.8,341,data/images/kettle_53977.jpg
+55342,9614,6,Kettle,Premium Kettle (SKU-09614),51.06,4.4,650,data/images/kettle_55342.jpg
+51229,8849,6,Kettle,Pro Kettle (SKU-08849),61.46,4.1,412,data/images/kettle_51229.jpg
+50100,8637,6,Kettle,Deluxe Kettle (SKU-08637),30.91,3.9,690,data/images/kettle_50100.jpg
+52913,9164,6,Kettle,Premium Kettle (SKU-09164),24.82,4.1,334,data/images/kettle_52913.jpg
+56550,9841,6,Kettle,Modern Kettle (SKU-09841),48.35,4.1,668,data/images/kettle_56550.jpg
+56705,9873,6,Kettle,Minimalist Kettle (SKU-09873),49.91,4.1,348,data/images/kettle_56705.jpg
+58120,10134,6,Kettle,Premium Kettle (SKU-10134),57.15,3.9,82,data/images/kettle_58120.jpg
+53939,9362,6,Kettle,Ergonomic Kettle (SKU-09362),63.85,4.8,651,data/images/kettle_53939.jpg
+51813,8954,6,Kettle,Premium Kettle (SKU-08954),49.65,4.8,141,data/images/kettle_51813.jpg
+54040,9378,6,Kettle,Commercial Grade Kettle (SKU-09378),51.3,4.4,76,data/images/kettle_54040.jpg
+57122,9952,6,Kettle,Ergonomic Kettle (SKU-09952),59.72,3.8,49,data/images/kettle_57122.jpg
+51200,8843,6,Kettle,Minimalist Kettle (SKU-08843),33.38,4.7,483,data/images/kettle_51200.jpg
+55808,9700,6,Kettle,Classic Kettle (SKU-09700),46.06,3.9,290,data/images/kettle_55808.jpg
+56527,9838,6,Kettle,Commercial Grade Kettle (SKU-09838),31.0,4.3,215,data/images/kettle_56527.jpg
+51794,8951,6,Kettle,Modern Kettle (SKU-08951),65.47,4.5,496,data/images/kettle_51794.jpg
+56407,9817,6,Kettle,Deluxe Kettle (SKU-09817),63.94,4.4,315,data/images/kettle_56407.jpg
+48178,8267,6,Kettle,Deluxe Kettle (SKU-08267),54.71,3.9,452,data/images/kettle_48178.jpg
+48182,8268,6,Kettle,Commercial Grade Kettle (SKU-08268),41.72,4.7,673,data/images/kettle_48182.jpg
+51676,8928,6,Kettle,Commercial Grade Kettle (SKU-08928),64.62,4.3,246,data/images/kettle_51676.jpg
+54540,9475,6,Kettle,Vintage Kettle (SKU-09475),67.4,4.3,519,data/images/kettle_54540.jpg
+51144,8833,6,Kettle,Minimalist Kettle (SKU-08833),55.12,4.1,469,data/images/kettle_51144.jpg
+58087,10129,6,Kettle,Pro Kettle (SKU-10129),26.57,4.1,90,data/images/kettle_58087.jpg
+52989,9180,6,Kettle,Classic Kettle (SKU-09180),44.37,4.5,208,data/images/kettle_52989.jpg
+51540,8906,6,Kettle,Compact Kettle (SKU-08906),33.57,4.3,375,data/images/kettle_51540.jpg
+56196,9775,6,Kettle,Vintage Kettle (SKU-09775),45.3,4.5,276,data/images/kettle_56196.jpg
+48520,8329,6,Kettle,Pro Kettle (SKU-08329),64.56,3.8,587,data/images/kettle_48520.jpg
+52002,8991,6,Kettle,Modern Kettle (SKU-08991),43.61,3.9,662,data/images/kettle_52002.jpg
+51590,8918,6,Kettle,Commercial Grade Kettle (SKU-08918),31.93,4.3,455,data/images/kettle_51590.jpg
+49907,8596,6,Kettle,Compact Kettle (SKU-08596),36.56,4.3,438,data/images/kettle_49907.jpg
+51082,8821,6,Kettle,Modern Kettle (SKU-08821),43.48,4.3,838,data/images/kettle_51082.jpg
+58240,10156,6,Kettle,Compact Kettle (SKU-10156),49.53,4.4,63,data/images/kettle_58240.jpg
+51428,8884,6,Kettle,Premium Kettle (SKU-08884),20.37,4.0,569,data/images/kettle_51428.jpg
+54893,9527,6,Kettle,Deluxe Kettle (SKU-09527),62.19,4.1,821,data/images/kettle_54893.jpg
+50634,8734,6,Kettle,Premium Kettle (SKU-08734),60.12,4.4,332,data/images/kettle_50634.jpg
+56498,9832,6,Kettle,Ergonomic Kettle (SKU-09832),39.83,3.8,247,data/images/kettle_56498.jpg
+48912,8413,6,Kettle,Minimalist Kettle (SKU-08413),39.84,3.9,567,data/images/kettle_48912.jpg
+53211,9220,6,Kettle,Classic Kettle (SKU-09220),60.9,4.4,585,data/images/kettle_53211.jpg
+51041,8811,6,Kettle,Modern Kettle (SKU-08811),45.36,4.8,411,data/images/kettle_51041.jpg
+50457,8704,6,Kettle,Premium Kettle (SKU-08704),53.76,3.8,347,data/images/kettle_50457.jpg
+54545,9476,6,Kettle,Compact Kettle (SKU-09476),66.46,4.0,182,data/images/kettle_54545.jpg
+48227,8277,6,Kettle,Deluxe Kettle (SKU-08277),41.08,4.3,470,data/images/kettle_48227.jpg
+55422,9632,6,Kettle,Ergonomic Kettle (SKU-09632),53.54,4.1,459,data/images/kettle_55422.jpg
+57872,10087,6,Kettle,Deluxe Kettle (SKU-10087),35.46,4.7,117,data/images/kettle_57872.jpg
+52338,9063,6,Kettle,Minimalist Kettle (SKU-09063),67.69,4.6,167,data/images/kettle_52338.jpg
+54114,9387,6,Kettle,Deluxe Kettle (SKU-09387),51.81,3.9,445,data/images/kettle_54114.jpg
+52885,9159,6,Kettle,Pro Kettle (SKU-09159),22.97,4.5,672,data/images/kettle_52885.jpg
+48462,8317,6,Kettle,Deluxe Kettle (SKU-08317),25.71,4.2,653,data/images/kettle_48462.jpg
+56263,9784,6,Kettle,Premium Kettle (SKU-09784),53.12,3.9,765,data/images/kettle_56263.jpg
+56315,9795,6,Kettle,Vintage Kettle (SKU-09795),40.94,4.6,751,data/images/kettle_56315.jpg
+52926,9166,6,Kettle,Compact Kettle (SKU-09166),40.2,4.2,55,data/images/kettle_52926.jpg
+50070,8628,6,Kettle,Commercial Grade Kettle (SKU-08628),67.08,4.5,119,data/images/kettle_50070.jpg
+49912,8597,6,Kettle,Deluxe Kettle (SKU-08597),52.31,4.8,280,data/images/kettle_49912.jpg
+52158,9025,6,Kettle,Vintage Kettle (SKU-09025),45.1,4.0,727,data/images/kettle_52158.jpg
+53894,9355,6,Kettle,Vintage Kettle (SKU-09355),50.62,4.8,98,data/images/kettle_53894.jpg
+55022,9557,6,Kettle,Deluxe Kettle (SKU-09557),51.88,4.6,619,data/images/kettle_55022.jpg
+48316,8291,6,Kettle,Modern Kettle (SKU-08291),23.31,4.4,310,data/images/kettle_48316.jpg
+57593,10036,6,Kettle,Compact Kettle (SKU-10036),60.99,4.6,282,data/images/kettle_57593.jpg
+65749,11475,7,Lamp,Vintage Lamp (SKU-11475),59.49,4.3,827,data/images/lamp_65749.jpg
+62037,10806,7,Lamp,Compact Lamp (SKU-10806),69.93,4.8,588,data/images/lamp_62037.jpg
+64504,11257,7,Lamp,Deluxe Lamp (SKU-11257),85.85,4.2,293,data/images/lamp_64504.jpg
+64384,11235,7,Lamp,Vintage Lamp (SKU-11235),111.66,3.9,291,data/images/lamp_64384.jpg
+62975,10977,7,Lamp,Deluxe Lamp (SKU-10977),99.24,4.3,625,data/images/lamp_62975.jpg
+64932,11330,7,Lamp,Classic Lamp (SKU-11330),37.75,4.4,648,data/images/lamp_64932.jpg
+64108,11183,7,Lamp,Minimalist Lamp (SKU-11183),89.02,4.0,814,data/images/lamp_64108.jpg
+68675,11989,7,Lamp,Pro Lamp (SKU-11989),112.23,4.7,55,data/images/lamp_68675.jpg
+62410,10871,7,Lamp,Modern Lamp (SKU-10871),73.09,4.2,574,data/images/lamp_62410.jpg
+69483,12134,7,Lamp,Premium Lamp (SKU-12134),31.22,4.2,132,data/images/lamp_69483.jpg
+69140,12073,7,Lamp,Minimalist Lamp (SKU-12073),100.55,4.6,693,data/images/lamp_69140.jpg
+61654,10730,7,Lamp,Classic Lamp (SKU-10730),81.16,4.0,21,data/images/lamp_61654.jpg
+64892,11323,7,Lamp,Minimalist Lamp (SKU-11323),44.25,4.8,207,data/images/lamp_64892.jpg
+65006,11342,7,Lamp,Ergonomic Lamp (SKU-11342),124.65,4.2,216,data/images/lamp_65006.jpg
+70566,12325,7,Lamp,Vintage Lamp (SKU-12325),94.57,4.5,441,data/images/lamp_70566.jpg
+61877,10770,7,Lamp,Classic Lamp (SKU-10770),68.58,4.7,409,data/images/lamp_61877.jpg
+59089,10306,7,Lamp,Compact Lamp (SKU-10306),61.11,4.5,339,data/images/lamp_59089.jpg
+59002,10289,7,Lamp,Pro Lamp (SKU-10289),83.1,4.7,454,data/images/lamp_59002.jpg
+64513,11259,7,Lamp,Pro Lamp (SKU-11259),128.79,4.3,402,data/images/lamp_64513.jpg
+67251,11729,7,Lamp,Pro Lamp (SKU-11729),46.73,4.9,390,data/images/lamp_67251.jpg
+62900,10964,7,Lamp,Premium Lamp (SKU-10964),127.74,4.4,571,data/images/lamp_62900.jpg
+60105,10469,7,Lamp,Pro Lamp (SKU-10469),68.41,3.8,377,data/images/lamp_60105.jpg
+63379,11052,7,Lamp,Ergonomic Lamp (SKU-11052),68.79,4.0,832,data/images/lamp_63379.jpg
+67073,11699,7,Lamp,Pro Lamp (SKU-11699),61.31,4.0,259,data/images/lamp_67073.jpg
+67029,11694,7,Lamp,Premium Lamp (SKU-11694),58.91,4.8,139,data/images/lamp_67029.jpg
+63417,11057,7,Lamp,Deluxe Lamp (SKU-11057),67.03,4.2,49,data/images/lamp_63417.jpg
+62342,10861,7,Lamp,Modern Lamp (SKU-10861),118.83,4.5,215,data/images/lamp_62342.jpg
+65111,11363,7,Lamp,Minimalist Lamp (SKU-11363),128.39,4.1,445,data/images/lamp_65111.jpg
+65138,11367,7,Lamp,Deluxe Lamp (SKU-11367),45.15,3.8,750,data/images/lamp_65138.jpg
+64201,11200,7,Lamp,Classic Lamp (SKU-11200),64.03,4.4,179,data/images/lamp_64201.jpg
+60795,10584,7,Lamp,Premium Lamp (SKU-10584),77.78,4.4,379,data/images/lamp_60795.jpg
+63129,11005,7,Lamp,Vintage Lamp (SKU-11005),106.18,4.7,568,data/images/lamp_63129.jpg
+59752,10413,7,Lamp,Minimalist Lamp (SKU-10413),112.67,4.6,776,data/images/lamp_59752.jpg
+64141,11191,7,Lamp,Modern Lamp (SKU-11191),35.75,4.2,547,data/images/lamp_64141.jpg
+70678,12351,7,Lamp,Modern Lamp (SKU-12351),126.63,4.4,513,data/images/lamp_70678.jpg
+62574,10901,7,Lamp,Modern Lamp (SKU-10901),46.51,4.4,651,data/images/lamp_62574.jpg
+61575,10716,7,Lamp,Compact Lamp (SKU-10716),74.39,4.5,153,data/images/lamp_61575.jpg
+69310,12102,7,Lamp,Ergonomic Lamp (SKU-12102),50.72,4.7,113,data/images/lamp_69310.jpg
+63280,11034,7,Lamp,Premium Lamp (SKU-11034),118.02,4.5,775,data/images/lamp_63280.jpg
+65564,11444,7,Lamp,Premium Lamp (SKU-11444),109.24,4.3,534,data/images/lamp_65564.jpg
+62678,10922,7,Lamp,Ergonomic Lamp (SKU-10922),33.94,4.3,178,data/images/lamp_62678.jpg
+66224,11556,7,Lamp,Compact Lamp (SKU-11556),120.68,3.9,105,data/images/lamp_66224.jpg
+63246,11029,7,Lamp,Pro Lamp (SKU-11029),120.94,4.6,699,data/images/lamp_63246.jpg
+70663,12348,7,Lamp,Commercial Grade Lamp (SKU-12348),75.84,3.8,772,data/images/lamp_70663.jpg
+68869,12023,7,Lamp,Minimalist Lamp (SKU-12023),109.04,3.9,198,data/images/lamp_68869.jpg
+60889,10601,7,Lamp,Modern Lamp (SKU-10601),57.57,4.8,538,data/images/lamp_60889.jpg
+62016,10799,7,Lamp,Pro Lamp (SKU-10799),126.95,4.8,680,data/images/lamp_62016.jpg
+67453,11764,7,Lamp,Premium Lamp (SKU-11764),128.09,4.3,596,data/images/lamp_67453.jpg
+66598,11615,7,Lamp,Vintage Lamp (SKU-11615),88.86,4.2,116,data/images/lamp_66598.jpg
+65437,11418,7,Lamp,Commercial Grade Lamp (SKU-11418),82.23,4.4,421,data/images/lamp_65437.jpg
+59757,10413,7,Lamp,Minimalist Lamp (SKU-10413),68.64,4.4,775,data/images/lamp_59757.jpg
+66875,11671,7,Lamp,Modern Lamp (SKU-11671),66.22,4.6,745,data/images/lamp_66875.jpg
+70789,12374,7,Lamp,Premium Lamp (SKU-12374),70.75,4.7,765,data/images/lamp_70789.jpg
+59983,10449,7,Lamp,Pro Lamp (SKU-10449),87.34,4.9,62,data/images/lamp_59983.jpg
+68624,11978,7,Lamp,Commercial Grade Lamp (SKU-11978),129.6,3.9,351,data/images/lamp_68624.jpg
+69709,12176,7,Lamp,Compact Lamp (SKU-12176),114.69,4.8,161,data/images/lamp_69709.jpg
+59469,10370,7,Lamp,Classic Lamp (SKU-10370),61.18,4.1,27,data/images/lamp_59469.jpg
+67651,11803,7,Lamp,Minimalist Lamp (SKU-11803),127.14,4.0,734,data/images/lamp_67651.jpg
+67401,11754,7,Lamp,Premium Lamp (SKU-11754),106.25,4.8,740,data/images/lamp_67401.jpg
+62099,10816,7,Lamp,Compact Lamp (SKU-10816),102.26,4.6,824,data/images/lamp_62099.jpg
+66987,11688,7,Lamp,Commercial Grade Lamp (SKU-11688),93.24,4.5,218,data/images/lamp_66987.jpg
+69637,12163,7,Lamp,Minimalist Lamp (SKU-12163),110.43,4.1,710,data/images/lamp_69637.jpg
+62400,10869,7,Lamp,Pro Lamp (SKU-10869),82.85,4.7,177,data/images/lamp_62400.jpg
+59607,10391,7,Lamp,Modern Lamp (SKU-10391),129.77,4.5,127,data/images/lamp_59607.jpg
+60815,10587,7,Lamp,Deluxe Lamp (SKU-10587),38.97,3.8,593,data/images/lamp_60815.jpg
+59926,10440,7,Lamp,Classic Lamp (SKU-10440),103.78,4.7,15,data/images/lamp_59926.jpg
+66316,11569,7,Lamp,Pro Lamp (SKU-11569),36.89,3.8,662,data/images/lamp_66316.jpg
+58711,10237,7,Lamp,Deluxe Lamp (SKU-10237),106.88,4.5,141,data/images/lamp_58711.jpg
+69491,12135,7,Lamp,Vintage Lamp (SKU-12135),118.43,4.6,717,data/images/lamp_69491.jpg
+66734,11638,7,Lamp,Commercial Grade Lamp (SKU-11638),38.85,4.3,398,data/images/lamp_66734.jpg
+67851,11838,7,Lamp,Commercial Grade Lamp (SKU-11838),98.73,3.8,89,data/images/lamp_67851.jpg
+65767,11479,7,Lamp,Pro Lamp (SKU-11479),64.87,3.9,202,data/images/lamp_65767.jpg
+67983,11861,7,Lamp,Modern Lamp (SKU-11861),87.69,4.6,59,data/images/lamp_67983.jpg
+59462,10369,7,Lamp,Pro Lamp (SKU-10369),125.5,4.4,542,data/images/lamp_59462.jpg
+66550,11608,7,Lamp,Commercial Grade Lamp (SKU-11608),98.16,3.9,176,data/images/lamp_66550.jpg
+62268,10846,7,Lamp,Compact Lamp (SKU-10846),109.44,4.6,202,data/images/lamp_62268.jpg
+63859,11138,7,Lamp,Commercial Grade Lamp (SKU-11138),44.51,4.6,198,data/images/lamp_63859.jpg
+65014,11343,7,Lamp,Minimalist Lamp (SKU-11343),59.52,4.1,309,data/images/lamp_65014.jpg
+60158,10477,7,Lamp,Deluxe Lamp (SKU-10477),70.12,4.1,646,data/images/lamp_60158.jpg
+59981,10448,7,Lamp,Commercial Grade Lamp (SKU-10448),70.5,4.8,747,data/images/lamp_59981.jpg
+64956,11335,7,Lamp,Vintage Lamp (SKU-11335),88.32,4.7,247,data/images/lamp_64956.jpg
+66117,11540,7,Lamp,Classic Lamp (SKU-11540),51.92,3.8,417,data/images/lamp_66117.jpg
+61682,10737,7,Lamp,Deluxe Lamp (SKU-10737),65.77,4.5,740,data/images/lamp_61682.jpg
+59314,10343,7,Lamp,Minimalist Lamp (SKU-10343),48.77,4.6,558,data/images/lamp_59314.jpg
+59878,10435,7,Lamp,Vintage Lamp (SKU-10435),74.92,4.4,470,data/images/lamp_59878.jpg
+64450,11247,7,Lamp,Deluxe Lamp (SKU-11247),85.46,4.5,28,data/images/lamp_64450.jpg
+61119,10643,7,Lamp,Minimalist Lamp (SKU-10643),76.31,4.1,67,data/images/lamp_61119.jpg
+59674,10402,7,Lamp,Ergonomic Lamp (SKU-10402),110.39,4.4,717,data/images/lamp_59674.jpg
+66946,11683,7,Lamp,Minimalist Lamp (SKU-11683),41.99,4.8,790,data/images/lamp_66946.jpg
+62371,10864,7,Lamp,Premium Lamp (SKU-10864),57.13,4.3,304,data/images/lamp_62371.jpg
+59744,10412,7,Lamp,Ergonomic Lamp (SKU-10412),43.37,4.5,89,data/images/lamp_59744.jpg
+66789,11651,7,Lamp,Modern Lamp (SKU-11651),57.14,4.2,455,data/images/lamp_66789.jpg
+69265,12094,7,Lamp,Premium Lamp (SKU-12094),30.0,4.4,168,data/images/lamp_69265.jpg
+61802,10756,7,Lamp,Compact Lamp (SKU-10756),101.49,4.5,223,data/images/lamp_61802.jpg
+64175,11195,7,Lamp,Vintage Lamp (SKU-11195),36.26,4.7,404,data/images/lamp_64175.jpg
+66610,11616,7,Lamp,Compact Lamp (SKU-11616),54.67,4.6,171,data/images/lamp_66610.jpg
+69342,12107,7,Lamp,Deluxe Lamp (SKU-12107),123.08,4.7,633,data/images/lamp_69342.jpg
+65763,11478,7,Lamp,Commercial Grade Lamp (SKU-11478),57.03,4.7,442,data/images/lamp_65763.jpg
+68554,11965,7,Lamp,Vintage Lamp (SKU-11965),87.17,4.8,833,data/images/lamp_68554.jpg
+64668,11284,7,Lamp,Premium Lamp (SKU-11284),73.37,4.8,638,data/images/lamp_64668.jpg
+69063,12057,7,Lamp,Deluxe Lamp (SKU-12057),123.62,4.5,415,data/images/lamp_69063.jpg
+68095,11883,7,Lamp,Minimalist Lamp (SKU-11883),98.69,4.3,842,data/images/lamp_68095.jpg
+61702,10739,7,Lamp,Pro Lamp (SKU-10739),93.26,4.6,189,data/images/lamp_61702.jpg
+59663,10400,7,Lamp,Classic Lamp (SKU-10400),46.69,4.6,27,data/images/lamp_59663.jpg
+63053,10990,7,Lamp,Classic Lamp (SKU-10990),48.27,4.1,537,data/images/lamp_63053.jpg
+68348,11928,7,Lamp,Commercial Grade Lamp (SKU-11928),125.07,4.6,620,data/images/lamp_68348.jpg
+66340,11574,7,Lamp,Premium Lamp (SKU-11574),56.89,4.3,737,data/images/lamp_66340.jpg
+66115,11540,7,Lamp,Classic Lamp (SKU-11540),94.4,3.9,115,data/images/lamp_66115.jpg
+70044,12237,7,Lamp,Deluxe Lamp (SKU-12237),79.85,4.2,567,data/images/lamp_70044.jpg
+69157,12078,7,Lamp,Commercial Grade Lamp (SKU-12078),77.59,3.9,782,data/images/lamp_69157.jpg
+60725,10571,7,Lamp,Modern Lamp (SKU-10571),66.86,4.2,469,data/images/lamp_60725.jpg
+65486,11429,7,Lamp,Pro Lamp (SKU-11429),106.75,4.3,411,data/images/lamp_65486.jpg
+58479,10198,7,Lamp,Commercial Grade Lamp (SKU-10198),71.57,4.6,663,data/images/lamp_58479.jpg
+61735,10744,7,Lamp,Premium Lamp (SKU-10744),95.73,4.3,114,data/images/lamp_61735.jpg
+62336,10860,7,Lamp,Classic Lamp (SKU-10860),97.77,4.5,176,data/images/lamp_62336.jpg
+61204,10653,7,Lamp,Minimalist Lamp (SKU-10653),69.46,4.8,818,data/images/lamp_61204.jpg
+63125,11005,7,Lamp,Vintage Lamp (SKU-11005),103.85,4.1,163,data/images/lamp_63125.jpg
+59616,10393,7,Lamp,Minimalist Lamp (SKU-10393),98.21,4.3,79,data/images/lamp_59616.jpg
+66575,11612,7,Lamp,Ergonomic Lamp (SKU-11612),119.01,4.1,241,data/images/lamp_66575.jpg
+59688,10405,7,Lamp,Vintage Lamp (SKU-10405),96.68,4.7,68,data/images/lamp_59688.jpg
+63384,11053,7,Lamp,Minimalist Lamp (SKU-11053),81.58,4.1,67,data/images/lamp_63384.jpg
+65544,11441,7,Lamp,Modern Lamp (SKU-11441),98.79,4.1,116,data/images/lamp_65544.jpg
+64818,11314,7,Lamp,Premium Lamp (SKU-11314),63.72,3.8,412,data/images/lamp_64818.jpg
+68757,12003,7,Lamp,Minimalist Lamp (SKU-12003),71.35,4.3,125,data/images/lamp_68757.jpg
+60206,10485,7,Lamp,Vintage Lamp (SKU-10485),63.01,4.8,550,data/images/lamp_60206.jpg
+70622,12338,7,Lamp,Commercial Grade Lamp (SKU-12338),102.48,4.8,392,data/images/lamp_70622.jpg
+60000,10453,7,Lamp,Minimalist Lamp (SKU-10453),81.89,4.5,133,data/images/lamp_60000.jpg
+65894,11502,7,Lamp,Ergonomic Lamp (SKU-11502),107.39,4.7,118,data/images/lamp_65894.jpg
+65615,11453,7,Lamp,Minimalist Lamp (SKU-11453),43.14,4.7,516,data/images/lamp_65615.jpg
+59949,10443,7,Lamp,Minimalist Lamp (SKU-10443),31.68,4.6,748,data/images/lamp_59949.jpg
+61878,10770,7,Lamp,Classic Lamp (SKU-10770),66.76,4.0,405,data/images/lamp_61878.jpg
+69857,12202,7,Lamp,Ergonomic Lamp (SKU-12202),31.75,4.1,47,data/images/lamp_69857.jpg
+59458,10368,7,Lamp,Commercial Grade Lamp (SKU-10368),103.89,4.0,839,data/images/lamp_59458.jpg
+62910,10965,7,Lamp,Vintage Lamp (SKU-10965),67.16,3.8,569,data/images/lamp_62910.jpg
+61140,10646,7,Lamp,Compact Lamp (SKU-10646),96.29,4.4,242,data/images/lamp_61140.jpg
+62552,10897,7,Lamp,Deluxe Lamp (SKU-10897),114.7,3.8,345,data/images/lamp_62552.jpg
+59882,10435,7,Lamp,Vintage Lamp (SKU-10435),112.97,4.5,518,data/images/lamp_59882.jpg
+68775,12006,7,Lamp,Compact Lamp (SKU-12006),75.79,4.2,658,data/images/lamp_68775.jpg
+66834,11664,7,Lamp,Premium Lamp (SKU-11664),119.94,4.6,171,data/images/lamp_66834.jpg
+61448,10696,7,Lamp,Compact Lamp (SKU-10696),54.65,4.3,93,data/images/lamp_61448.jpg
+62256,10844,7,Lamp,Premium Lamp (SKU-10844),35.96,4.5,530,data/images/lamp_62256.jpg
+66985,11688,7,Lamp,Commercial Grade Lamp (SKU-11688),125.77,4.8,659,data/images/lamp_66985.jpg
+58512,10205,7,Lamp,Vintage Lamp (SKU-10205),83.06,4.5,345,data/images/lamp_58512.jpg
+60589,10542,7,Lamp,Ergonomic Lamp (SKU-10542),126.27,3.9,247,data/images/lamp_60589.jpg
+69096,12062,7,Lamp,Ergonomic Lamp (SKU-12062),50.49,4.6,213,data/images/lamp_69096.jpg
+58551,10212,7,Lamp,Ergonomic Lamp (SKU-10212),44.07,4.5,408,data/images/lamp_58551.jpg
+58311,10170,7,Lamp,Classic Lamp (SKU-10170),61.5,4.1,475,data/images/lamp_58311.jpg
+62363,10863,7,Lamp,Minimalist Lamp (SKU-10863),111.1,4.5,426,data/images/lamp_62363.jpg
+66016,11525,7,Lamp,Vintage Lamp (SKU-11525),94.27,4.7,701,data/images/lamp_66016.jpg
+66372,11580,7,Lamp,Classic Lamp (SKU-11580),121.74,4.1,714,data/images/lamp_66372.jpg
+78430,13870,8,Mug,Classic Mug (SKU-13870),17.61,3.9,700,data/images/mug_78430.jpg
+71602,12529,8,Mug,Pro Mug (SKU-12529),9.99,4.0,19,data/images/mug_71602.jpg
+75641,13333,8,Mug,Minimalist Mug (SKU-13333),16.95,4.1,262,data/images/mug_75641.jpg
+79864,14152,8,Mug,Ergonomic Mug (SKU-14152),11.14,4.9,752,data/images/mug_79864.jpg
+81980,14520,8,Mug,Classic Mug (SKU-14520),12.86,4.4,291,data/images/mug_81980.jpg
+77536,13698,8,Mug,Commercial Grade Mug (SKU-13698),24.39,4.5,588,data/images/mug_77536.jpg
+76863,13577,8,Mug,Deluxe Mug (SKU-13577),21.9,4.3,728,data/images/mug_76863.jpg
+79363,14048,8,Mug,Commercial Grade Mug (SKU-14048),11.87,4.3,17,data/images/mug_79363.jpg
+83504,14827,8,Mug,Deluxe Mug (SKU-14827),11.64,4.3,442,data/images/mug_83504.jpg
+77473,13688,8,Mug,Commercial Grade Mug (SKU-13688),23.35,4.5,735,data/images/mug_77473.jpg
+70890,12397,8,Mug,Deluxe Mug (SKU-12397),24.69,4.7,537,data/images/mug_70890.jpg
+72811,12778,8,Mug,Commercial Grade Mug (SKU-12778),15.26,4.5,695,data/images/mug_72811.jpg
+83984,14927,8,Mug,Deluxe Mug (SKU-14927),12.14,4.8,574,data/images/mug_83984.jpg
+78931,13972,8,Mug,Ergonomic Mug (SKU-13972),15.5,4.8,460,data/images/mug_78931.jpg
+79089,14000,8,Mug,Classic Mug (SKU-14000),18.1,4.1,615,data/images/mug_79089.jpg
+81495,14432,8,Mug,Ergonomic Mug (SKU-14432),23.7,4.0,168,data/images/mug_81495.jpg
+80946,14339,8,Mug,Pro Mug (SKU-14339),9.22,4.7,811,data/images/mug_80946.jpg
+77014,13605,8,Mug,Vintage Mug (SKU-13605),23.52,4.8,633,data/images/mug_77014.jpg
+75268,13267,8,Mug,Deluxe Mug (SKU-13267),15.31,4.8,261,data/images/mug_75268.jpg
+75545,13316,8,Mug,Compact Mug (SKU-13316),15.27,4.7,492,data/images/mug_75545.jpg
+76455,13493,8,Mug,Minimalist Mug (SKU-13493),20.48,4.1,847,data/images/mug_76455.jpg
+81482,14431,8,Mug,Modern Mug (SKU-14431),16.32,4.7,610,data/images/mug_81482.jpg
+75192,13246,8,Mug,Compact Mug (SKU-13246),18.03,4.6,100,data/images/mug_75192.jpg
+73410,12900,8,Mug,Classic Mug (SKU-12900),18.64,4.7,562,data/images/mug_73410.jpg
+82388,14602,8,Mug,Ergonomic Mug (SKU-14602),14.7,4.8,269,data/images/mug_82388.jpg
+77006,13603,8,Mug,Minimalist Mug (SKU-13603),19.14,4.0,778,data/images/mug_77006.jpg
+82980,14718,8,Mug,Commercial Grade Mug (SKU-14718),11.84,4.4,617,data/images/mug_82980.jpg
+72117,12640,8,Mug,Classic Mug (SKU-12640),13.05,4.1,363,data/images/mug_72117.jpg
+82034,14528,8,Mug,Commercial Grade Mug (SKU-14528),16.68,4.5,24,data/images/mug_82034.jpg
+74276,13067,8,Mug,Deluxe Mug (SKU-13067),23.41,4.0,261,data/images/mug_74276.jpg
+73276,12874,8,Mug,Premium Mug (SKU-12874),23.7,4.9,686,data/images/mug_73276.jpg
+78846,13955,8,Mug,Vintage Mug (SKU-13955),17.19,4.3,849,data/images/mug_78846.jpg
+74820,13178,8,Mug,Commercial Grade Mug (SKU-13178),15.27,4.6,689,data/images/mug_74820.jpg
+82824,14692,8,Mug,Ergonomic Mug (SKU-14692),9.91,4.3,732,data/images/mug_82824.jpg
+75541,13316,8,Mug,Compact Mug (SKU-13316),18.94,4.9,707,data/images/mug_75541.jpg
+75072,13226,8,Mug,Compact Mug (SKU-13226),14.73,4.5,128,data/images/mug_75072.jpg
+79048,13992,8,Mug,Ergonomic Mug (SKU-13992),23.43,4.8,418,data/images/mug_79048.jpg
+73582,12931,8,Mug,Modern Mug (SKU-12931),10.62,4.4,729,data/images/mug_73582.jpg
+74311,13073,8,Mug,Minimalist Mug (SKU-13073),21.02,4.1,207,data/images/mug_74311.jpg
+82605,14646,8,Mug,Compact Mug (SKU-14646),11.79,4.8,763,data/images/mug_82605.jpg
+77707,13733,8,Mug,Minimalist Mug (SKU-13733),12.59,4.3,270,data/images/mug_77707.jpg
+81170,14378,8,Mug,Commercial Grade Mug (SKU-14378),15.98,4.4,113,data/images/mug_81170.jpg
+76612,13524,8,Mug,Premium Mug (SKU-13524),14.21,4.7,123,data/images/mug_76612.jpg
+73861,12986,8,Mug,Compact Mug (SKU-12986),14.64,4.8,341,data/images/mug_73861.jpg
+80983,14344,8,Mug,Premium Mug (SKU-14344),22.52,4.2,476,data/images/mug_80983.jpg
+77737,13740,8,Mug,Classic Mug (SKU-13740),21.48,4.3,413,data/images/mug_77737.jpg
+74290,13070,8,Mug,Classic Mug (SKU-13070),17.7,4.0,567,data/images/mug_74290.jpg
+81558,14441,8,Mug,Modern Mug (SKU-14441),13.72,4.5,572,data/images/mug_81558.jpg
+84302,14995,8,Mug,Vintage Mug (SKU-14995),12.3,3.9,285,data/images/mug_84302.jpg
+75111,13233,8,Mug,Minimalist Mug (SKU-13233),23.06,4.3,381,data/images/mug_75111.jpg
+80085,14193,8,Mug,Minimalist Mug (SKU-14193),21.96,4.7,203,data/images/mug_80085.jpg
+73919,12996,8,Mug,Compact Mug (SKU-12996),20.62,4.7,550,data/images/mug_73919.jpg
+82011,14525,8,Mug,Vintage Mug (SKU-14525),19.46,4.0,447,data/images/mug_82011.jpg
+76507,13502,8,Mug,Ergonomic Mug (SKU-13502),17.62,4.1,293,data/images/mug_76507.jpg
+80610,14286,8,Mug,Compact Mug (SKU-14286),23.89,4.2,195,data/images/mug_80610.jpg
+78045,13799,8,Mug,Pro Mug (SKU-13799),21.24,3.8,775,data/images/mug_78045.jpg
+72948,12807,8,Mug,Deluxe Mug (SKU-12807),9.97,4.2,839,data/images/mug_72948.jpg
+78535,13894,8,Mug,Premium Mug (SKU-13894),24.56,4.0,99,data/images/mug_78535.jpg
+73544,12923,8,Mug,Minimalist Mug (SKU-12923),13.85,4.1,705,data/images/mug_73544.jpg
+75891,13380,8,Mug,Classic Mug (SKU-13380),9.82,4.0,52,data/images/mug_75891.jpg
+82387,14602,8,Mug,Ergonomic Mug (SKU-14602),20.7,4.5,183,data/images/mug_82387.jpg
+74959,13203,8,Mug,Minimalist Mug (SKU-13203),22.56,4.3,320,data/images/mug_74959.jpg
+77852,13761,8,Mug,Modern Mug (SKU-13761),23.33,4.7,126,data/images/mug_77852.jpg
+78374,13860,8,Mug,Classic Mug (SKU-13860),22.06,4.0,396,data/images/mug_78374.jpg
+75079,13227,8,Mug,Deluxe Mug (SKU-13227),14.38,4.9,754,data/images/mug_75079.jpg
+80526,14273,8,Mug,Minimalist Mug (SKU-14273),24.75,4.6,227,data/images/mug_80526.jpg
+76037,13410,8,Mug,Classic Mug (SKU-13410),17.67,4.0,286,data/images/mug_76037.jpg
+82798,14688,8,Mug,Commercial Grade Mug (SKU-14688),10.25,4.4,216,data/images/mug_82798.jpg
+82888,14703,8,Mug,Minimalist Mug (SKU-14703),9.32,4.1,268,data/images/mug_82888.jpg
+78957,13976,8,Mug,Compact Mug (SKU-13976),18.33,4.8,24,data/images/mug_78957.jpg
+75972,13399,8,Mug,Pro Mug (SKU-13399),16.7,4.2,574,data/images/mug_75972.jpg
+81893,14505,8,Mug,Vintage Mug (SKU-14505),13.73,4.6,116,data/images/mug_81893.jpg
+84340,15001,8,Mug,Modern Mug (SKU-15001),21.48,4.6,577,data/images/mug_84340.jpg
+73235,12866,8,Mug,Compact Mug (SKU-12866),14.9,4.8,102,data/images/mug_73235.jpg
+82458,14617,8,Mug,Deluxe Mug (SKU-14617),11.53,4.0,437,data/images/mug_82458.jpg
+80863,14328,8,Mug,Commercial Grade Mug (SKU-14328),16.38,4.8,421,data/images/mug_80863.jpg
+73593,12934,8,Mug,Premium Mug (SKU-12934),10.99,4.7,327,data/images/mug_73593.jpg
+70893,12397,8,Mug,Deluxe Mug (SKU-12397),13.38,4.7,491,data/images/mug_70893.jpg
+79070,13996,8,Mug,Compact Mug (SKU-13996),11.26,4.0,354,data/images/mug_79070.jpg
+77838,13758,8,Mug,Commercial Grade Mug (SKU-13758),24.65,4.7,589,data/images/mug_77838.jpg
+80943,14339,8,Mug,Pro Mug (SKU-14339),21.23,4.5,123,data/images/mug_80943.jpg
+73775,12971,8,Mug,Modern Mug (SKU-12971),24.14,4.3,488,data/images/mug_73775.jpg
+73027,12824,8,Mug,Premium Mug (SKU-12824),11.6,4.7,142,data/images/mug_73027.jpg
+70972,12413,8,Mug,Minimalist Mug (SKU-12413),23.5,3.8,57,data/images/mug_70972.jpg
+75129,13236,8,Mug,Compact Mug (SKU-13236),22.41,3.8,840,data/images/mug_75129.jpg
+80170,14207,8,Mug,Deluxe Mug (SKU-14207),18.84,4.7,773,data/images/mug_80170.jpg
+77409,13676,8,Mug,Compact Mug (SKU-13676),12.75,4.6,182,data/images/mug_77409.jpg
+74981,13208,8,Mug,Commercial Grade Mug (SKU-13208),9.82,4.4,297,data/images/mug_74981.jpg
+77308,13656,8,Mug,Compact Mug (SKU-13656),16.71,3.9,254,data/images/mug_77308.jpg
+83887,14908,8,Mug,Commercial Grade Mug (SKU-14908),21.79,4.4,730,data/images/mug_83887.jpg
+71877,12586,8,Mug,Compact Mug (SKU-12586),12.62,4.8,103,data/images/mug_71877.jpg
+79577,14096,8,Mug,Compact Mug (SKU-14096),11.51,4.1,165,data/images/mug_79577.jpg
+73985,13011,8,Mug,Modern Mug (SKU-13011),14.05,4.7,327,data/images/mug_73985.jpg
+76932,13591,8,Mug,Modern Mug (SKU-13591),21.74,4.1,389,data/images/mug_76932.jpg
+78257,13839,8,Mug,Pro Mug (SKU-13839),18.14,4.7,609,data/images/mug_78257.jpg
+72574,12736,8,Mug,Compact Mug (SKU-12736),19.04,4.1,138,data/images/mug_72574.jpg
+83871,14905,8,Mug,Vintage Mug (SKU-14905),11.98,3.8,579,data/images/mug_83871.jpg
+75898,13382,8,Mug,Ergonomic Mug (SKU-13382),13.9,4.2,415,data/images/mug_75898.jpg
+78099,13807,8,Mug,Deluxe Mug (SKU-13807),23.95,4.3,83,data/images/mug_78099.jpg
+82136,14554,8,Mug,Premium Mug (SKU-14554),10.08,4.7,332,data/images/mug_82136.jpg
+75837,13370,8,Mug,Classic Mug (SKU-13370),10.33,4.2,740,data/images/mug_75837.jpg
+72193,12656,8,Mug,Compact Mug (SKU-12656),14.31,3.9,573,data/images/mug_72193.jpg
+84242,14981,8,Mug,Modern Mug (SKU-14981),15.09,4.9,98,data/images/mug_84242.jpg
+81702,14465,8,Mug,Vintage Mug (SKU-14465),19.73,4.5,540,data/images/mug_81702.jpg
+79539,14086,8,Mug,Compact Mug (SKU-14086),21.49,4.7,491,data/images/mug_79539.jpg
+72530,12728,8,Mug,Commercial Grade Mug (SKU-12728),10.61,4.1,352,data/images/mug_72530.jpg
+82356,14597,8,Mug,Deluxe Mug (SKU-14597),24.05,4.8,406,data/images/mug_82356.jpg
+82996,14722,8,Mug,Ergonomic Mug (SKU-14722),10.07,4.4,31,data/images/mug_82996.jpg
+78905,13967,8,Mug,Deluxe Mug (SKU-13967),10.64,4.4,426,data/images/mug_78905.jpg
+82645,14652,8,Mug,Ergonomic Mug (SKU-14652),15.45,4.6,488,data/images/mug_82645.jpg
+77988,13788,8,Mug,Commercial Grade Mug (SKU-13788),18.3,4.0,703,data/images/mug_77988.jpg
+80714,14302,8,Mug,Ergonomic Mug (SKU-14302),15.35,4.1,792,data/images/mug_80714.jpg
+76653,13532,8,Mug,Ergonomic Mug (SKU-13532),17.26,4.6,528,data/images/mug_76653.jpg
+71246,12458,8,Mug,Commercial Grade Mug (SKU-12458),13.59,4.5,36,data/images/mug_71246.jpg
+73099,12838,8,Mug,Commercial Grade Mug (SKU-12838),11.29,4.5,233,data/images/mug_73099.jpg
+83643,14859,8,Mug,Pro Mug (SKU-14859),10.2,4.8,567,data/images/mug_83643.jpg
+77868,13764,8,Mug,Premium Mug (SKU-13764),10.46,4.5,610,data/images/mug_77868.jpg
+78906,13967,8,Mug,Deluxe Mug (SKU-13967),10.46,4.4,323,data/images/mug_78906.jpg
+80480,14264,8,Mug,Premium Mug (SKU-14264),9.23,4.9,733,data/images/mug_80480.jpg
+82183,14563,8,Mug,Minimalist Mug (SKU-14563),18.01,4.3,366,data/images/mug_82183.jpg
+81724,14470,8,Mug,Classic Mug (SKU-14470),18.75,4.1,114,data/images/mug_81724.jpg
+83850,14900,8,Mug,Classic Mug (SKU-14900),12.98,3.8,466,data/images/mug_83850.jpg
+79919,14162,8,Mug,Ergonomic Mug (SKU-14162),24.14,3.9,280,data/images/mug_79919.jpg
+76012,13405,8,Mug,Vintage Mug (SKU-13405),18.79,4.0,574,data/images/mug_76012.jpg
+75867,13376,8,Mug,Compact Mug (SKU-13376),9.1,4.6,624,data/images/mug_75867.jpg
+79811,14142,8,Mug,Ergonomic Mug (SKU-14142),14.97,3.9,463,data/images/mug_79811.jpg
+81888,14505,8,Mug,Vintage Mug (SKU-14505),9.24,4.4,831,data/images/mug_81888.jpg
+79943,14166,8,Mug,Compact Mug (SKU-14166),17.66,4.8,664,data/images/mug_79943.jpg
+71793,12570,8,Mug,Classic Mug (SKU-12570),15.37,4.7,632,data/images/mug_71793.jpg
+81210,14387,8,Mug,Deluxe Mug (SKU-14387),20.82,4.0,180,data/images/mug_81210.jpg
+73268,12872,8,Mug,Ergonomic Mug (SKU-12872),10.62,3.8,68,data/images/mug_73268.jpg
+82511,14630,8,Mug,Classic Mug (SKU-14630),14.22,4.8,355,data/images/mug_82511.jpg
+76355,13468,8,Mug,Commercial Grade Mug (SKU-13468),23.62,4.3,285,data/images/mug_76355.jpg
+75144,13239,8,Mug,Pro Mug (SKU-13239),22.07,4.4,262,data/images/mug_75144.jpg
+80087,14194,8,Mug,Premium Mug (SKU-14194),12.66,4.4,55,data/images/mug_80087.jpg
+77136,13626,8,Mug,Compact Mug (SKU-13626),12.86,4.6,694,data/images/mug_77136.jpg
+79501,14078,8,Mug,Commercial Grade Mug (SKU-14078),19.45,4.7,125,data/images/mug_79501.jpg
+72248,12668,8,Mug,Commercial Grade Mug (SKU-12668),20.81,3.8,589,data/images/mug_72248.jpg
+82292,14584,8,Mug,Premium Mug (SKU-14584),14.69,3.8,313,data/images/mug_82292.jpg
+71563,12523,8,Mug,Minimalist Mug (SKU-12523),12.95,3.9,75,data/images/mug_71563.jpg
+76285,13453,8,Mug,Minimalist Mug (SKU-13453),15.79,4.0,175,data/images/mug_76285.jpg
+73589,12932,8,Mug,Ergonomic Mug (SKU-12932),19.76,3.9,318,data/images/mug_73589.jpg
+84158,14965,8,Mug,Vintage Mug (SKU-14965),14.32,4.8,653,data/images/mug_84158.jpg
+79341,14042,8,Mug,Ergonomic Mug (SKU-14042),22.16,4.8,603,data/images/mug_79341.jpg
+80125,14201,8,Mug,Modern Mug (SKU-14201),21.58,4.2,847,data/images/mug_80125.jpg
+75166,13243,8,Mug,Minimalist Mug (SKU-13243),13.04,4.9,790,data/images/mug_75166.jpg
+82314,14587,8,Mug,Deluxe Mug (SKU-14587),10.09,4.2,87,data/images/mug_82314.jpg
+74200,13055,8,Mug,Vintage Mug (SKU-13055),12.29,4.7,309,data/images/mug_74200.jpg
+71190,12448,8,Mug,Commercial Grade Mug (SKU-12448),13.29,4.2,708,data/images/mug_71190.jpg
+78821,13949,8,Mug,Pro Mug (SKU-13949),22.75,3.8,201,data/images/mug_78821.jpg
+85042,15142,9,Sofa,Ergonomic Sofa (SKU-15142),754.34,4.5,377,data/images/sofa_85042.jpg
+91446,16553,9,Sofa,Minimalist Sofa (SKU-16553),937.94,4.7,694,data/images/sofa_91446.jpg
+84518,15033,9,Sofa,Minimalist Sofa (SKU-15033),742.54,4.5,563,data/images/sofa_84518.jpg
+88373,15919,9,Sofa,Pro Sofa (SKU-15919),1083.98,4.3,77,data/images/sofa_88373.jpg
+86435,15480,9,Sofa,Classic Sofa (SKU-15480),592.37,4.3,199,data/images/sofa_86435.jpg
+89976,16217,9,Sofa,Deluxe Sofa (SKU-16217),501.09,4.4,149,data/images/sofa_89976.jpg
+89855,16197,9,Sofa,Deluxe Sofa (SKU-16197),356.17,4.3,221,data/images/sofa_89855.jpg
+91537,16567,9,Sofa,Deluxe Sofa (SKU-16567),581.03,4.6,768,data/images/sofa_91537.jpg
+86200,15406,9,Sofa,Compact Sofa (SKU-15406),708.77,4.8,355,data/images/sofa_86200.jpg
+87282,15685,9,Sofa,Vintage Sofa (SKU-15685),460.45,3.9,728,data/images/sofa_87282.jpg
+90219,16276,9,Sofa,Compact Sofa (SKU-16276),1242.52,4.6,635,data/images/sofa_90219.jpg
+86996,15606,9,Sofa,Compact Sofa (SKU-15606),1126.48,4.3,83,data/images/sofa_86996.jpg
+88073,15851,9,Sofa,Modern Sofa (SKU-15851),307.95,4.8,297,data/images/sofa_88073.jpg
+89780,16184,9,Sofa,Premium Sofa (SKU-16184),815.0,4.4,291,data/images/sofa_89780.jpg
+86310,15431,9,Sofa,Modern Sofa (SKU-15431),1042.52,3.9,167,data/images/sofa_86310.jpg
+85592,15263,9,Sofa,Minimalist Sofa (SKU-15263),1128.11,4.0,581,data/images/sofa_85592.jpg
+85442,15234,9,Sofa,Premium Sofa (SKU-15234),1252.81,4.2,191,data/images/sofa_85442.jpg
+90942,16451,9,Sofa,Modern Sofa (SKU-16451),805.62,4.8,111,data/images/sofa_90942.jpg
+89498,16128,9,Sofa,Commercial Grade Sofa (SKU-16128),618.6,4.8,20,data/images/sofa_89498.jpg
+91765,16610,9,Sofa,Classic Sofa (SKU-16610),853.36,4.4,676,data/images/sofa_91765.jpg
+85928,15337,9,Sofa,Deluxe Sofa (SKU-15337),821.59,4.7,101,data/images/sofa_85928.jpg
+85190,15173,9,Sofa,Minimalist Sofa (SKU-15173),1137.9,4.7,428,data/images/sofa_85190.jpg
+85441,15234,9,Sofa,Premium Sofa (SKU-15234),739.2,4.5,299,data/images/sofa_85441.jpg
+88963,16031,9,Sofa,Modern Sofa (SKU-16031),759.18,4.3,686,data/images/sofa_88963.jpg
+85464,15238,9,Sofa,Commercial Grade Sofa (SKU-15238),993.94,4.1,59,data/images/sofa_85464.jpg
+89294,16088,9,Sofa,Commercial Grade Sofa (SKU-16088),465.27,3.8,464,data/images/sofa_89294.jpg
+89097,16049,9,Sofa,Pro Sofa (SKU-16049),831.88,4.7,620,data/images/sofa_89097.jpg
+85593,15263,9,Sofa,Minimalist Sofa (SKU-15263),461.35,3.9,735,data/images/sofa_85593.jpg
+85382,15222,9,Sofa,Ergonomic Sofa (SKU-15222),714.19,4.6,513,data/images/sofa_85382.jpg
+90763,16402,9,Sofa,Ergonomic Sofa (SKU-16402),541.53,4.2,129,data/images/sofa_90763.jpg
+84549,15039,9,Sofa,Pro Sofa (SKU-15039),522.35,4.4,554,data/images/sofa_84549.jpg
+86409,15475,9,Sofa,Vintage Sofa (SKU-15475),610.99,4.0,573,data/images/sofa_86409.jpg
+90438,16330,9,Sofa,Classic Sofa (SKU-16330),691.02,4.1,396,data/images/sofa_90438.jpg
+88671,15978,9,Sofa,Commercial Grade Sofa (SKU-15978),1259.85,4.5,523,data/images/sofa_88671.jpg
+89674,16162,9,Sofa,Ergonomic Sofa (SKU-16162),714.73,4.6,495,data/images/sofa_89674.jpg
+91163,16500,9,Sofa,Classic Sofa (SKU-16500),840.9,4.6,189,data/images/sofa_91163.jpg
+85738,15300,9,Sofa,Classic Sofa (SKU-15300),1053.58,4.0,368,data/images/sofa_85738.jpg
+86856,15575,9,Sofa,Vintage Sofa (SKU-15575),711.95,4.8,107,data/images/sofa_86856.jpg
+90558,16355,9,Sofa,Vintage Sofa (SKU-16355),832.49,3.9,447,data/images/sofa_90558.jpg
+91252,16518,9,Sofa,Commercial Grade Sofa (SKU-16518),795.69,4.8,309,data/images/sofa_91252.jpg
+86051,15369,9,Sofa,Pro Sofa (SKU-15369),442.83,4.6,85,data/images/sofa_86051.jpg
+87423,15711,9,Sofa,Modern Sofa (SKU-15711),414.28,4.6,465,data/images/sofa_87423.jpg
+88297,15903,9,Sofa,Minimalist Sofa (SKU-15903),504.31,4.4,835,data/images/sofa_88297.jpg
+87314,15690,9,Sofa,Classic Sofa (SKU-15690),1076.48,4.5,185,data/images/sofa_87314.jpg
+86082,15379,9,Sofa,Pro Sofa (SKU-15379),369.04,4.3,221,data/images/sofa_86082.jpg
+89755,16181,9,Sofa,Modern Sofa (SKU-16181),1185.61,4.0,808,data/images/sofa_89755.jpg
+87276,15684,9,Sofa,Premium Sofa (SKU-15684),553.26,3.8,682,data/images/sofa_87276.jpg
+85273,15199,9,Sofa,Pro Sofa (SKU-15199),997.27,4.6,107,data/images/sofa_85273.jpg
+85831,15320,9,Sofa,Classic Sofa (SKU-15320),1121.38,4.7,513,data/images/sofa_85831.jpg
+85837,15320,9,Sofa,Classic Sofa (SKU-15320),427.38,4.1,213,data/images/sofa_85837.jpg
+86138,15391,9,Sofa,Modern Sofa (SKU-15391),751.28,4.0,443,data/images/sofa_86138.jpg
+86119,15387,9,Sofa,Deluxe Sofa (SKU-15387),784.33,3.8,556,data/images/sofa_86119.jpg
+85150,15165,9,Sofa,Vintage Sofa (SKU-15165),947.76,3.8,398,data/images/sofa_85150.jpg
+87302,15689,9,Sofa,Pro Sofa (SKU-15689),503.46,3.9,548,data/images/sofa_87302.jpg
+90048,16233,9,Sofa,Minimalist Sofa (SKU-16233),779.25,4.0,306,data/images/sofa_90048.jpg
+86362,15455,9,Sofa,Vintage Sofa (SKU-15455),1147.92,4.4,63,data/images/sofa_86362.jpg
+86668,15532,9,Sofa,Ergonomic Sofa (SKU-15532),374.1,4.2,571,data/images/sofa_86668.jpg
+84736,15079,9,Sofa,Pro Sofa (SKU-15079),1289.21,4.1,235,data/images/sofa_84736.jpg
+91276,16523,9,Sofa,Minimalist Sofa (SKU-16523),859.05,4.2,17,data/images/sofa_91276.jpg
+87777,15787,9,Sofa,Deluxe Sofa (SKU-15787),650.51,4.2,73,data/images/sofa_87777.jpg
+88041,15846,9,Sofa,Compact Sofa (SKU-15846),1006.62,4.2,586,data/images/sofa_88041.jpg
+87413,15709,9,Sofa,Pro Sofa (SKU-15709),1022.73,4.5,633,data/images/sofa_87413.jpg
+87543,15742,9,Sofa,Ergonomic Sofa (SKU-15742),1229.28,4.2,76,data/images/sofa_87543.jpg
+87495,15728,9,Sofa,Commercial Grade Sofa (SKU-15728),1142.32,4.2,685,data/images/sofa_87495.jpg
+90098,16245,9,Sofa,Vintage Sofa (SKU-16245),1104.48,4.7,733,data/images/sofa_90098.jpg
+85962,15346,9,Sofa,Compact Sofa (SKU-15346),348.65,4.4,215,data/images/sofa_85962.jpg
+91398,16545,9,Sofa,Vintage Sofa (SKU-16545),883.7,4.7,443,data/images/sofa_91398.jpg
+89432,16116,9,Sofa,Compact Sofa (SKU-16116),650.19,4.5,514,data/images/sofa_89432.jpg
+91306,16528,9,Sofa,Commercial Grade Sofa (SKU-16528),440.31,4.5,718,data/images/sofa_91306.jpg
+87093,15641,9,Sofa,Modern Sofa (SKU-15641),1013.23,4.2,106,data/images/sofa_87093.jpg
+90781,16407,9,Sofa,Deluxe Sofa (SKU-16407),494.97,4.8,456,data/images/sofa_90781.jpg
+86358,15453,9,Sofa,Minimalist Sofa (SKU-15453),1208.22,4.6,803,data/images/sofa_86358.jpg
+89045,16041,9,Sofa,Modern Sofa (SKU-16041),954.12,4.8,499,data/images/sofa_89045.jpg
+85905,15333,9,Sofa,Minimalist Sofa (SKU-15333),841.64,4.6,696,data/images/sofa_85905.jpg
+86887,15581,9,Sofa,Modern Sofa (SKU-15581),714.96,4.6,542,data/images/sofa_86887.jpg
+91447,16553,9,Sofa,Minimalist Sofa (SKU-16553),502.24,4.1,54,data/images/sofa_91447.jpg
+87149,15654,9,Sofa,Premium Sofa (SKU-15654),899.76,4.7,748,data/images/sofa_87149.jpg
+91360,16535,9,Sofa,Vintage Sofa (SKU-16535),1207.83,4.4,221,data/images/sofa_91360.jpg
+88900,16018,9,Sofa,Commercial Grade Sofa (SKU-16018),857.92,4.4,192,data/images/sofa_88900.jpg
+90418,16323,9,Sofa,Minimalist Sofa (SKU-16323),682.79,4.7,672,data/images/sofa_90418.jpg
+87956,15830,9,Sofa,Classic Sofa (SKU-15830),1258.49,4.3,76,data/images/sofa_87956.jpg
+87871,15811,9,Sofa,Modern Sofa (SKU-15811),992.35,4.1,692,data/images/sofa_87871.jpg
+87026,15621,9,Sofa,Modern Sofa (SKU-15621),1048.22,4.0,699,data/images/sofa_87026.jpg
+87334,15693,9,Sofa,Minimalist Sofa (SKU-15693),1125.91,4.3,636,data/images/sofa_87334.jpg
+86829,15569,9,Sofa,Pro Sofa (SKU-15569),518.71,4.5,804,data/images/sofa_86829.jpg
+88251,15894,9,Sofa,Premium Sofa (SKU-15894),363.13,4.7,221,data/images/sofa_88251.jpg
+91791,16613,9,Sofa,Minimalist Sofa (SKU-16613),1078.02,4.6,354,data/images/sofa_91791.jpg
+91482,16558,9,Sofa,Commercial Grade Sofa (SKU-16558),1073.65,4.6,175,data/images/sofa_91482.jpg
+86912,15587,9,Sofa,Deluxe Sofa (SKU-15587),732.34,3.8,589,data/images/sofa_86912.jpg
+88132,15865,9,Sofa,Vintage Sofa (SKU-15865),563.99,4.3,622,data/images/sofa_88132.jpg
+85559,15256,9,Sofa,Compact Sofa (SKU-15256),543.39,4.4,134,data/images/sofa_85559.jpg
+85585,15261,9,Sofa,Modern Sofa (SKU-15261),1158.11,4.7,231,data/images/sofa_85585.jpg
+84749,15080,9,Sofa,Classic Sofa (SKU-15080),1197.91,4.8,758,data/images/sofa_84749.jpg
+85003,15134,9,Sofa,Premium Sofa (SKU-15134),1036.22,4.3,91,data/images/sofa_85003.jpg
+89167,16062,9,Sofa,Ergonomic Sofa (SKU-16062),1125.41,4.7,345,data/images/sofa_89167.jpg
+84825,15093,9,Sofa,Minimalist Sofa (SKU-15093),1112.7,4.6,564,data/images/sofa_84825.jpg
+84454,15020,9,Sofa,Classic Sofa (SKU-15020),394.91,4.9,313,data/images/sofa_84454.jpg
+84478,15023,9,Sofa,Minimalist Sofa (SKU-15023),1233.56,4.7,587,data/images/sofa_84478.jpg
+90597,16360,9,Sofa,Classic Sofa (SKU-16360),1158.01,4.9,689,data/images/sofa_90597.jpg
+86148,15392,9,Sofa,Ergonomic Sofa (SKU-15392),871.15,4.1,795,data/images/sofa_86148.jpg
+88178,15875,9,Sofa,Vintage Sofa (SKU-15875),430.07,3.8,713,data/images/sofa_88178.jpg
+90599,16361,9,Sofa,Modern Sofa (SKU-16361),1149.17,4.2,522,data/images/sofa_90599.jpg
+85605,15267,9,Sofa,Deluxe Sofa (SKU-15267),954.33,4.1,180,data/images/sofa_85605.jpg
+87975,15835,9,Sofa,Vintage Sofa (SKU-15835),317.14,4.8,447,data/images/sofa_87975.jpg
+90697,16384,9,Sofa,Premium Sofa (SKU-16384),1062.29,3.8,221,data/images/sofa_90697.jpg
+86574,15514,9,Sofa,Premium Sofa (SKU-15514),811.63,3.8,529,data/images/sofa_86574.jpg
+90692,16383,9,Sofa,Minimalist Sofa (SKU-16383),924.6,4.8,152,data/images/sofa_90692.jpg
+90234,16280,9,Sofa,Classic Sofa (SKU-16280),690.58,3.9,555,data/images/sofa_90234.jpg
+84512,15033,9,Sofa,Minimalist Sofa (SKU-15033),1056.72,4.3,88,data/images/sofa_84512.jpg
+91269,16521,9,Sofa,Modern Sofa (SKU-16521),438.43,4.4,62,data/images/sofa_91269.jpg
+86395,15470,9,Sofa,Classic Sofa (SKU-15470),896.84,4.8,636,data/images/sofa_86395.jpg
+89344,16100,9,Sofa,Classic Sofa (SKU-16100),671.48,4.5,205,data/images/sofa_89344.jpg
+87124,15649,9,Sofa,Pro Sofa (SKU-15649),511.63,4.9,794,data/images/sofa_87124.jpg
+84586,15051,9,Sofa,Modern Sofa (SKU-15051),794.14,4.7,184,data/images/sofa_84586.jpg
+85924,15336,9,Sofa,Compact Sofa (SKU-15336),1015.09,4.5,729,data/images/sofa_85924.jpg
+88995,16036,9,Sofa,Compact Sofa (SKU-16036),1249.19,4.7,169,data/images/sofa_88995.jpg
+90377,16311,9,Sofa,Modern Sofa (SKU-16311),977.52,4.2,485,data/images/sofa_90377.jpg
+85827,15318,9,Sofa,Commercial Grade Sofa (SKU-15318),1225.04,4.5,357,data/images/sofa_85827.jpg
+86511,15499,9,Sofa,Pro Sofa (SKU-15499),990.87,4.6,196,data/images/sofa_86511.jpg
+91483,16559,9,Sofa,Pro Sofa (SKU-16559),575.28,4.0,78,data/images/sofa_91483.jpg
+91571,16573,9,Sofa,Minimalist Sofa (SKU-16573),1110.25,4.3,630,data/images/sofa_91571.jpg
+88516,15946,9,Sofa,Compact Sofa (SKU-15946),1005.13,4.3,735,data/images/sofa_88516.jpg
+87462,15720,9,Sofa,Classic Sofa (SKU-15720),1137.36,4.0,418,data/images/sofa_87462.jpg
+90551,16353,9,Sofa,Minimalist Sofa (SKU-16353),985.39,3.8,73,data/images/sofa_90551.jpg
+86371,15460,9,Sofa,Classic Sofa (SKU-15460),999.63,4.7,132,data/images/sofa_86371.jpg
+91488,16559,9,Sofa,Pro Sofa (SKU-16559),985.69,4.8,170,data/images/sofa_91488.jpg
+87351,15694,9,Sofa,Premium Sofa (SKU-15694),788.49,4.2,848,data/images/sofa_87351.jpg
+90956,16454,9,Sofa,Premium Sofa (SKU-16454),872.6,4.1,818,data/images/sofa_90956.jpg
+87614,15757,9,Sofa,Deluxe Sofa (SKU-15757),378.55,4.6,825,data/images/sofa_87614.jpg
+87272,15682,9,Sofa,Ergonomic Sofa (SKU-15682),351.98,3.8,310,data/images/sofa_87272.jpg
+90786,16409,9,Sofa,Pro Sofa (SKU-16409),530.78,4.8,354,data/images/sofa_90786.jpg
+85153,15166,9,Sofa,Compact Sofa (SKU-15166),1180.96,4.8,844,data/images/sofa_85153.jpg
+87433,15713,9,Sofa,Minimalist Sofa (SKU-15713),896.77,4.4,253,data/images/sofa_87433.jpg
+90920,16446,9,Sofa,Compact Sofa (SKU-16446),983.44,4.2,229,data/images/sofa_90920.jpg
+85165,15167,9,Sofa,Deluxe Sofa (SKU-15167),586.51,4.7,193,data/images/sofa_85165.jpg
+89041,16041,9,Sofa,Modern Sofa (SKU-16041),330.02,4.8,765,data/images/sofa_89041.jpg
+86023,15361,9,Sofa,Modern Sofa (SKU-15361),903.03,4.5,221,data/images/sofa_86023.jpg
+84668,15070,9,Sofa,Classic Sofa (SKU-15070),1147.38,3.9,290,data/images/sofa_84668.jpg
+90022,16229,9,Sofa,Pro Sofa (SKU-16229),647.5,4.3,282,data/images/sofa_90022.jpg
+84993,15131,9,Sofa,Modern Sofa (SKU-15131),1116.96,4.7,364,data/images/sofa_84993.jpg
+88835,16003,9,Sofa,Minimalist Sofa (SKU-16003),606.04,4.4,112,data/images/sofa_88835.jpg
+91060,16476,9,Sofa,Compact Sofa (SKU-16476),371.02,4.0,816,data/images/sofa_91060.jpg
+89895,16203,9,Sofa,Minimalist Sofa (SKU-16203),774.94,3.9,742,data/images/sofa_89895.jpg
+86832,15570,9,Sofa,Classic Sofa (SKU-15570),400.97,4.0,499,data/images/sofa_86832.jpg
+91436,16552,9,Sofa,Ergonomic Sofa (SKU-16552),829.87,4.9,822,data/images/sofa_91436.jpg
+87212,15667,9,Sofa,Deluxe Sofa (SKU-15667),414.42,3.8,374,data/images/sofa_87212.jpg
+86720,15544,9,Sofa,Premium Sofa (SKU-15544),507.26,4.5,107,data/images/sofa_86720.jpg
+86697,15537,9,Sofa,Deluxe Sofa (SKU-15537),532.5,3.9,53,data/images/sofa_86697.jpg
+85694,15290,9,Sofa,Classic Sofa (SKU-15290),665.59,4.2,27,data/images/sofa_85694.jpg
+85426,15230,9,Sofa,Classic Sofa (SKU-15230),362.55,4.0,100,data/images/sofa_85426.jpg
+94713,17222,10,Stapler,Ergonomic Stapler (SKU-17222),27.75,4.7,180,data/images/stapler_94713.jpg
+100026,18350,10,Stapler,Classic Stapler (SKU-18350),27.01,4.0,485,data/images/stapler_100026.jpg
+97782,17843,10,Stapler,Minimalist Stapler (SKU-17843),10.16,4.7,25,data/images/stapler_97782.jpg
+96705,17635,10,Stapler,Vintage Stapler (SKU-17635),20.38,4.7,467,data/images/stapler_96705.jpg
+97257,17735,10,Stapler,Vintage Stapler (SKU-17735),18.52,4.7,142,data/images/stapler_97257.jpg
+93879,17058,10,Stapler,Commercial Grade Stapler (SKU-17058),11.16,4.5,126,data/images/stapler_93879.jpg
+92904,16843,10,Stapler,Minimalist Stapler (SKU-16843),11.82,4.8,79,data/images/stapler_92904.jpg
+94706,17220,10,Stapler,Classic Stapler (SKU-17220),18.1,4.1,839,data/images/stapler_94706.jpg
+98133,17906,10,Stapler,Compact Stapler (SKU-17906),23.72,4.1,240,data/images/stapler_98133.jpg
+95886,17447,10,Stapler,Deluxe Stapler (SKU-17447),18.08,4.6,702,data/images/stapler_95886.jpg
+98015,17883,10,Stapler,Minimalist Stapler (SKU-17883),20.03,4.9,413,data/images/stapler_98015.jpg
+100092,18365,10,Stapler,Vintage Stapler (SKU-18365),12.37,3.8,517,data/images/stapler_100092.jpg
+96400,17568,10,Stapler,Commercial Grade Stapler (SKU-17568),26.47,4.9,407,data/images/stapler_96400.jpg
+100232,18406,10,Stapler,Compact Stapler (SKU-18406),28.68,3.8,96,data/images/stapler_100232.jpg
+99782,18293,10,Stapler,Minimalist Stapler (SKU-18293),18.35,4.5,442,data/images/stapler_99782.jpg
+96410,17571,10,Stapler,Modern Stapler (SKU-17571),23.1,4.5,775,data/images/stapler_96410.jpg
+95763,17424,10,Stapler,Premium Stapler (SKU-17424),26.91,4.2,453,data/images/stapler_95763.jpg
+99687,18272,10,Stapler,Ergonomic Stapler (SKU-18272),23.36,4.3,238,data/images/stapler_99687.jpg
+96164,17503,10,Stapler,Minimalist Stapler (SKU-17503),10.76,4.0,243,data/images/stapler_96164.jpg
+95240,17320,10,Stapler,Classic Stapler (SKU-17320),19.21,4.6,202,data/images/stapler_95240.jpg
+93764,17030,10,Stapler,Classic Stapler (SKU-17030),18.76,4.5,146,data/images/stapler_93764.jpg
+92901,16841,10,Stapler,Modern Stapler (SKU-16841),29.34,4.8,686,data/images/stapler_92901.jpg
+92335,16726,10,Stapler,Compact Stapler (SKU-16726),14.14,3.9,134,data/images/stapler_92335.jpg
+99414,18203,10,Stapler,Minimalist Stapler (SKU-18203),12.07,4.1,426,data/images/stapler_99414.jpg
+99965,18336,10,Stapler,Compact Stapler (SKU-18336),18.79,4.2,734,data/images/stapler_99965.jpg
+97675,17820,10,Stapler,Classic Stapler (SKU-17820),14.28,4.8,726,data/images/stapler_97675.jpg
+94753,17229,10,Stapler,Pro Stapler (SKU-17229),20.28,4.2,20,data/images/stapler_94753.jpg
+97957,17872,10,Stapler,Ergonomic Stapler (SKU-17872),16.23,4.7,401,data/images/stapler_97957.jpg
+99258,18162,10,Stapler,Ergonomic Stapler (SKU-18162),27.66,4.2,841,data/images/stapler_99258.jpg
+91881,16627,10,Stapler,Deluxe Stapler (SKU-16627),26.58,4.7,716,data/images/stapler_91881.jpg
+93043,16874,10,Stapler,Premium Stapler (SKU-16874),29.74,3.8,301,data/images/stapler_93043.jpg
+93638,17000,10,Stapler,Classic Stapler (SKU-17000),12.79,4.8,501,data/images/stapler_93638.jpg
+95182,17313,10,Stapler,Minimalist Stapler (SKU-17313),20.95,4.6,571,data/images/stapler_95182.jpg
+94974,17270,10,Stapler,Classic Stapler (SKU-17270),27.14,4.7,290,data/images/stapler_94974.jpg
+96582,17611,10,Stapler,Modern Stapler (SKU-17611),16.27,4.1,495,data/images/stapler_96582.jpg
+94892,17257,10,Stapler,Deluxe Stapler (SKU-17257),20.19,4.0,72,data/images/stapler_94892.jpg
+92581,16773,10,Stapler,Minimalist Stapler (SKU-16773),13.21,4.8,293,data/images/stapler_92581.jpg
+99371,18189,10,Stapler,Pro Stapler (SKU-18189),14.4,4.0,488,data/images/stapler_99371.jpg
+96543,17603,10,Stapler,Minimalist Stapler (SKU-17603),25.28,4.4,243,data/images/stapler_96543.jpg
+98598,18009,10,Stapler,Pro Stapler (SKU-18009),18.25,4.6,286,data/images/stapler_98598.jpg
+98269,17943,10,Stapler,Minimalist Stapler (SKU-17943),21.53,4.6,525,data/images/stapler_98269.jpg
+98745,18040,10,Stapler,Classic Stapler (SKU-18040),21.12,4.9,622,data/images/stapler_98745.jpg
+97286,17740,10,Stapler,Classic Stapler (SKU-17740),16.26,4.6,352,data/images/stapler_97286.jpg
+96255,17523,10,Stapler,Minimalist Stapler (SKU-17523),11.75,3.8,675,data/images/stapler_96255.jpg
+97232,17730,10,Stapler,Classic Stapler (SKU-17730),8.99,4.5,481,data/images/stapler_97232.jpg
+94329,17145,10,Stapler,Vintage Stapler (SKU-17145),21.52,4.8,728,data/images/stapler_94329.jpg
+99211,18151,10,Stapler,Modern Stapler (SKU-18151),25.01,3.9,398,data/images/stapler_99211.jpg
+96889,17672,10,Stapler,Ergonomic Stapler (SKU-17672),8.76,4.4,322,data/images/stapler_96889.jpg
+98272,17943,10,Stapler,Minimalist Stapler (SKU-17943),28.41,4.9,58,data/images/stapler_98272.jpg
+98985,18100,10,Stapler,Classic Stapler (SKU-18100),8.54,4.3,279,data/images/stapler_98985.jpg
+93253,16917,10,Stapler,Deluxe Stapler (SKU-16917),15.38,4.3,251,data/images/stapler_93253.jpg
+99727,18279,10,Stapler,Pro Stapler (SKU-18279),10.45,4.5,86,data/images/stapler_99727.jpg
+96065,17486,10,Stapler,Compact Stapler (SKU-17486),28.28,4.6,121,data/images/stapler_96065.jpg
+98837,18065,10,Stapler,Vintage Stapler (SKU-18065),25.62,4.2,153,data/images/stapler_98837.jpg
+97336,17751,10,Stapler,Modern Stapler (SKU-17751),20.5,4.5,495,data/images/stapler_97336.jpg
+94576,17196,10,Stapler,Compact Stapler (SKU-17196),13.2,4.5,438,data/images/stapler_94576.jpg
+94492,17179,10,Stapler,Pro Stapler (SKU-17179),28.43,4.2,628,data/images/stapler_94492.jpg
+95797,17430,10,Stapler,Classic Stapler (SKU-17430),8.41,4.7,836,data/images/stapler_95797.jpg
+94158,17111,10,Stapler,Modern Stapler (SKU-17111),9.92,4.1,385,data/images/stapler_94158.jpg
+97961,17873,10,Stapler,Minimalist Stapler (SKU-17873),15.58,3.8,129,data/images/stapler_97961.jpg
+98556,18001,10,Stapler,Modern Stapler (SKU-18001),14.45,3.8,682,data/images/stapler_98556.jpg
+93233,16912,10,Stapler,Ergonomic Stapler (SKU-16912),21.13,4.5,198,data/images/stapler_93233.jpg
+96265,17526,10,Stapler,Compact Stapler (SKU-17526),14.98,4.7,133,data/images/stapler_96265.jpg
+93520,16978,10,Stapler,Commercial Grade Stapler (SKU-16978),21.18,4.4,740,data/images/stapler_93520.jpg
+100093,18365,10,Stapler,Vintage Stapler (SKU-18365),14.09,4.1,72,data/images/stapler_100093.jpg
+95147,17306,10,Stapler,Compact Stapler (SKU-17306),18.01,4.5,119,data/images/stapler_95147.jpg
+92277,16710,10,Stapler,Classic Stapler (SKU-16710),15.62,4.3,97,data/images/stapler_92277.jpg
+94913,17260,10,Stapler,Classic Stapler (SKU-17260),14.85,4.2,710,data/images/stapler_94913.jpg
+97785,17843,10,Stapler,Minimalist Stapler (SKU-17843),17.73,4.1,224,data/images/stapler_97785.jpg
+94898,17257,10,Stapler,Deluxe Stapler (SKU-17257),29.81,4.4,474,data/images/stapler_94898.jpg
+100226,18405,10,Stapler,Vintage Stapler (SKU-18405),12.08,4.2,506,data/images/stapler_100226.jpg
+93170,16899,10,Stapler,Pro Stapler (SKU-16899),11.62,4.1,198,data/images/stapler_93170.jpg
+97849,17854,10,Stapler,Premium Stapler (SKU-17854),21.08,4.0,668,data/images/stapler_97849.jpg
+92166,16686,10,Stapler,Compact Stapler (SKU-16686),17.86,4.8,593,data/images/stapler_92166.jpg
+98990,18100,10,Stapler,Classic Stapler (SKU-18100),13.42,4.3,87,data/images/stapler_98990.jpg
+94111,17103,10,Stapler,Minimalist Stapler (SKU-17103),24.52,4.6,24,data/images/stapler_94111.jpg
+99557,18240,10,Stapler,Classic Stapler (SKU-18240),11.89,4.1,209,data/images/stapler_99557.jpg
+97877,17858,10,Stapler,Commercial Grade Stapler (SKU-17858),24.65,3.9,285,data/images/stapler_97877.jpg
+96387,17563,10,Stapler,Minimalist Stapler (SKU-17563),18.16,4.8,570,data/images/stapler_96387.jpg
+95628,17396,10,Stapler,Compact Stapler (SKU-17396),17.04,4.2,365,data/images/stapler_95628.jpg
+96275,17530,10,Stapler,Classic Stapler (SKU-17530),15.84,4.6,146,data/images/stapler_96275.jpg
+94886,17255,10,Stapler,Vintage Stapler (SKU-17255),14.9,4.6,143,data/images/stapler_94886.jpg
+98253,17938,10,Stapler,Commercial Grade Stapler (SKU-17938),17.67,4.6,392,data/images/stapler_98253.jpg
+94032,17084,10,Stapler,Premium Stapler (SKU-17084),21.27,4.7,642,data/images/stapler_94032.jpg
+94069,17094,10,Stapler,Premium Stapler (SKU-17094),10.63,4.6,495,data/images/stapler_94069.jpg
+94025,17082,10,Stapler,Ergonomic Stapler (SKU-17082),10.56,4.6,264,data/images/stapler_94025.jpg
+92381,16733,10,Stapler,Minimalist Stapler (SKU-16733),11.01,4.6,39,data/images/stapler_92381.jpg
+92926,16848,10,Stapler,Commercial Grade Stapler (SKU-16848),11.61,3.9,84,data/images/stapler_92926.jpg
+97842,17853,10,Stapler,Minimalist Stapler (SKU-17853),27.84,4.2,317,data/images/stapler_97842.jpg
+95926,17454,10,Stapler,Premium Stapler (SKU-17454),8.32,4.4,675,data/images/stapler_95926.jpg
+97498,17787,10,Stapler,Deluxe Stapler (SKU-17787),26.05,4.4,677,data/images/stapler_97498.jpg
+97424,17772,10,Stapler,Ergonomic Stapler (SKU-17772),23.38,4.3,152,data/images/stapler_97424.jpg
+99432,18212,10,Stapler,Ergonomic Stapler (SKU-18212),15.18,3.8,517,data/images/stapler_99432.jpg
+100091,18364,10,Stapler,Premium Stapler (SKU-18364),13.58,4.7,251,data/images/stapler_100091.jpg
+95388,17353,10,Stapler,Minimalist Stapler (SKU-17353),9.65,4.2,457,data/images/stapler_95388.jpg
+94938,17266,10,Stapler,Compact Stapler (SKU-17266),29.56,4.0,599,data/images/stapler_94938.jpg
+97465,17780,10,Stapler,Classic Stapler (SKU-17780),27.7,4.7,374,data/images/stapler_97465.jpg
+92710,16801,10,Stapler,Modern Stapler (SKU-16801),8.7,4.5,122,data/images/stapler_92710.jpg
+94775,17232,10,Stapler,Ergonomic Stapler (SKU-17232),10.26,4.0,459,data/images/stapler_94775.jpg
+94237,17126,10,Stapler,Compact Stapler (SKU-17126),13.41,4.3,620,data/images/stapler_94237.jpg
+96749,17640,10,Stapler,Classic Stapler (SKU-17640),13.7,4.9,710,data/images/stapler_96749.jpg
+99449,18214,10,Stapler,Premium Stapler (SKU-18214),15.64,3.9,578,data/images/stapler_99449.jpg
+98241,17936,10,Stapler,Compact Stapler (SKU-17936),8.59,4.4,292,data/images/stapler_98241.jpg
+97179,17720,10,Stapler,Classic Stapler (SKU-17720),12.97,4.5,847,data/images/stapler_97179.jpg
+97540,17794,10,Stapler,Premium Stapler (SKU-17794),11.02,4.6,440,data/images/stapler_97540.jpg
+92197,16694,10,Stapler,Premium Stapler (SKU-16694),26.11,4.7,692,data/images/stapler_92197.jpg
+92320,16721,10,Stapler,Modern Stapler (SKU-16721),27.7,4.7,716,data/images/stapler_92320.jpg
+96408,17570,10,Stapler,Classic Stapler (SKU-17570),25.72,4.2,616,data/images/stapler_96408.jpg
+93962,17070,10,Stapler,Classic Stapler (SKU-17070),11.42,4.7,510,data/images/stapler_93962.jpg
+98857,18072,10,Stapler,Ergonomic Stapler (SKU-18072),18.6,4.7,380,data/images/stapler_98857.jpg
+92584,16774,10,Stapler,Premium Stapler (SKU-16774),12.01,4.0,669,data/images/stapler_92584.jpg
+97690,17825,10,Stapler,Vintage Stapler (SKU-17825),26.11,4.2,767,data/images/stapler_97690.jpg
+92069,16668,10,Stapler,Commercial Grade Stapler (SKU-16668),14.06,4.0,74,data/images/stapler_92069.jpg
+97439,17774,10,Stapler,Premium Stapler (SKU-17774),10.6,4.8,831,data/images/stapler_97439.jpg
+93020,16869,10,Stapler,Pro Stapler (SKU-16869),17.25,4.5,829,data/images/stapler_93020.jpg
+92975,16857,10,Stapler,Deluxe Stapler (SKU-16857),18.45,4.2,724,data/images/stapler_92975.jpg
+99025,18106,10,Stapler,Compact Stapler (SKU-18106),22.38,4.5,402,data/images/stapler_99025.jpg
+92714,16803,10,Stapler,Minimalist Stapler (SKU-16803),20.36,4.6,27,data/images/stapler_92714.jpg
+95961,17461,10,Stapler,Modern Stapler (SKU-17461),12.92,4.1,413,data/images/stapler_95961.jpg
+92163,16686,10,Stapler,Compact Stapler (SKU-16686),21.47,4.8,433,data/images/stapler_92163.jpg
+97805,17848,10,Stapler,Commercial Grade Stapler (SKU-17848),9.68,4.2,626,data/images/stapler_97805.jpg
+99946,18332,10,Stapler,Ergonomic Stapler (SKU-18332),22.98,4.8,58,data/images/stapler_99946.jpg
+97656,17816,10,Stapler,Compact Stapler (SKU-17816),25.91,4.5,159,data/images/stapler_97656.jpg
+95904,17450,10,Stapler,Classic Stapler (SKU-17450),27.77,4.9,369,data/images/stapler_95904.jpg
+94564,17195,10,Stapler,Vintage Stapler (SKU-17195),15.8,4.3,840,data/images/stapler_94564.jpg
+97509,17789,10,Stapler,Pro Stapler (SKU-17789),19.82,4.1,477,data/images/stapler_97509.jpg
+92111,16674,10,Stapler,Premium Stapler (SKU-16674),16.69,4.0,201,data/images/stapler_92111.jpg
+96477,17588,10,Stapler,Commercial Grade Stapler (SKU-17588),8.63,4.8,402,data/images/stapler_96477.jpg
+98095,17899,10,Stapler,Pro Stapler (SKU-17899),17.21,4.0,251,data/images/stapler_98095.jpg
+98463,17978,10,Stapler,Commercial Grade Stapler (SKU-17978),23.61,3.9,150,data/images/stapler_98463.jpg
+97646,17813,10,Stapler,Minimalist Stapler (SKU-17813),19.04,4.6,215,data/images/stapler_97646.jpg
+100047,18354,10,Stapler,Premium Stapler (SKU-18354),14.88,4.7,597,data/images/stapler_100047.jpg
+93827,17045,10,Stapler,Vintage Stapler (SKU-17045),28.54,4.8,139,data/images/stapler_93827.jpg
+93031,16872,10,Stapler,Ergonomic Stapler (SKU-16872),21.85,4.2,472,data/images/stapler_93031.jpg
+92590,16775,10,Stapler,Vintage Stapler (SKU-16775),14.92,3.8,747,data/images/stapler_92590.jpg
+92857,16834,10,Stapler,Premium Stapler (SKU-16834),16.75,4.3,396,data/images/stapler_92857.jpg
+98705,18034,10,Stapler,Premium Stapler (SKU-18034),11.21,4.7,648,data/images/stapler_98705.jpg
+94946,17266,10,Stapler,Compact Stapler (SKU-17266),13.21,3.9,107,data/images/stapler_94946.jpg
+94554,17193,10,Stapler,Minimalist Stapler (SKU-17193),28.12,4.1,160,data/images/stapler_94554.jpg
+92923,16847,10,Stapler,Deluxe Stapler (SKU-16847),13.48,4.4,471,data/images/stapler_92923.jpg
+97038,17695,10,Stapler,Vintage Stapler (SKU-17695),14.78,4.4,638,data/images/stapler_97038.jpg
+99578,18244,10,Stapler,Premium Stapler (SKU-18244),27.45,4.4,120,data/images/stapler_99578.jpg
+98080,17897,10,Stapler,Deluxe Stapler (SKU-17897),8.13,4.9,402,data/images/stapler_98080.jpg
+96354,17554,10,Stapler,Premium Stapler (SKU-17554),15.13,4.1,430,data/images/stapler_96354.jpg
+98119,17903,10,Stapler,Minimalist Stapler (SKU-17903),22.75,4.7,548,data/images/stapler_98119.jpg
+92727,16806,10,Stapler,Compact Stapler (SKU-16806),10.9,4.2,773,data/images/stapler_92727.jpg
+92473,16751,10,Stapler,Modern Stapler (SKU-16751),13.84,4.9,529,data/images/stapler_92473.jpg
+92081,16670,10,Stapler,Classic Stapler (SKU-16670),29.94,4.0,284,data/images/stapler_92081.jpg
+99440,18213,10,Stapler,Minimalist Stapler (SKU-18213),23.13,3.9,247,data/images/stapler_99440.jpg
+96915,17676,10,Stapler,Compact Stapler (SKU-17676),12.35,3.9,139,data/images/stapler_96915.jpg
+103546,19135,11,Table,Vintage Table (SKU-19135),170.15,4.1,270,data/images/table_103546.jpg
+100796,18530,11,Table,Classic Table (SKU-18530),420.09,4.7,251,data/images/table_100796.jpg
+108283,20175,11,Table,Vintage Table (SKU-20175),293.54,4.3,600,data/images/table_108283.jpg
+109092,20361,11,Table,Modern Table (SKU-20361),413.26,3.9,328,data/images/table_109092.jpg
+109383,20415,11,Table,Vintage Table (SKU-20415),212.59,4.7,39,data/images/table_109383.jpg
+108181,20152,11,Table,Ergonomic Table (SKU-20152),328.21,4.5,752,data/images/table_108181.jpg
+111049,20736,11,Table,Compact Table (SKU-20736),117.64,4.1,611,data/images/table_111049.jpg
+110956,20718,11,Table,Commercial Grade Table (SKU-20718),390.57,4.9,517,data/images/table_110956.jpg
+104114,19252,11,Table,Ergonomic Table (SKU-19252),185.22,4.1,272,data/images/table_104114.jpg
+103334,19083,11,Table,Minimalist Table (SKU-19083),423.52,4.3,68,data/images/table_103334.jpg
+102029,18806,11,Table,Compact Table (SKU-18806),166.92,4.3,769,data/images/table_102029.jpg
+110710,20675,11,Table,Vintage Table (SKU-20675),231.43,3.8,670,data/images/table_110710.jpg
+106194,19714,11,Table,Premium Table (SKU-19714),94.06,4.7,445,data/images/table_106194.jpg
+102445,18904,11,Table,Premium Table (SKU-18904),179.22,4.6,714,data/images/table_102445.jpg
+108902,20319,11,Table,Pro Table (SKU-20319),233.16,4.9,656,data/images/table_108902.jpg
+103156,19043,11,Table,Minimalist Table (SKU-19043),112.27,4.4,605,data/images/table_103156.jpg
+100826,18536,11,Table,Compact Table (SKU-18536),187.73,4.8,589,data/images/table_100826.jpg
+110898,20705,11,Table,Vintage Table (SKU-20705),108.2,4.3,780,data/images/table_110898.jpg
+109121,20369,11,Table,Pro Table (SKU-20369),148.79,4.0,479,data/images/table_109121.jpg
+107869,20086,11,Table,Compact Table (SKU-20086),171.38,4.7,104,data/images/table_107869.jpg
+100538,18469,11,Table,Pro Table (SKU-18469),124.32,4.3,189,data/images/table_100538.jpg
+101194,18616,11,Table,Compact Table (SKU-18616),403.44,3.9,414,data/images/table_101194.jpg
+103701,19171,11,Table,Modern Table (SKU-19171),209.51,4.5,194,data/images/table_103701.jpg
+107364,19989,11,Table,Pro Table (SKU-19989),267.3,4.3,209,data/images/table_107364.jpg
+108637,20258,11,Table,Commercial Grade Table (SKU-20258),264.37,4.6,450,data/images/table_108637.jpg
+104988,19440,11,Table,Classic Table (SKU-19440),148.08,4.4,78,data/images/table_104988.jpg
+101617,18715,11,Table,Vintage Table (SKU-18715),196.69,4.8,299,data/images/table_101617.jpg
+110802,20692,11,Table,Ergonomic Table (SKU-20692),143.72,4.1,178,data/images/table_110802.jpg
+108837,20303,11,Table,Minimalist Table (SKU-20303),236.77,3.9,160,data/images/table_108837.jpg
+100335,18424,11,Table,Premium Table (SKU-18424),110.39,3.8,59,data/images/table_100335.jpg
+109718,20491,11,Table,Modern Table (SKU-20491),211.5,4.7,441,data/images/table_109718.jpg
+101442,18671,11,Table,Modern Table (SKU-18671),320.93,4.1,548,data/images/table_101442.jpg
+108738,20280,11,Table,Classic Table (SKU-20280),211.42,4.1,757,data/images/table_108738.jpg
+106479,19781,11,Table,Modern Table (SKU-19781),130.0,4.5,130,data/images/table_106479.jpg
+107640,20041,11,Table,Modern Table (SKU-20041),332.05,4.7,23,data/images/table_107640.jpg
+111201,20763,11,Table,Minimalist Table (SKU-20763),286.4,3.9,531,data/images/table_111201.jpg
+108955,20334,11,Table,Premium Table (SKU-20334),146.26,4.6,691,data/images/table_108955.jpg
+100485,18459,11,Table,Pro Table (SKU-18459),119.52,3.8,314,data/images/table_100485.jpg
+100452,18453,11,Table,Minimalist Table (SKU-18453),119.23,4.9,632,data/images/table_100452.jpg
+106296,19738,11,Table,Commercial Grade Table (SKU-19738),271.65,3.9,504,data/images/table_106296.jpg
+101148,18606,11,Table,Compact Table (SKU-18606),375.76,4.5,455,data/images/table_101148.jpg
+102187,18850,11,Table,Classic Table (SKU-18850),272.54,4.5,621,data/images/table_102187.jpg
+105364,19515,11,Table,Vintage Table (SKU-19515),258.36,4.5,152,data/images/table_105364.jpg
+105367,19516,11,Table,Compact Table (SKU-19516),243.89,4.2,799,data/images/table_105367.jpg
+107254,19961,11,Table,Modern Table (SKU-19961),270.25,4.5,437,data/images/table_107254.jpg
+108412,20203,11,Table,Minimalist Table (SKU-20203),426.39,4.6,143,data/images/table_108412.jpg
+110331,20602,11,Table,Ergonomic Table (SKU-20602),136.49,3.9,341,data/images/table_110331.jpg
+104645,19372,11,Table,Ergonomic Table (SKU-19372),95.82,4.7,621,data/images/table_104645.jpg
+108956,20335,11,Table,Vintage Table (SKU-20335),259.53,4.3,335,data/images/table_108956.jpg
+110530,20636,11,Table,Compact Table (SKU-20636),324.74,4.7,725,data/images/table_110530.jpg
+105002,19445,11,Table,Vintage Table (SKU-19445),181.08,4.8,122,data/images/table_105002.jpg
+109228,20387,11,Table,Deluxe Table (SKU-20387),111.95,4.1,832,data/images/table_109228.jpg
+100383,18435,11,Table,Vintage Table (SKU-18435),332.57,4.7,26,data/images/table_100383.jpg
+107940,20099,11,Table,Pro Table (SKU-20099),144.63,4.8,196,data/images/table_107940.jpg
+101287,18635,11,Table,Vintage Table (SKU-18635),307.12,4.6,330,data/images/table_101287.jpg
+108090,20133,11,Table,Minimalist Table (SKU-20133),90.47,4.2,810,data/images/table_108090.jpg
+103548,19135,11,Table,Vintage Table (SKU-19135),366.68,4.0,458,data/images/table_103548.jpg
+101391,18657,11,Table,Deluxe Table (SKU-18657),429.49,4.2,375,data/images/table_101391.jpg
+107431,20003,11,Table,Minimalist Table (SKU-20003),324.79,4.1,260,data/images/table_107431.jpg
+103533,19131,11,Table,Modern Table (SKU-19131),137.14,4.5,482,data/images/table_103533.jpg
+106634,19822,11,Table,Ergonomic Table (SKU-19822),342.49,3.9,350,data/images/table_106634.jpg
+107787,20070,11,Table,Classic Table (SKU-20070),212.86,4.3,336,data/images/table_107787.jpg
+103524,19129,11,Table,Pro Table (SKU-19129),238.08,3.9,215,data/images/table_103524.jpg
+110373,20610,11,Table,Classic Table (SKU-20610),314.17,4.7,702,data/images/table_110373.jpg
+110427,20617,11,Table,Deluxe Table (SKU-20617),100.02,4.5,335,data/images/table_110427.jpg
+108258,20169,11,Table,Pro Table (SKU-20169),332.21,4.6,400,data/images/table_108258.jpg
+105612,19584,11,Table,Premium Table (SKU-19584),328.97,4.9,299,data/images/table_105612.jpg
+100717,18512,11,Table,Ergonomic Table (SKU-18512),380.14,4.5,354,data/images/table_100717.jpg
+101735,18742,11,Table,Ergonomic Table (SKU-18742),293.0,4.4,636,data/images/table_101735.jpg
+103913,19216,11,Table,Compact Table (SKU-19216),122.35,4.5,688,data/images/table_103913.jpg
+107119,19927,11,Table,Deluxe Table (SKU-19927),420.21,4.2,468,data/images/table_107119.jpg
+108751,20282,11,Table,Ergonomic Table (SKU-20282),347.29,4.1,220,data/images/table_108751.jpg
+108982,20340,11,Table,Classic Table (SKU-20340),372.51,4.9,454,data/images/table_108982.jpg
+111109,20746,11,Table,Compact Table (SKU-20746),375.18,4.5,178,data/images/table_111109.jpg
+106248,19726,11,Table,Compact Table (SKU-19726),311.2,4.4,677,data/images/table_106248.jpg
+101746,18745,11,Table,Vintage Table (SKU-18745),90.39,4.1,713,data/images/table_101746.jpg
+105708,19604,11,Table,Premium Table (SKU-19604),422.73,4.2,769,data/images/table_105708.jpg
+100632,18490,11,Table,Classic Table (SKU-18490),303.64,3.8,724,data/images/table_100632.jpg
+107858,20084,11,Table,Premium Table (SKU-20084),336.46,4.8,613,data/images/table_107858.jpg
+104007,19233,11,Table,Minimalist Table (SKU-19233),290.36,4.2,814,data/images/table_104007.jpg
+100820,18535,11,Table,Vintage Table (SKU-18535),382.83,4.8,324,data/images/table_100820.jpg
+110413,20614,11,Table,Premium Table (SKU-20614),420.61,4.5,123,data/images/table_110413.jpg
+110766,20687,11,Table,Deluxe Table (SKU-20687),411.93,4.5,782,data/images/table_110766.jpg
+110836,20697,11,Table,Deluxe Table (SKU-20697),370.73,3.9,259,data/images/table_110836.jpg
+104547,19342,11,Table,Ergonomic Table (SKU-19342),346.36,4.2,97,data/images/table_104547.jpg
+102433,18900,11,Table,Classic Table (SKU-18900),143.35,3.9,814,data/images/table_102433.jpg
+110206,20582,11,Table,Ergonomic Table (SKU-20582),396.4,4.9,305,data/images/table_110206.jpg
+104462,19325,11,Table,Vintage Table (SKU-19325),413.55,4.4,525,data/images/table_104462.jpg
+108055,20128,11,Table,Commercial Grade Table (SKU-20128),287.58,4.2,522,data/images/table_108055.jpg
+102816,18978,11,Table,Commercial Grade Table (SKU-18978),171.25,4.2,655,data/images/table_102816.jpg
+103987,19228,11,Table,Commercial Grade Table (SKU-19228),203.36,3.9,601,data/images/table_103987.jpg
+105632,19589,11,Table,Pro Table (SKU-19589),388.69,4.9,68,data/images/table_105632.jpg
+107779,20070,11,Table,Classic Table (SKU-20070),404.49,4.9,572,data/images/table_107779.jpg
+102751,18964,11,Table,Premium Table (SKU-18964),256.96,4.2,451,data/images/table_102751.jpg
+101352,18650,11,Table,Classic Table (SKU-18650),200.06,4.2,340,data/images/table_101352.jpg
+106674,19831,11,Table,Modern Table (SKU-19831),303.22,4.6,687,data/images/table_106674.jpg
+111255,20775,11,Table,Vintage Table (SKU-20775),317.65,3.9,489,data/images/table_111255.jpg
+110629,20657,11,Table,Deluxe Table (SKU-20657),133.03,4.4,290,data/images/table_110629.jpg
+107636,20041,11,Table,Modern Table (SKU-20041),361.24,4.8,801,data/images/table_107636.jpg
+101692,18733,11,Table,Minimalist Table (SKU-18733),352.88,4.5,667,data/images/table_101692.jpg
+107225,19953,11,Table,Minimalist Table (SKU-19953),332.52,4.6,490,data/images/table_107225.jpg
+100537,18469,11,Table,Pro Table (SKU-18469),249.48,4.5,57,data/images/table_100537.jpg
+109658,20476,11,Table,Compact Table (SKU-20476),160.64,3.9,824,data/images/table_109658.jpg
+109478,20439,11,Table,Pro Table (SKU-20439),278.47,4.1,313,data/images/table_109478.jpg
+109334,20404,11,Table,Premium Table (SKU-20404),190.01,4.6,454,data/images/table_109334.jpg
+102623,18940,11,Table,Classic Table (SKU-18940),110.52,3.9,794,data/images/table_102623.jpg
+101884,18780,11,Table,Classic Table (SKU-18780),260.69,3.9,793,data/images/table_101884.jpg
+103563,19137,11,Table,Deluxe Table (SKU-19137),319.59,4.7,820,data/images/table_103563.jpg
+101829,18765,11,Table,Vintage Table (SKU-18765),278.35,4.1,756,data/images/table_101829.jpg
+109036,20351,11,Table,Modern Table (SKU-20351),325.05,4.0,246,data/images/table_109036.jpg
+110256,20591,11,Table,Modern Table (SKU-20591),286.11,3.9,390,data/images/table_110256.jpg
+100267,18413,11,Table,Minimalist Table (SKU-18413),116.86,4.8,338,data/images/table_100267.jpg
+104952,19434,11,Table,Premium Table (SKU-19434),158.37,4.6,666,data/images/table_104952.jpg
+109235,20387,11,Table,Deluxe Table (SKU-20387),219.09,4.8,60,data/images/table_109235.jpg
+107599,20032,11,Table,Ergonomic Table (SKU-20032),353.65,4.8,283,data/images/table_107599.jpg
+102362,18887,11,Table,Deluxe Table (SKU-18887),365.94,4.6,130,data/images/table_102362.jpg
+103890,19213,11,Table,Minimalist Table (SKU-19213),333.23,4.2,319,data/images/table_103890.jpg
+107031,19913,11,Table,Minimalist Table (SKU-19913),333.39,4.1,362,data/images/table_107031.jpg
+109195,20380,11,Table,Classic Table (SKU-20380),426.49,4.1,805,data/images/table_109195.jpg
+107742,20064,11,Table,Premium Table (SKU-20064),204.46,4.4,327,data/images/table_107742.jpg
+104197,19268,11,Table,Commercial Grade Table (SKU-19268),226.01,3.9,481,data/images/table_104197.jpg
+103883,19211,11,Table,Modern Table (SKU-19211),117.61,4.0,561,data/images/table_103883.jpg
+108416,20204,11,Table,Premium Table (SKU-20204),326.91,4.9,734,data/images/table_108416.jpg
+109736,20496,11,Table,Compact Table (SKU-20496),131.08,4.8,699,data/images/table_109736.jpg
+109308,20401,11,Table,Modern Table (SKU-20401),131.44,4.8,372,data/images/table_109308.jpg
+105081,19455,11,Table,Vintage Table (SKU-19455),229.41,4.5,590,data/images/table_105081.jpg
+100580,18480,11,Table,Classic Table (SKU-18480),254.67,4.2,334,data/images/table_100580.jpg
+103939,19220,11,Table,Classic Table (SKU-19220),382.93,4.8,292,data/images/table_103939.jpg
+109605,20467,11,Table,Deluxe Table (SKU-20467),138.72,4.0,344,data/images/table_109605.jpg
+103382,19094,11,Table,Premium Table (SKU-19094),261.86,4.5,395,data/images/table_103382.jpg
+104170,19261,11,Table,Modern Table (SKU-19261),130.03,4.8,687,data/images/table_104170.jpg
+103478,19119,11,Table,Pro Table (SKU-19119),135.65,4.2,530,data/images/table_103478.jpg
+106034,19674,11,Table,Premium Table (SKU-19674),354.36,4.0,744,data/images/table_106034.jpg
+110921,20709,11,Table,Pro Table (SKU-20709),167.36,3.8,192,data/images/table_110921.jpg
+110248,20588,11,Table,Commercial Grade Table (SKU-20588),403.88,4.4,779,data/images/table_110248.jpg
+108293,20176,11,Table,Compact Table (SKU-20176),181.52,4.1,770,data/images/table_108293.jpg
+111083,20742,11,Table,Ergonomic Table (SKU-20742),118.53,4.4,391,data/images/table_111083.jpg
+103190,19052,11,Table,Ergonomic Table (SKU-19052),232.66,4.1,542,data/images/table_103190.jpg
+101607,18712,11,Table,Ergonomic Table (SKU-18712),291.0,4.8,45,data/images/table_101607.jpg
+102885,18990,11,Table,Classic Table (SKU-18990),304.43,3.9,318,data/images/table_102885.jpg
+103415,19104,11,Table,Premium Table (SKU-19104),204.87,4.3,503,data/images/table_103415.jpg
+105268,19494,11,Table,Premium Table (SKU-19494),388.23,3.9,217,data/images/table_105268.jpg
+103302,19076,11,Table,Compact Table (SKU-19076),374.9,4.8,818,data/images/table_103302.jpg
+111248,20772,11,Table,Ergonomic Table (SKU-20772),372.04,4.1,469,data/images/table_111248.jpg
+108816,20299,11,Table,Pro Table (SKU-20299),334.25,4.2,613,data/images/table_108816.jpg
+101813,18763,11,Table,Minimalist Table (SKU-18763),207.24,4.2,58,data/images/table_101813.jpg
+103303,19077,11,Table,Deluxe Table (SKU-19077),104.49,4.2,115,data/images/table_103303.jpg
+110060,20555,11,Table,Vintage Table (SKU-20555),242.15,4.9,556,data/images/table_110060.jpg
+101974,18795,11,Table,Vintage Table (SKU-18795),332.0,4.3,243,data/images/table_101974.jpg
+109288,20396,11,Table,Compact Table (SKU-20396),372.92,4.5,437,data/images/table_109288.jpg
+117484,22089,12,Toaster,Pro Toaster (SKU-22089),78.94,3.9,773,data/images/toaster_117484.jpg
+112748,21131,12,Toaster,Modern Toaster (SKU-21131),33.59,4.4,131,data/images/toaster_112748.jpg
+113276,21240,12,Toaster,Classic Toaster (SKU-21240),46.38,4.5,186,data/images/toaster_113276.jpg
+118206,22239,12,Toaster,Pro Toaster (SKU-22239),23.26,4.5,697,data/images/toaster_118206.jpg
+113645,21320,12,Toaster,Classic Toaster (SKU-21320),47.55,4.6,200,data/images/toaster_113645.jpg
+113063,21201,12,Toaster,Modern Toaster (SKU-21201),46.54,3.9,392,data/images/toaster_113063.jpg
+111795,20906,12,Toaster,Compact Toaster (SKU-20906),46.46,4.0,210,data/images/toaster_111795.jpg
+117376,22069,12,Toaster,Pro Toaster (SKU-22069),41.18,4.7,36,data/images/toaster_117376.jpg
+118437,22290,12,Toaster,Classic Toaster (SKU-22290),33.08,4.8,440,data/images/toaster_118437.jpg
+115713,21721,12,Toaster,Modern Toaster (SKU-21721),67.05,4.5,581,data/images/toaster_115713.jpg
+116064,21803,12,Toaster,Minimalist Toaster (SKU-21803),34.83,4.8,693,data/images/toaster_116064.jpg
+116238,21844,12,Toaster,Premium Toaster (SKU-21844),56.3,4.0,645,data/images/toaster_116238.jpg
+116813,21974,12,Toaster,Premium Toaster (SKU-21974),48.69,3.8,676,data/images/toaster_116813.jpg
+118821,22371,12,Toaster,Modern Toaster (SKU-22371),23.57,4.5,568,data/images/toaster_118821.jpg
+114799,21530,12,Toaster,Classic Toaster (SKU-21530),36.99,4.7,265,data/images/toaster_114799.jpg
+118137,22226,12,Toaster,Compact Toaster (SKU-22226),59.98,3.9,137,data/images/toaster_118137.jpg
+111896,20932,12,Toaster,Ergonomic Toaster (SKU-20932),29.79,4.0,362,data/images/toaster_111896.jpg
+116037,21799,12,Toaster,Pro Toaster (SKU-21799),34.64,4.5,410,data/images/toaster_116037.jpg
+113399,21268,12,Toaster,Commercial Grade Toaster (SKU-21268),43.86,4.4,161,data/images/toaster_113399.jpg
+114440,21464,12,Toaster,Premium Toaster (SKU-21464),73.0,4.1,136,data/images/toaster_114440.jpg
+114353,21447,12,Toaster,Deluxe Toaster (SKU-21447),28.71,4.4,611,data/images/toaster_114353.jpg
+114012,21384,12,Toaster,Premium Toaster (SKU-21384),21.54,4.4,30,data/images/toaster_114012.jpg
+117914,22179,12,Toaster,Pro Toaster (SKU-22179),53.95,4.8,842,data/images/toaster_117914.jpg
+112711,21124,12,Toaster,Premium Toaster (SKU-21124),35.48,3.9,341,data/images/toaster_112711.jpg
+113646,21320,12,Toaster,Classic Toaster (SKU-21320),25.87,3.8,439,data/images/toaster_113646.jpg
+114408,21457,12,Toaster,Deluxe Toaster (SKU-21457),74.16,4.4,442,data/images/toaster_114408.jpg
+116588,21932,12,Toaster,Ergonomic Toaster (SKU-21932),22.73,4.8,636,data/images/toaster_116588.jpg
+113563,21304,12,Toaster,Premium Toaster (SKU-21304),47.25,4.3,320,data/images/toaster_113563.jpg
+119940,22609,12,Toaster,Pro Toaster (SKU-22609),30.18,3.9,680,data/images/toaster_119940.jpg
+114981,21572,12,Toaster,Ergonomic Toaster (SKU-21572),65.4,4.5,434,data/images/toaster_114981.jpg
+111564,20846,12,Toaster,Compact Toaster (SKU-20846),41.48,4.9,441,data/images/toaster_111564.jpg
+113071,21204,12,Toaster,Premium Toaster (SKU-21204),22.81,4.8,569,data/images/toaster_113071.jpg
+117967,22191,12,Toaster,Modern Toaster (SKU-22191),53.27,3.9,458,data/images/toaster_117967.jpg
+118696,22348,12,Toaster,Commercial Grade Toaster (SKU-22348),30.18,3.9,70,data/images/toaster_118696.jpg
+113506,21293,12,Toaster,Minimalist Toaster (SKU-21293),44.64,4.3,246,data/images/toaster_113506.jpg
+115507,21681,12,Toaster,Modern Toaster (SKU-21681),59.17,4.4,82,data/images/toaster_115507.jpg
+118380,22279,12,Toaster,Pro Toaster (SKU-22279),30.61,3.9,337,data/images/toaster_118380.jpg
+113436,21274,12,Toaster,Premium Toaster (SKU-21274),78.06,4.4,806,data/images/toaster_113436.jpg
+114766,21524,12,Toaster,Premium Toaster (SKU-21524),38.91,4.2,283,data/images/toaster_114766.jpg
+111356,20802,12,Toaster,Ergonomic Toaster (SKU-20802),30.16,3.9,381,data/images/toaster_111356.jpg
+115464,21670,12,Toaster,Classic Toaster (SKU-21670),32.46,4.4,827,data/images/toaster_115464.jpg
+111663,20872,12,Toaster,Ergonomic Toaster (SKU-20872),48.5,4.8,509,data/images/toaster_111663.jpg
+117156,22030,12,Toaster,Classic Toaster (SKU-22030),46.21,4.5,453,data/images/toaster_117156.jpg
+111838,20914,12,Toaster,Premium Toaster (SKU-20914),66.94,4.9,323,data/images/toaster_111838.jpg
+118590,22326,12,Toaster,Compact Toaster (SKU-22326),61.23,4.9,571,data/images/toaster_118590.jpg
+115045,21591,12,Toaster,Modern Toaster (SKU-21591),33.47,4.2,577,data/images/toaster_115045.jpg
+117740,22139,12,Toaster,Pro Toaster (SKU-22139),64.37,4.5,454,data/images/toaster_117740.jpg
+115746,21731,12,Toaster,Modern Toaster (SKU-21731),67.94,4.2,453,data/images/toaster_115746.jpg
+113859,21359,12,Toaster,Pro Toaster (SKU-21359),36.35,4.6,303,data/images/toaster_113859.jpg
+119237,22466,12,Toaster,Compact Toaster (SKU-22466),69.95,4.7,267,data/images/toaster_119237.jpg
+119039,22418,12,Toaster,Commercial Grade Toaster (SKU-22418),30.86,4.9,625,data/images/toaster_119039.jpg
+117777,22151,12,Toaster,Modern Toaster (SKU-22151),28.39,4.3,606,data/images/toaster_117777.jpg
+115087,21601,12,Toaster,Modern Toaster (SKU-21601),60.54,4.5,324,data/images/toaster_115087.jpg
+118382,22279,12,Toaster,Pro Toaster (SKU-22279),23.54,4.5,433,data/images/toaster_118382.jpg
+115581,21695,12,Toaster,Vintage Toaster (SKU-21695),43.75,3.9,250,data/images/toaster_115581.jpg
+119195,22453,12,Toaster,Minimalist Toaster (SKU-22453),63.8,4.4,808,data/images/toaster_119195.jpg
+114026,21387,12,Toaster,Deluxe Toaster (SKU-21387),74.41,4.9,79,data/images/toaster_114026.jpg
+111695,20879,12,Toaster,Pro Toaster (SKU-20879),41.25,4.1,357,data/images/toaster_111695.jpg
+112691,21121,12,Toaster,Modern Toaster (SKU-21121),49.02,4.3,172,data/images/toaster_112691.jpg
+117158,22030,12,Toaster,Classic Toaster (SKU-22030),76.31,4.2,477,data/images/toaster_117158.jpg
+118561,22321,12,Toaster,Modern Toaster (SKU-22321),29.68,4.3,827,data/images/toaster_118561.jpg
+118136,22225,12,Toaster,Vintage Toaster (SKU-22225),33.47,3.9,317,data/images/toaster_118136.jpg
+118345,22272,12,Toaster,Ergonomic Toaster (SKU-22272),21.5,4.2,64,data/images/toaster_118345.jpg
+112084,20986,12,Toaster,Compact Toaster (SKU-20986),22.59,4.6,361,data/images/toaster_112084.jpg
+113914,21367,12,Toaster,Deluxe Toaster (SKU-21367),61.69,4.4,813,data/images/toaster_113914.jpg
+112017,20964,12,Toaster,Premium Toaster (SKU-20964),31.74,4.4,827,data/images/toaster_112017.jpg
+118031,22206,12,Toaster,Compact Toaster (SKU-22206),49.28,3.9,115,data/images/toaster_118031.jpg
+116106,21815,12,Toaster,Vintage Toaster (SKU-21815),74.71,3.9,42,data/images/toaster_116106.jpg
+115355,21646,12,Toaster,Compact Toaster (SKU-21646),50.81,4.1,512,data/images/toaster_115355.jpg
+116136,21822,12,Toaster,Ergonomic Toaster (SKU-21822),44.92,4.8,564,data/images/toaster_116136.jpg
+118985,22406,12,Toaster,Compact Toaster (SKU-22406),25.47,4.2,848,data/images/toaster_118985.jpg
+111563,20846,12,Toaster,Compact Toaster (SKU-20846),76.48,4.0,369,data/images/toaster_111563.jpg
+111422,20817,12,Toaster,Deluxe Toaster (SKU-20817),23.64,3.8,255,data/images/toaster_111422.jpg
+112517,21084,12,Toaster,Premium Toaster (SKU-21084),41.69,3.9,49,data/images/toaster_112517.jpg
+118805,22368,12,Toaster,Commercial Grade Toaster (SKU-22368),73.78,4.0,443,data/images/toaster_118805.jpg
+113663,21324,12,Toaster,Premium Toaster (SKU-21324),49.66,3.9,496,data/images/toaster_113663.jpg
+117900,22177,12,Toaster,Deluxe Toaster (SKU-22177),73.43,4.5,737,data/images/toaster_117900.jpg
+113806,21348,12,Toaster,Commercial Grade Toaster (SKU-21348),56.69,4.1,655,data/images/toaster_113806.jpg
+118596,22327,12,Toaster,Deluxe Toaster (SKU-22327),39.64,4.0,762,data/images/toaster_118596.jpg
+113313,21246,12,Toaster,Compact Toaster (SKU-21246),67.43,4.2,359,data/images/toaster_113313.jpg
+119106,22432,12,Toaster,Ergonomic Toaster (SKU-22432),53.3,4.4,648,data/images/toaster_119106.jpg
+113552,21302,12,Toaster,Ergonomic Toaster (SKU-21302),24.03,4.7,505,data/images/toaster_113552.jpg
+112639,21110,12,Toaster,Classic Toaster (SKU-21110),25.26,4.0,556,data/images/toaster_112639.jpg
+118376,22279,12,Toaster,Pro Toaster (SKU-22279),62.88,4.4,614,data/images/toaster_118376.jpg
+113928,21370,12,Toaster,Classic Toaster (SKU-21370),44.01,4.7,29,data/images/toaster_113928.jpg
+115065,21595,12,Toaster,Vintage Toaster (SKU-21595),43.24,4.7,635,data/images/toaster_115065.jpg
+116616,21935,12,Toaster,Vintage Toaster (SKU-21935),67.91,4.8,286,data/images/toaster_116616.jpg
+116786,21968,12,Toaster,Commercial Grade Toaster (SKU-21968),39.96,4.4,83,data/images/toaster_116786.jpg
+119153,22444,12,Toaster,Premium Toaster (SKU-22444),47.5,4.4,672,data/images/toaster_119153.jpg
+112900,21156,12,Toaster,Compact Toaster (SKU-21156),73.14,4.7,786,data/images/toaster_112900.jpg
+113990,21381,12,Toaster,Modern Toaster (SKU-21381),79.81,4.6,109,data/images/toaster_113990.jpg
+117895,22175,12,Toaster,Vintage Toaster (SKU-22175),27.97,4.5,205,data/images/toaster_117895.jpg
+118477,22298,12,Toaster,Commercial Grade Toaster (SKU-22298),33.85,4.8,131,data/images/toaster_118477.jpg
+116576,21929,12,Toaster,Pro Toaster (SKU-21929),20.05,4.8,312,data/images/toaster_116576.jpg
+114599,21497,12,Toaster,Deluxe Toaster (SKU-21497),71.54,4.4,282,data/images/toaster_114599.jpg
+111771,20898,12,Toaster,Commercial Grade Toaster (SKU-20898),41.38,4.8,87,data/images/toaster_111771.jpg
+118778,22364,12,Toaster,Premium Toaster (SKU-22364),65.59,4.1,838,data/images/toaster_118778.jpg
+112854,21148,12,Toaster,Commercial Grade Toaster (SKU-21148),75.89,4.5,846,data/images/toaster_112854.jpg
+114643,21503,12,Toaster,Minimalist Toaster (SKU-21503),58.73,4.8,220,data/images/toaster_114643.jpg
+114392,21455,12,Toaster,Vintage Toaster (SKU-21455),42.43,4.8,749,data/images/toaster_114392.jpg
+116776,21966,12,Toaster,Compact Toaster (SKU-21966),61.49,4.9,762,data/images/toaster_116776.jpg
+120002,22622,12,Toaster,Ergonomic Toaster (SKU-22622),23.26,4.0,679,data/images/toaster_120002.jpg
+113679,21326,12,Toaster,Compact Toaster (SKU-21326),63.75,4.4,120,data/images/toaster_113679.jpg
+116439,21897,12,Toaster,Deluxe Toaster (SKU-21897),63.56,4.2,113,data/images/toaster_116439.jpg
+112568,21095,12,Toaster,Vintage Toaster (SKU-21095),45.64,4.5,206,data/images/toaster_112568.jpg
+119199,22454,12,Toaster,Premium Toaster (SKU-22454),58.15,4.2,481,data/images/toaster_119199.jpg
+111943,20946,12,Toaster,Compact Toaster (SKU-20946),51.39,4.8,398,data/images/toaster_111943.jpg
+117412,22074,12,Toaster,Premium Toaster (SKU-22074),74.55,4.2,231,data/images/toaster_117412.jpg
+117513,22095,12,Toaster,Vintage Toaster (SKU-22095),39.41,4.6,284,data/images/toaster_117513.jpg
+112855,21148,12,Toaster,Commercial Grade Toaster (SKU-21148),30.96,4.9,533,data/images/toaster_112855.jpg
+115423,21658,12,Toaster,Commercial Grade Toaster (SKU-21658),21.52,4.7,158,data/images/toaster_115423.jpg
+113060,21201,12,Toaster,Modern Toaster (SKU-21201),49.16,3.9,598,data/images/toaster_113060.jpg
+118838,22373,12,Toaster,Minimalist Toaster (SKU-22373),24.93,4.5,609,data/images/toaster_118838.jpg
+119788,22571,12,Toaster,Modern Toaster (SKU-22571),72.52,4.1,21,data/images/toaster_119788.jpg
+114654,21505,12,Toaster,Vintage Toaster (SKU-21505),71.42,4.6,532,data/images/toaster_114654.jpg
+116081,21808,12,Toaster,Commercial Grade Toaster (SKU-21808),61.41,4.8,299,data/images/toaster_116081.jpg
+114112,21400,12,Toaster,Classic Toaster (SKU-21400),39.68,3.9,700,data/images/toaster_114112.jpg
+116104,21815,12,Toaster,Vintage Toaster (SKU-21815),58.73,4.4,129,data/images/toaster_116104.jpg
+111581,20850,12,Toaster,Classic Toaster (SKU-20850),38.35,3.9,89,data/images/toaster_111581.jpg
+113541,21300,12,Toaster,Classic Toaster (SKU-21300),71.68,4.0,616,data/images/toaster_113541.jpg
+112410,21055,12,Toaster,Vintage Toaster (SKU-21055),25.05,4.6,236,data/images/toaster_112410.jpg
+116925,21995,12,Toaster,Vintage Toaster (SKU-21995),76.6,4.8,126,data/images/toaster_116925.jpg
+112347,21035,12,Toaster,Vintage Toaster (SKU-21035),38.77,4.7,635,data/images/toaster_112347.jpg
+114912,21553,12,Toaster,Minimalist Toaster (SKU-21553),62.29,4.6,326,data/images/toaster_114912.jpg
+113344,21251,12,Toaster,Modern Toaster (SKU-21251),58.8,4.5,401,data/images/toaster_113344.jpg
+112676,21118,12,Toaster,Commercial Grade Toaster (SKU-21118),30.12,3.9,297,data/images/toaster_112676.jpg
+112078,20984,12,Toaster,Premium Toaster (SKU-20984),77.56,4.0,186,data/images/toaster_112078.jpg
+116169,21829,12,Toaster,Pro Toaster (SKU-21829),31.66,4.7,312,data/images/toaster_116169.jpg
+115717,21723,12,Toaster,Minimalist Toaster (SKU-21723),52.92,4.0,498,data/images/toaster_115717.jpg
+115714,21721,12,Toaster,Modern Toaster (SKU-21721),54.66,4.1,223,data/images/toaster_115714.jpg
+119957,22612,12,Toaster,Ergonomic Toaster (SKU-22612),47.64,4.7,238,data/images/toaster_119957.jpg
+112010,20963,12,Toaster,Minimalist Toaster (SKU-20963),75.94,4.8,625,data/images/toaster_112010.jpg
+119205,22456,12,Toaster,Compact Toaster (SKU-22456),70.32,4.5,267,data/images/toaster_119205.jpg
+112417,21056,12,Toaster,Compact Toaster (SKU-21056),75.32,4.0,38,data/images/toaster_112417.jpg
+112170,21004,12,Toaster,Premium Toaster (SKU-21004),28.34,4.5,516,data/images/toaster_112170.jpg
+118047,22210,12,Toaster,Classic Toaster (SKU-22210),73.17,3.9,596,data/images/toaster_118047.jpg
+119389,22497,12,Toaster,Deluxe Toaster (SKU-22497),40.98,4.7,261,data/images/toaster_119389.jpg
+117780,22152,12,Toaster,Ergonomic Toaster (SKU-22152),36.22,4.1,573,data/images/toaster_117780.jpg
+112763,21133,12,Toaster,Minimalist Toaster (SKU-21133),71.8,3.9,502,data/images/toaster_112763.jpg
+117546,22101,12,Toaster,Modern Toaster (SKU-22101),43.58,4.0,236,data/images/toaster_117546.jpg
+117356,22062,12,Toaster,Ergonomic Toaster (SKU-22062),74.68,4.0,560,data/images/toaster_117356.jpg
+112903,21156,12,Toaster,Compact Toaster (SKU-21156),42.14,4.2,363,data/images/toaster_112903.jpg
+119797,22573,12,Toaster,Minimalist Toaster (SKU-22573),51.22,4.3,491,data/images/toaster_119797.jpg
+114754,21522,12,Toaster,Ergonomic Toaster (SKU-21522),21.99,3.9,564,data/images/toaster_114754.jpg
+112105,20990,12,Toaster,Classic Toaster (SKU-20990),23.78,4.2,400,data/images/toaster_112105.jpg
+114255,21428,12,Toaster,Commercial Grade Toaster (SKU-21428),24.39,4.5,582,data/images/toaster_114255.jpg
+113294,21242,12,Toaster,Ergonomic Toaster (SKU-21242),51.79,4.3,459,data/images/toaster_113294.jpg
+116339,21871,12,Toaster,Modern Toaster (SKU-21871),67.09,4.0,798,data/images/toaster_116339.jpg
+117720,22136,12,Toaster,Compact Toaster (SKU-22136),71.18,4.5,287,data/images/toaster_117720.jpg
+117674,22126,12,Toaster,Compact Toaster (SKU-22126),36.6,3.9,146,data/images/toaster_117674.jpg
